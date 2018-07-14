@@ -8,7 +8,7 @@ mkdir -p output/include
 
 dig_tld () {
   /usr/bin/dig +onesoa +nocomments +nocmd +nostats AXFR $1 @$2 > output/$1.zone
-  sed '/NSEC\|RRSIG\|DNSKEY\|SOA\|^$1\./d' < output/$1.zone > output/include/$1.zone
+  sed "/NSEC\|RRSIG\|DNSKEY\|SOA\|^$1\./d" < output/$1.zone > output/include/$1.zone
 }
 
 dig_tld bbs 207.192.71.13
