@@ -39,6 +39,8 @@ Replace `vX.X` with the following numbering scheme:
 - **Major:** Currently `1`, only increase this value if a **new** zone has been added since the previous tag, or a zone that existed in the previous tag has been deleted.
 - **Minor:** Increase this value by 1 on every new commit. Resets to `0` after a Major version change.
 
+Note that Git does not automatically push tags from your local repository. Use `git push origin master --tags` to add tags publicly.
+
 ## Verifying tags
 
 `git tag -v vX.X` will show information about a tag. For example:
