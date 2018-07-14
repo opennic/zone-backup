@@ -1,12 +1,3 @@
-o.			86400	IN	NS	ns10.opennic.glue.
-o.			3600	IN	NS	ns11.opennic.glue.
-o.			86400	IN	NS	ns12.opennic.glue.
-o.			86400	IN	NS	ns2.opennic.glue.
-o.			86400	IN	NS	ns3.opennic.glue.
-o.			86400	IN	NS	ns4.opennic.glue.
-o.			86400	IN	NS	ns5.opennic.glue.
-o.			86400	IN	NS	ns8.opennic.glue.
-o.			86400	IN	NS	ns9.opennic.glue.
 0.o.			3600	IN	NS	a.nameservers.o.
 0.o.			3600	IN	NS	b.nameservers.o.
 00.o.			3600	IN	NS	a.nameservers.o.
@@ -660,8 +651,6 @@ govn.o.			3600	IN	NS	a.nameservers.o.
 govn.o.			3600	IN	NS	b.nameservers.o.
 dyn.o.			3600	IN	NS	a.nameservers.o.
 dyn.o.			3600	IN	NS	b.nameservers.o.
-o.o.			3600	IN	NS	a.nameservers.o.
-o.o.			3600	IN	NS	b.nameservers.o.
 co.o.			3600	IN	NS	a.nameservers.o.
 co.o.			3600	IN	NS	b.nameservers.o.
 curico.o.		3600	IN	NS	a.nameservers.o.

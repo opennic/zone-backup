@@ -1,12 +1,3 @@
-bbs.			86400	IN	NS	ns2.opennic.glue.
-bbs.			86400	IN	NS	ns3.opennic.glue.
-bbs.			86400	IN	NS	ns4.opennic.glue.
-bbs.			86400	IN	NS	ns5.opennic.glue.
-bbs.			86400	IN	NS	ns6.opennic.glue.
-bbs.			86400	IN	NS	ns7.opennic.glue.
-bbs.			86400	IN	NS	ns8.opennic.glue.
-bbs.			86400	IN	NS	ns10.opennic.glue.
-bbs.			86400	IN	TXT	"Bulletin Board System"
 1984.bbs.		86400	IN	A	64.150.165.47
 2400baud.bbs.		86400	IN	CNAME	triton.2400baud.net.
 allmystery.bbs.		86400	IN	A	188.40.33.215

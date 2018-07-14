@@ -1,12 +1,3 @@
-parody.			86400	IN	NS	ns2.opennic.glue.
-parody.			86400	IN	NS	ns3.opennic.glue.
-parody.			86400	IN	NS	ns5.opennic.glue.
-parody.			86400	IN	NS	ns6.opennic.glue.
-parody.			86400	IN	NS	ns8.opennic.glue.
-parody.			86400	IN	NS	ns9.opennic.glue.
-parody.			86400	IN	NS	ns10.opennic.glue.
-parody.			86400	IN	NS	ns11.opennic.glue.
-parody.			86400	IN	A	173.160.58.202
 crumax.parody.		86400	IN	A	127.0.0.1
 ns0.dns.parody.		86400	IN	A	161.97.219.84
 ns0.dns.parody.		86400	IN	AAAA	2001:470:4212:1::254

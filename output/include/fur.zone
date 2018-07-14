@@ -1,12 +1,3 @@
-fur.			300	IN	TXT	"test=1375673070"
-fur.			300	IN	NS	ns2.opennic.glue.
-fur.			300	IN	NS	ns4.opennic.glue.
-fur.			300	IN	NS	ns8.nic.fur.
-fur.			300	IN	NS	ns8.opennic.glue.
-fur.			300	IN	NS	ns12.nic.fur.
-fur.			300	IN	NS	ns13.nic.fur.
-fur.			300	IN	NS	ns15.ns.ph2.eu.
-fur.			300	IN	NS	ns15.nic.fur.
 0wx.fur.		300	IN	NS	ns1.0wx.org.
 0wx.fur.		300	IN	NS	ns2.0wx.org.
 0wx.fur.		300	IN	NS	ns3.0wx.org.

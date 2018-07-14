@@ -1,17 +1,3 @@
-oz.			86400	IN	NS	ns2.opennic.glue.
-oz.			86400	IN	NS	ns3.opennic.glue.
-oz.			86400	IN	NS	ns4.opennic.glue.
-oz.			86400	IN	NS	ns5.opennic.glue.
-oz.			86400	IN	NS	ns6.opennic.glue.
-oz.			86400	IN	NS	ns8.opennic.glue.
-oz.			86400	IN	NS	ns9.opennic.glue.
-oz.			86400	IN	NS	ns10.opennic.glue.
-oz.			86400	IN	NS	ns11.opennic.glue.
-oz.			86400	IN	NS	ns12.opennic.glue.
-oz.			86400	IN	RP	dns.bambusoft.com. .
-oz.			86400	IN	A	188.226.146.136
-oz.			86400	IN	AAAA	2001:470:1f04:ebf::2
-oz.			86400	IN	TXT	"OpenNIC oz Zone"
 123.oz.			86400	IN	NS	ns1.123.oz.
 123.oz.			86400	IN	NS	ns2.123.oz.
 ns1.123.oz.		86400	IN	A	93.188.163.130

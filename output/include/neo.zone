@@ -1,13 +1,3 @@
-neo.			86400	IN	NS	ns2.opennic.glue.
-neo.			86400	IN	NS	ns3.opennic.glue.
-neo.			86400	IN	NS	ns4.opennic.glue.
-neo.			86400	IN	NS	ns5.opennic.glue.
-neo.			86400	IN	NS	ns6.opennic.glue.
-neo.			86400	IN	NS	ns7.opennic.glue.
-neo.			86400	IN	NS	ns8.opennic.glue.
-neo.			86400	IN	NS	ns9.opennic.glue.
-neo.			86400	IN	NS	ns10.opennic.glue.
-neo.			86400	IN	TXT	".neo TLD, via OpenNIC. General/Global/Misc. TLD. General Purpose, meant for anyone and everyone."
 a-folha.neo.		86400	IN	NS	dns1.rede124.com.
 a-folha.neo.		86400	IN	NS	dns2.rede124.com.
 a-folha.neo.		86400	IN	NS	dns3.rede124.com.
@@ -62,9 +52,6 @@ multivpn.neo.		86400	IN	A	195.211.221.49
 *.multivpn.neo.		86400	IN	A	195.211.221.49
 neks.neo.		86400	IN	A	46.48.185.182
 *.neks.neo.		86400	IN	A	46.48.185.182
-neo.neo.		86400	IN	A	104.168.144.17
-neo.neo.		86400	IN	AAAA	2001:470:8269::1
-neo.neo.		86400	IN	MX	10 mail.neo.
 *.neo.neo.		86400	IN	A	104.168.144.17
 *.neo.neo.		86400	IN	AAAA	2001:470:8269::1
 cdn.neo.neo.		86400	IN	CNAME	cdn.neo.yt.neo.

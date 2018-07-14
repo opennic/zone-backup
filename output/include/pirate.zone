@@ -1,11 +1,3 @@
-pirate.			86400	IN	NS	ns2.opennic.glue.
-pirate.			86400	IN	NS	ns3.opennic.glue.
-pirate.			86400	IN	NS	ns5.opennic.glue.
-pirate.			86400	IN	NS	ns6.opennic.glue.
-pirate.			86400	IN	NS	ns8.opennic.glue.
-pirate.			86400	IN	NS	ns9.opennic.glue.
-pirate.			86400	IN	NS	ns10.opennic.glue.
-pirate.			86400	IN	NS	ns11.opennic.glue.
 1337.pirate.		86400	IN	A	77.244.245.120
 www.admin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 ae6bcb8d-4606-4295-8461-b853f63bc519.pirate. 86400 IN A	204.48.19.85

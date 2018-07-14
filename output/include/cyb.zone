@@ -1,14 +1,3 @@
-cyb.			86400	IN	NS	ns2.opennic.glue.
-cyb.			86400	IN	NS	ns3.opennic.glue.
-cyb.			86400	IN	NS	ns4.opennic.glue.
-cyb.			86400	IN	NS	ns8.opennic.glue.
-cyb.			86400	IN	NS	ns9.opennic.glue.
-cyb.			86400	IN	NS	ns10.opennic.glue.
-cyb.			86400	IN	NS	ns11.opennic.glue.
-cyb.			86400	IN	NS	ns12.opennic.glue.
-cyb.			86400	IN	RP	cyb. cyb.zm.is.
-cyb.			86400	IN	A	108.61.175.237
-cyb.			86400	IN	AAAA	2001:19f0:7402:dc9::1
 2f30.cyb.		86400	IN	A	51.15.7.208
 irc.2f30.cyb.		86400	IN	CNAME	irc.cyb.
 a.cyb.			86400	IN	A	192.30.252.153
@@ -23,7 +12,6 @@ aragon.cyb.		86400	IN	A	198.100.149.191
 blogs.cyb.		86400	IN	A	198.100.149.191
 cirno.cyb.		86400	IN	A	73.7.219.68
 closet.cyb.		86400	IN	A	47.215.144.102
-cyb.cyb.		86400	IN	A	198.100.149.191
 d3p74.cyb.		86400	IN	A	66.226.74.35
 deangelisalex.cyb.	86400	IN	CNAME	deangelisalex.me.
 dekadenz.cyb.		86400	IN	A	134.249.152.4

@@ -1,12 +1,3 @@
-indy.			86400	IN	NS	ns2.opennic.glue.
-indy.			86400	IN	NS	ns3.opennic.glue.
-indy.			86400	IN	NS	ns5.opennic.glue.
-indy.			86400	IN	NS	ns6.opennic.glue.
-indy.			86400	IN	NS	ns8.opennic.glue.
-indy.			86400	IN	NS	ns9.opennic.glue.
-indy.			86400	IN	NS	ns10.opennic.glue.
-indy.			86400	IN	NS	ns11.opennic.glue.
-indy.			86400	IN	A	173.160.58.202
 aral.indy.		86400	IN	A	146.185.157.52
 crumax.indy.		86400	IN	A	127.0.0.1
 den.indy.		86400	IN	A	178.76.232.222

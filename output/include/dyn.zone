@@ -1,11 +1,3 @@
-dyn.			300	IN	NS	ns2.opennic.glue.
-dyn.			300	IN	NS	ns3.opennic.glue.
-dyn.			300	IN	NS	ns5.opennic.glue.
-dyn.			300	IN	NS	ns6.opennic.glue.
-dyn.			300	IN	NS	ns8.opennic.glue.
-dyn.			300	IN	NS	ns9.opennic.glue.
-dyn.			300	IN	NS	ns10.opennic.glue.
-dyn.			300	IN	NS	ns11.opennic.glue.
 albuic.dyn.		300	IN	A	73.231.84.74
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
