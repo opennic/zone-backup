@@ -2,6 +2,8 @@
 
 Hourly backups of every OpenNIC top-level domain zone. This script is run on a server operated by [@JonahAragon](https://github.com/JonahAragon) that downloads each zone from its respective primary nameserver, see `run.sh` for details.
 
+OpenNIC Tier 1 operators, please whitelist `159.203.64.84` in any applicable ACLs or rate limiting mechanisms.
+
 ## `output`
 
 These files contain the output of `dig +onesoa +nocomments +nocmd +nostats AXFR $1 @$2` (the full zone, without Dig's comments).
