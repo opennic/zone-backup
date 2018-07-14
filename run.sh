@@ -11,6 +11,9 @@ dig_tld () {
   sed "/NSEC\|RRSIG\|DNSKEY\|SOA\|^$1\./d" < output/$1.zone > output/include/$1.zone
 }
 
+/usr/bin/dig +onesoa +nocomments +nocmd +nostats AXFR \. @161.97.219.84 > output/root.zone
+sed "/NSEC\|RRSIG\|DNSKEY\|SOA\|^\./d" < output/root.zone > output/include/root.zone
+
 dig_tld bbs 207.192.71.13
 dig_tld chan 94.103.153.176
 dig_tld cyb 79.124.7.81
