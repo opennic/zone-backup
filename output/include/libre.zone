@@ -57,9 +57,9 @@ registry.gitlab.libre.	0	IN	CNAME	gitlab.libre.
 run1.gitlab.libre.	0	IN	A	149.56.98.147
 run1.gitlab.libre.	0	IN	AAAA	2607:5300:201:3100::1a8a
 www.gitlab.libre.	0	IN	CNAME	gitlab.libre.
-go.libre.		0	IN	AAAA	2001:470:4212:1::254
 go.libre.		0	IN	A	161.97.219.84
 go.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
+go.libre.		0	IN	AAAA	2001:470:4212:1::254
 host.libre.		0	IN	A	149.56.98.147
 host.libre.		0	IN	AAAA	2607:5300:201:3100::1a8a
 ns1.host.libre.		0	IN	NS	host.libre.
@@ -119,8 +119,8 @@ mineral.libre.		0	IN	NS	ns1.elencasino.com.
 mineral.libre.		0	IN	NS	ns2.elencasino.com.
 mmo.libre.		0	IN	NS	ns6529.hostgator.com.
 mmo.libre.		0	IN	NS	ns6530.hostgator.com.
-mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 mycelium.libre.		0	IN	A	51.254.211.71
+mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 nightshade.libre.	0	IN	A	59.101.8.146
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
@@ -195,6 +195,7 @@ tv7.tvclub.libre.	0	IN	A	91.121.6.65
 unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
 www.unixzone.libre.	0	IN	CNAME	www.remoteshaman.com.
+vertige-moderne.libre.	0	IN	TXT	"gitlab-pages-verification-code=b07514aae9fcde4768a2384c629456bc"
 waffle.libre.		0	IN	A	204.152.206.250
 webriq.libre.		0	IN	A	104.198.14.52
 www.wgboome.libre.	0	IN	CNAME	www5.wgboome.org.
