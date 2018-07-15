@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1531529461 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1531651981 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -117,6 +117,7 @@ thewebsite.cyb.		86400	IN	A	192.71.144.235
 toromino.cyb.		86400	IN	CNAME	toromino.de.
 social.toromino.cyb.	86400	IN	CNAME	social.toromino.de.
 twsicommunity.cyb.	86400	IN	A	67.189.101.107
+vertige.cyb.		86400	IN	CNAME	edrdch.frama.io.
 whitedwarf.cyb.		86400	IN	A	67.249.202.109
 worstguyat.cyb.		86400	IN	CNAME	antoine.kallab.com.
 xn--h4h.cyb.		86400	IN	A	184.71.141.170
