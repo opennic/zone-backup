@@ -56,8 +56,8 @@ me.dyn.			300	IN	A	86.124.246.114
 michael.dyn.		300	IN	A	91.176.103.32
 micheal65536.dyn.	300	IN	A	88.145.86.26
 momoka.dyn.		300	IN	A	181.110.7.225
-muellerlukas.dyn.	300	IN	A	213.39.155.34
-mulu-stick.dyn.		300	IN	A	213.39.155.34
+muellerlukas.dyn.	300	IN	A	89.15.92.11
+mulu-stick.dyn.		300	IN	A	89.15.92.11
 my.dyn.			300	IN	A	139.59.211.104
 nightshade.dyn.		300	IN	A	59.101.8.146
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
@@ -78,10 +78,10 @@ powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13e5:900:4849:43ff:fe49:79d7
 profismart.dyn.		300	IN	A	145.255.2.196
 rage.dyn.		300	IN	A	47.195.233.160
 recor.dyn.		300	IN	A	84.3.10.87
-reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 reg.dyn.		300	IN	A	173.160.58.202
-register.dyn.		300	IN	A	173.160.58.202
+reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
+register.dyn.		300	IN	A	173.160.58.202
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.8.146
 rt-srb.dyn.		300	IN	A	184.6.245.198

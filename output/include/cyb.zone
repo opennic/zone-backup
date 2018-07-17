@@ -67,9 +67,8 @@ moderntld.cyb.		86400	IN	A	8.8.8.8
 mrdetonia.cyb.		86400	IN	A	188.165.212.152
 mt.cyb.			86400	IN	A	46.166.129.4
 mt.cyb.			86400	IN	AAAA	2a00:1768:1006::eeef
-n.cyb.			86400	IN	CNAME	ivoid.github.io.
-books.n.cyb.		86400	IN	CNAME	n.cyb.
-home.n.cyb.		86400	IN	NS	opennic.cyb.
+n.cyb.			86400	IN	NS	opennic.cyb.
+ivoid.n.cyb.		86400	IN	CNAME	domainvoider.github.io.
 nexus.cyb.		86400	IN	A	108.2.166.111
 noderunner.cyb.		86400	IN	A	159.203.23.93
 noderunner.cyb.		86400	IN	AAAA	2604:a880:cad:d0::4fff:8001
