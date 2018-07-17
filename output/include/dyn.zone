@@ -78,10 +78,10 @@ powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13e5:900:4849:43ff:fe49:79d7
 profismart.dyn.		300	IN	A	145.255.2.196
 rage.dyn.		300	IN	A	47.195.233.160
 recor.dyn.		300	IN	A	84.3.10.87
-reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 reg.dyn.		300	IN	A	173.160.58.202
-register.dyn.		300	IN	A	173.160.58.202
+reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
+register.dyn.		300	IN	A	173.160.58.202
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.8.146
 rt-srb.dyn.		300	IN	A	184.6.245.198
@@ -93,7 +93,7 @@ soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.8.146
 startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	78.134.12.113
-subnet.dyn.		300	IN	A	91.40.219.185
+subnet.dyn.		300	IN	A	91.40.219.30
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
 thecreative.dyn.	300	IN	A	45.33.65.68
