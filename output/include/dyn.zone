@@ -80,8 +80,8 @@ rage.dyn.		300	IN	A	47.195.233.160
 recor.dyn.		300	IN	A	84.3.10.87
 reg.dyn.		300	IN	A	173.160.58.202
 reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
-register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	A	173.160.58.202
+register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.8.146
 rt-srb.dyn.		300	IN	A	184.6.245.198
