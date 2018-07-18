@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	73.231.84.74
+albuic.dyn.		300	IN	A	207.237.207.250
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -56,8 +56,8 @@ me.dyn.			300	IN	A	86.124.246.114
 michael.dyn.		300	IN	A	91.176.103.32
 micheal65536.dyn.	300	IN	A	88.144.72.128
 momoka.dyn.		300	IN	A	181.110.7.225
-muellerlukas.dyn.	300	IN	A	89.15.92.11
-mulu-stick.dyn.		300	IN	A	89.15.92.11
+muellerlukas.dyn.	300	IN	A	92.227.157.229
+mulu-stick.dyn.		300	IN	A	92.227.157.229
 my.dyn.			300	IN	A	139.59.211.104
 nightshade.dyn.		300	IN	A	59.101.8.146
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
