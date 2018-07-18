@@ -72,14 +72,14 @@ www.opennic.dyn.	300	IN	A	173.160.58.202
 openwrt-luci-ddns-testing.dyn. 300 IN	A	96.71.121.254
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
 pala.dyn.		300	IN	A	81.174.162.197
-pheralcus.dyn.		300	IN	A	213.196.246.7
+pheralcus.dyn.		300	IN	A	213.196.253.112
 posei.dyn.		300	IN	A	172.138.5.21
 powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13e5:900:4849:43ff:fe49:79d7
 profismart.dyn.		300	IN	A	145.255.2.196
 rage.dyn.		300	IN	A	47.195.233.160
 recor.dyn.		300	IN	A	84.3.10.87
-reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 reg.dyn.		300	IN	A	173.160.58.202
+reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	A	173.160.58.202
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
