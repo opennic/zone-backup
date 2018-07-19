@@ -209,10 +209,6 @@ spikestradale.geek.	86400	IN	A	59.101.8.146
 www.ssl.geek.		86400	IN	A	107.191.104.137
 www.ssl.geek.		86400	IN	AAAA	2604:180:1:d6f::20
 succ.geek.		86400	IN	A	163.172.185.51
-support.geek.		86400	IN	NS	pns21.cloudns.net.
-support.geek.		86400	IN	NS	pns22.cloudns.net.
-support.geek.		86400	IN	NS	pns23.cloudns.net.
-support.geek.		86400	IN	NS	pns24.cloudns.net.
 talk.geek.		86400	IN	A	216.17.244.224
 cdn.talk.geek.		86400	IN	CNAME	cdn.publicmirrors.org.
 www.talk.geek.		86400	IN	CNAME	talk.geek.
