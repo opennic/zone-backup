@@ -57,9 +57,9 @@ registry.gitlab.libre.	0	IN	CNAME	gitlab.libre.
 run1.gitlab.libre.	0	IN	A	149.56.98.147
 run1.gitlab.libre.	0	IN	AAAA	2607:5300:201:3100::1a8a
 www.gitlab.libre.	0	IN	CNAME	gitlab.libre.
+go.libre.		0	IN	AAAA	2001:470:4212:1::254
 go.libre.		0	IN	A	161.97.219.84
 go.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
-go.libre.		0	IN	AAAA	2001:470:4212:1::254
 host.libre.		0	IN	A	149.56.98.147
 host.libre.		0	IN	AAAA	2607:5300:201:3100::1a8a
 ns1.host.libre.		0	IN	NS	host.libre.
