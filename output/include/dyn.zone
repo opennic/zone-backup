@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	207.237.207.250
+albuic.dyn.		300	IN	A	216.47.133.47
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -91,7 +91,7 @@ skynet.dyn.		300	IN	A	61.68.119.33
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	210.10.128.88
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	78.134.12.113
+stemby.dyn.		300	IN	A	78.134.42.185
 subnet.dyn.		300	IN	A	91.40.219.30
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
