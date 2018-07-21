@@ -122,10 +122,10 @@ www.linux.geek.		86400	IN	CNAME	www.remoteshaman.com.
 linux-lynx.geek.	86400	IN	A	37.59.63.23
 localhost.geek.		86400	IN	A	127.0.0.1
 maauer.geek.		86400	IN	A	100.33.33.33
-macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 macibuki.geek.		86400	IN	A	207.246.124.52
-vpn.macibuki.geek.	86400	IN	A	207.246.124.52
+macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
+vpn.macibuki.geek.	86400	IN	A	207.246.124.52
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
@@ -158,8 +158,8 @@ opennicwebtest.geek.	86400	IN	NS	ns-293.awsdns-36.com.
 opennicwebtest.geek.	86400	IN	NS	ns-592.awsdns-10.net.
 opennicwebtest.geek.	86400	IN	NS	ns-1055.awsdns-03.org.
 opennicwebtest.geek.	86400	IN	NS	ns-1895.awsdns-44.co.uk.
-p4bl0.geek.		86400	IN	A	91.121.16.67
 p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
+p4bl0.geek.		86400	IN	A	91.121.16.67
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
 p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
 peerz.geek.		86400	IN	A	24.137.85.135
