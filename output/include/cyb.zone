@@ -56,6 +56,7 @@ mc.l.cyb.		86400	IN	A	35.192.209.218
 lanodan.cyb.		86400	IN	NS	minion.hacktivis.me.
 laubacher.cyb.		86400	IN	A	178.192.40.60
 vpn.lexo.cyb.		86400	IN	A	66.70.189.98
+list.cyb.		86400	IN	CNAME	author.
 m.cyb.			86400	IN	NS	ns1.moderntld.com.
 m.cyb.			86400	IN	NS	ns2.moderntld.com.
 matrix.cyb.		86400	IN	A	198.100.149.191
@@ -67,8 +68,6 @@ moderntld.cyb.		86400	IN	A	8.8.8.8
 mrdetonia.cyb.		86400	IN	A	188.165.212.152
 mt.cyb.			86400	IN	A	46.166.129.4
 mt.cyb.			86400	IN	AAAA	2a00:1768:1006::eeef
-n.cyb.			86400	IN	NS	opennic.cyb.
-ivoid.n.cyb.		86400	IN	CNAME	domainvoider.github.io.
 nexus.cyb.		86400	IN	A	108.2.166.111
 noderunner.cyb.		86400	IN	A	159.203.23.93
 noderunner.cyb.		86400	IN	AAAA	2604:a880:cad:d0::4fff:8001
