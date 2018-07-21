@@ -87,7 +87,7 @@ rt-srb.dyn.		300	IN	A	184.6.245.198
 samsa.dyn.		300	IN	A	89.177.104.112
 sin.dyn.		300	IN	A	85.21.190.231
 sjvdan.dyn.		300	IN	A	24.152.144.151
-skynet.dyn.		300	IN	A	61.68.119.33
+skynet.dyn.		300	IN	A	110.175.105.184
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	210.10.128.88
 startstop.dyn.		300	IN	A	143.176.243.15
