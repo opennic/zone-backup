@@ -71,7 +71,7 @@ opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
 pala.dyn.		300	IN	A	81.174.162.197
-pheralcus.dyn.		300	IN	A	87.78.79.248
+pheralcus.dyn.		300	IN	A	87.79.199.243
 posei.dyn.		300	IN	A	172.138.5.21
 powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13e5:900:4849:43ff:fe49:79d7
 profismart.dyn.		300	IN	A	145.255.2.196
@@ -142,4 +142,4 @@ wildhorse.dyn.		300	IN	A	210.10.128.88
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	46.88.33.232
+zufriedenheit.dyn.	300	IN	A	46.88.47.242
