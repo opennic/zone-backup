@@ -133,6 +133,7 @@ maescool.geek.		86400	IN	NS	ns3.ophidian.be.
 micheal65536.geek.	86400	IN	A	79.64.31.140
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
+ns1.nameservers.geek.	86400	IN	A	67.221.146.229
 natrinicle.geek.	86400	IN	A	136.60.193.37
 natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
 diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
