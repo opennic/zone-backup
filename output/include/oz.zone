@@ -451,6 +451,10 @@ register.oz.		86400	IN	NS	ns1.bambusoft.mx.
 register.oz.		86400	IN	NS	ns3.bambusoft.mx.
 reinodenumancia.oz.	86400	IN	NS	ns21.fmserver.net.
 reinodenumancia.oz.	86400	IN	NS	ns22.fmserver.net.
+rubin.oz.		86400	IN	NS	nameserver1.rubin.oz.
+rubin.oz.		86400	IN	NS	nameserver2.rubin.oz.
+nameserver1.rubin.oz.	86400	IN	A	127.0.0.1
+nameserver2.rubin.oz.	86400	IN	A	127.0.0.1
 rutracker.oz.		86400	IN	NS	ns1.elencasino.name.
 rutracker.oz.		86400	IN	NS	ns2.elencasino.name.
 sand.oz.		86400	IN	NS	ns.stratoserver.net.
@@ -469,6 +473,8 @@ serials.oz.		86400	IN	NS	ns2.lealhost.com.
 server.oz.		86400	IN	NS	odin.server.oz.
 server.oz.		86400	IN	NS	freya.server.oz.
 freya.server.oz.	86400	IN	A	127.0.0.1
+nameserver1.server.oz.	86400	IN	A	127.0.0.1
+nameserver2.server.oz.	86400	IN	A	127.0.0.1
 odin.server.oz.		86400	IN	A	127.0.0.1
 servers.oz.		86400	IN	NS	ns01.000webhost.com.
 servers.oz.		86400	IN	NS	ns02.000webhost.com.
