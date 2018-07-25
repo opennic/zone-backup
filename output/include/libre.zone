@@ -52,6 +52,7 @@ for.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 reg.for.libre.		0	IN	A	161.97.219.84
 reg.for.libre.		0	IN	AAAA	2001:470:4212:1::254
 gamewolf10.libre.	0	IN	NS	ns1.gamewolf10.libre.
+ns1.gamewolf10.libre.	0	IN	A	73.11.11.6
 gitlab.libre.		0	IN	A	158.69.160.166
 mattermost.gitlab.libre. 0	IN	CNAME	gitlab.libre.
 pages.gitlab.libre.	0	IN	CNAME	gitlab.libre.
@@ -115,8 +116,8 @@ madhatter.libre.	0	IN	A	107.181.153.60
 www.madhatter.libre.	0	IN	A	107.181.153.60
 marmat.libre.		0	IN	A	51.254.211.71
 marmat.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
-www.marmat.libre.	0	IN	AAAA	2001:41d0:302:2000::1647
 www.marmat.libre.	0	IN	A	51.254.211.71
+www.marmat.libre.	0	IN	AAAA	2001:41d0:302:2000::1647
 mineral.libre.		0	IN	NS	ns1.elencasino.com.
 mineral.libre.		0	IN	NS	ns2.elencasino.com.
 mmo.libre.		0	IN	NS	ns6529.hostgator.com.
@@ -124,6 +125,7 @@ mmo.libre.		0	IN	NS	ns6530.hostgator.com.
 mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 nameserver-test.libre.	0	IN	NS	ns1.nameserver-test.libre.
+ns1.nameserver-test.libre. 0	IN	A	73.11.11.6
 nightshade.libre.	0	IN	A	59.101.2.108
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
