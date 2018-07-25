@@ -23,7 +23,7 @@ catalunya.libre.	0	IN	A	83.247.129.60
 cert.libre.		0	IN	A	149.56.97.161
 cert.libre.		0	IN	AAAA	2607:5300:201:3100::1a86
 www.cert.libre.		0	IN	CNAME	cert.libre.
-chema.libre.		0	IN	NS	ns.gentoo.es.
+chema.libre.		0	IN	NS	ns.lisper.es.
 civdev.libre.		0	IN	A	77.246.157.26
 www.civdev.libre.	0	IN	A	77.246.157.26
 cloud.libre.		0	IN	A	73.11.11.6
