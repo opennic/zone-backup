@@ -112,8 +112,8 @@ dns1.nic.abogado.	172800	IN	A	213.248.217.13
 dns1.nic.abogado.	172800	IN	AAAA	2a01:618:401::13
 dns2.nic.abogado.	172800	IN	A	103.49.81.13
 dns2.nic.abogado.	172800	IN	AAAA	2401:fd80:401::13
-dns3.nic.abogado.	172800	IN	A	213.248.221.13
 dns3.nic.abogado.	172800	IN	AAAA	2a01:618:405::13
+dns3.nic.abogado.	172800	IN	A	213.248.221.13
 dns4.nic.abogado.	172800	IN	A	43.230.49.13
 dns4.nic.abogado.	172800	IN	AAAA	2401:fd80:405::13
 dnsa.nic.abogado.	172800	IN	A	156.154.100.3
@@ -178,8 +178,8 @@ ns4.dns.nic.accountant.	172800	IN	A	156.154.156.195
 ns4.dns.nic.accountant.	172800	IN	AAAA	2610:a1:1074::c3
 ns5.dns.nic.accountant.	172800	IN	A	156.154.157.195
 ns5.dns.nic.accountant.	172800	IN	AAAA	2610:a1:1075::c3
-ns6.dns.nic.accountant.	172800	IN	A	156.154.158.195
 ns6.dns.nic.accountant.	172800	IN	AAAA	2610:a1:1076::c3
+ns6.dns.nic.accountant.	172800	IN	A	156.154.158.195
 accountants.		172800	IN	NS	demand.beta.aridns.net.au.
 accountants.		172800	IN	NS	demand.alpha.aridns.net.au.
 accountants.		172800	IN	NS	demand.delta.aridns.net.au.
@@ -480,8 +480,8 @@ alibaba.		86400	IN	DS	61834 7 1 6FB706BB2EDCEE2193416AAB5CDB70E3F24AE179
 alibaba.		86400	IN	DS	61834 7 2 1979936491C3000D1613B6CED37C7EE8085BAD291CEFBC61A97246E5 1908F1E0
 a0.nic.alibaba.		172800	IN	A	65.22.132.9
 a0.nic.alibaba.		172800	IN	AAAA	2a01:8840:82::9
-a2.nic.alibaba.		172800	IN	AAAA	2a01:8840:85::9
 a2.nic.alibaba.		172800	IN	A	65.22.135.9
+a2.nic.alibaba.		172800	IN	AAAA	2a01:8840:85::9
 b0.nic.alibaba.		172800	IN	A	65.22.133.9
 b0.nic.alibaba.		172800	IN	AAAA	2a01:8840:83::9
 c0.nic.alibaba.		172800	IN	A	65.22.134.9
@@ -789,8 +789,8 @@ a2.nic.archi.		172800	IN	A	65.22.87.1
 a2.nic.archi.		172800	IN	AAAA	2a01:8840:55::1
 b0.nic.archi.		172800	IN	A	65.22.85.1
 b0.nic.archi.		172800	IN	AAAA	2a01:8840:53::1
-c0.nic.archi.		172800	IN	AAAA	2a01:8840:54::1
 c0.nic.archi.		172800	IN	A	65.22.86.1
+c0.nic.archi.		172800	IN	AAAA	2a01:8840:54::1
 army.			172800	IN	NS	demand.beta.aridns.net.au.
 army.			172800	IN	NS	demand.alpha.aridns.net.au.
 army.			172800	IN	NS	demand.delta.aridns.net.au.
@@ -990,8 +990,8 @@ audi.			86400	IN	DS	42306 7 1 4CAE38CA1368871277BF41702A82A2323AA688B9
 audi.			86400	IN	DS	42306 7 2 731D4763B9AB8D1269E36AEF78FFFD3EF51C815171310168C02011D8 C7026939
 a0.nic.audi.		172800	IN	A	65.22.208.17
 a0.nic.audi.		172800	IN	AAAA	2a01:8840:ca::17
-a2.nic.audi.		172800	IN	AAAA	2a01:8840:cd::17
 a2.nic.audi.		172800	IN	A	65.22.211.17
+a2.nic.audi.		172800	IN	AAAA	2a01:8840:cd::17
 b0.nic.audi.		172800	IN	A	65.22.209.17
 b0.nic.audi.		172800	IN	AAAA	2a01:8840:cb::17
 c0.nic.audi.		172800	IN	A	65.22.210.17
@@ -1062,8 +1062,8 @@ ns4.dns.nic.author.	172800	IN	A	156.154.156.18
 ns4.dns.nic.author.	172800	IN	AAAA	2610:a1:1074::12
 ns5.dns.nic.author.	172800	IN	A	156.154.157.18
 ns5.dns.nic.author.	172800	IN	AAAA	2610:a1:1075::12
-ns6.dns.nic.author.	172800	IN	A	156.154.158.18
 ns6.dns.nic.author.	172800	IN	AAAA	2610:a1:1076::12
+ns6.dns.nic.author.	172800	IN	A	156.154.158.18
 auto.			172800	IN	NS	ns1.uniregistry.net.
 auto.			172800	IN	NS	ns2.uniregistry.info.
 auto.			172800	IN	NS	ns3.uniregistry.net.
@@ -1124,8 +1124,8 @@ aws.			86400	IN	DS	6280 8 1 753781D5419C3458168D0799642FBB0F84DACD4C
 aws.			86400	IN	DS	6280 8 2 7F4F4BDF40E8C2D65F6F6483D8A0CA440B15C46599EB8B23E5B43E5B 5EE1A26D
 aws.			86400	IN	DS	9925 8 1 C4CD08D51F350114BB0603D9140A8726D7162D01
 aws.			86400	IN	DS	9925 8 2 48B1404DD8351B7EE2FA2BE77C23D7706A0715729C07E56A900C02F2 2EB6A16A
-ns1.dns.nic.aws.	172800	IN	A	156.154.144.19
 ns1.dns.nic.aws.	172800	IN	AAAA	2610:a1:1071::13
+ns1.dns.nic.aws.	172800	IN	A	156.154.144.19
 ns2.dns.nic.aws.	172800	IN	A	156.154.145.19
 ns2.dns.nic.aws.	172800	IN	AAAA	2610:a1:1072::13
 ns3.dns.nic.aws.	172800	IN	A	156.154.159.19
@@ -1381,8 +1381,8 @@ dns2.nic.bayern.	172800	IN	A	103.49.81.14
 dns2.nic.bayern.	172800	IN	AAAA	2401:fd80:401::14
 dns3.nic.bayern.	172800	IN	A	213.248.221.14
 dns3.nic.bayern.	172800	IN	AAAA	2a01:618:405::14
-dns4.nic.bayern.	172800	IN	A	43.230.49.14
 dns4.nic.bayern.	172800	IN	AAAA	2401:fd80:405::14
+dns4.nic.bayern.	172800	IN	A	43.230.49.14
 dnsa.nic.bayern.	172800	IN	A	156.154.100.3
 dnsa.nic.bayern.	172800	IN	AAAA	2001:502:ad09::3
 dnsb.nic.bayern.	172800	IN	A	156.154.101.3
@@ -1440,8 +1440,8 @@ bcg.			86400	IN	DS	48108 7 1 1FCAB02E25C47F8C985A150F983DC199D3E6B9BE
 bcg.			86400	IN	DS	48108 7 2 E085676A3B8056349653315E5DF6709BB16844BA1DBD701517FFEA8B 79F7A32E
 a0.nic.bcg.		172800	IN	A	65.22.216.25
 a0.nic.bcg.		172800	IN	AAAA	2a01:8840:d2::25
-a2.nic.bcg.		172800	IN	AAAA	2a01:8840:d5::25
 a2.nic.bcg.		172800	IN	A	65.22.219.25
+a2.nic.bcg.		172800	IN	AAAA	2a01:8840:d5::25
 b0.nic.bcg.		172800	IN	A	65.22.217.25
 b0.nic.bcg.		172800	IN	AAAA	2a01:8840:d3::25
 c0.nic.bcg.		172800	IN	A	65.22.218.25
@@ -1506,6 +1506,7 @@ beauty.			172800	IN	NS	ac2.nstld.com.
 beauty.			172800	IN	NS	ac3.nstld.com.
 beauty.			172800	IN	NS	ac4.nstld.com.
 beauty.			86400	IN	DS	35340 8 2 2489479F7A6E57341C7C5508C55113491C519DD846258A6593C4D1AB A57D463E
+beer.			86400	IN	DS	56125 8 2 C674B8966CB78A79E67A2ED674917CF39F96ED6C7E5460425C61EAFB AD7E2A87
 beer.			172800	IN	NS	dns1.nic.beer.
 beer.			172800	IN	NS	dns2.nic.beer.
 beer.			172800	IN	NS	dns3.nic.beer.
@@ -1514,7 +1515,6 @@ beer.			172800	IN	NS	dnsa.nic.beer.
 beer.			172800	IN	NS	dnsb.nic.beer.
 beer.			172800	IN	NS	dnsc.nic.beer.
 beer.			172800	IN	NS	dnsd.nic.beer.
-beer.			86400	IN	DS	56125 8 2 C674B8966CB78A79E67A2ED674917CF39F96ED6C7E5460425C61EAFB AD7E2A87
 dns1.nic.beer.		172800	IN	A	213.248.217.15
 dns1.nic.beer.		172800	IN	AAAA	2a01:618:401::15
 dns2.nic.beer.		172800	IN	A	103.49.81.15
@@ -1575,8 +1575,8 @@ a.nic.best.		172800	IN	A	194.169.218.109
 a.nic.best.		172800	IN	AAAA	2001:67c:13cc::1:109
 b.nic.best.		172800	IN	A	185.24.64.109
 b.nic.best.		172800	IN	AAAA	2a04:2b00:13cc::1:109
-c.nic.best.		172800	IN	AAAA	2a04:2b00:13ee::109
 c.nic.best.		172800	IN	A	212.18.248.109
+c.nic.best.		172800	IN	AAAA	2a04:2b00:13ee::109
 d.nic.best.		172800	IN	A	212.18.249.109
 d.nic.best.		172800	IN	AAAA	2a04:2b00:13ff::109
 bestbuy.		172800	IN	NS	a0.nic.bestbuy.
@@ -1763,12 +1763,12 @@ bj.			172800	IN	NS	ns-bj.afrinic.net.
 bj.			172800	IN	NS	nakayo.leland.bj.
 ns1.intnet.bj.		172800	IN	A	81.91.225.18
 nakayo.leland.bj.	172800	IN	A	81.91.225.1
-black.			86400	IN	DS	39 7 1 A1462CF4F5B99C3A9BF14777D4FB2835ADE492E0
-black.			86400	IN	DS	39 7 2 44D91C33FF67B97266CC4AC23D0455F5A99D7DCB2B85BC2C08F222DD 1AE77B7E
 black.			172800	IN	NS	a0.nic.black.
 black.			172800	IN	NS	a2.nic.black.
 black.			172800	IN	NS	b0.nic.black.
 black.			172800	IN	NS	c0.nic.black.
+black.			86400	IN	DS	39 7 1 A1462CF4F5B99C3A9BF14777D4FB2835ADE492E0
+black.			86400	IN	DS	39 7 2 44D91C33FF67B97266CC4AC23D0455F5A99D7DCB2B85BC2C08F222DD 1AE77B7E
 a0.nic.black.		172800	IN	A	65.22.68.33
 a0.nic.black.		172800	IN	AAAA	2a01:8840:42::33
 a2.nic.black.		172800	IN	A	65.22.71.33
@@ -1828,11 +1828,11 @@ dnsa.nic.blog.		172800	IN	AAAA	2001:502:ad09::3
 dnsb.nic.blog.		172800	IN	A	156.154.101.3
 dnsc.nic.blog.		172800	IN	A	156.154.102.3
 dnsd.nic.blog.		172800	IN	A	156.154.103.3
-bloomberg.		86400	IN	DS	46338 8 2 98A66BE30959371E15EAF5D4A65ADA3393050610A2E5B7AE321B694C 876258C9
 bloomberg.		172800	IN	NS	ac1.nstld.com.
 bloomberg.		172800	IN	NS	ac2.nstld.com.
 bloomberg.		172800	IN	NS	ac3.nstld.com.
 bloomberg.		172800	IN	NS	ac4.nstld.com.
+bloomberg.		86400	IN	DS	46338 8 2 98A66BE30959371E15EAF5D4A65ADA3393050610A2E5B7AE321B694C 876258C9
 blue.			172800	IN	NS	a0.nic.blue.
 blue.			172800	IN	NS	a2.nic.blue.
 blue.			172800	IN	NS	b0.nic.blue.
@@ -1946,12 +1946,12 @@ bom.			172800	IN	NS	d.dns.br.
 bom.			172800	IN	NS	e.dns.br.
 bom.			172800	IN	NS	f.dns.br.
 bom.			86400	IN	DS	60907 8 2 5FCFDBFDD5FAE890E49A50DF93CF82A53909DBD60837029B6723BC35 77EB1D4E
+bond.			86400	IN	DS	3382 8 1 8B5E8796FACE73374EF18FDC7026D07E33837D14
+bond.			86400	IN	DS	3382 8 2 01EAECD8CEC3A76F05C299AA2FAE504063BC2A8CC9CE36672FD4EDA9 D5BB9A91
 bond.			172800	IN	NS	a.nic.bond.
 bond.			172800	IN	NS	b.nic.bond.
 bond.			172800	IN	NS	c.nic.bond.
 bond.			172800	IN	NS	d.nic.bond.
-bond.			86400	IN	DS	3382 8 1 8B5E8796FACE73374EF18FDC7026D07E33837D14
-bond.			86400	IN	DS	3382 8 2 01EAECD8CEC3A76F05C299AA2FAE504063BC2A8CC9CE36672FD4EDA9 D5BB9A91
 a.nic.bond.		172800	IN	A	37.209.192.9
 a.nic.bond.		172800	IN	AAAA	2001:dcd:1::9
 b.nic.bond.		172800	IN	A	37.209.194.9
@@ -2076,8 +2076,8 @@ box.			172800	IN	NS	c.nic.box.
 box.			172800	IN	NS	d.nic.box.
 box.			86400	IN	DS	32737 8 1 A637BE5E3CC2E079DFF2BD5BEFF84DB3CFB2E801
 box.			86400	IN	DS	32737 8 2 2ABFC49F5DCD5655E7B32C6DCE32C11C8043AF5D31CD3C580B311D69 BFB161B9
-a.nic.box.		172800	IN	AAAA	2001:dcd:1::10
 a.nic.box.		172800	IN	A	37.209.192.10
+a.nic.box.		172800	IN	AAAA	2001:dcd:1::10
 b.nic.box.		172800	IN	A	37.209.194.10
 b.nic.box.		172800	IN	AAAA	2001:dcd:2::10
 c.nic.box.		172800	IN	A	37.209.196.10
@@ -2147,8 +2147,8 @@ dns3.nic.broadway.	172800	IN	A	213.248.221.38
 dns3.nic.broadway.	172800	IN	AAAA	2a01:618:405::38
 dns4.nic.broadway.	172800	IN	A	43.230.49.38
 dns4.nic.broadway.	172800	IN	AAAA	2401:fd80:405::38
-dnsa.nic.broadway.	172800	IN	AAAA	2001:502:ad09::3
 dnsa.nic.broadway.	172800	IN	A	156.154.100.3
+dnsa.nic.broadway.	172800	IN	AAAA	2001:502:ad09::3
 dnsb.nic.broadway.	172800	IN	A	156.154.101.3
 dnsc.nic.broadway.	172800	IN	A	156.154.102.3
 dnsd.nic.broadway.	172800	IN	A	156.154.103.3
@@ -2207,8 +2207,8 @@ budapest.		172800	IN	NS	dnsb.nic.budapest.
 budapest.		172800	IN	NS	dnsc.nic.budapest.
 budapest.		172800	IN	NS	dnsd.nic.budapest.
 budapest.		86400	IN	DS	54485 8 2 D121779C03367351F0751FF9043F5B1A3B516D398A06F1DFE4DBEC17 9A8A865B
-dns1.nic.budapest.	172800	IN	A	213.248.217.17
 dns1.nic.budapest.	172800	IN	AAAA	2a01:618:401::17
+dns1.nic.budapest.	172800	IN	A	213.248.217.17
 dns2.nic.budapest.	172800	IN	A	103.49.81.17
 dns2.nic.budapest.	172800	IN	AAAA	2401:fd80:401::17
 dns3.nic.budapest.	172800	IN	A	213.248.221.17
@@ -2398,8 +2398,8 @@ ns4.dns.nic.call.	172800	IN	A	156.154.156.30
 ns4.dns.nic.call.	172800	IN	AAAA	2610:a1:1074::1e
 ns5.dns.nic.call.	172800	IN	A	156.154.157.30
 ns5.dns.nic.call.	172800	IN	AAAA	2610:a1:1075::1e
-ns6.dns.nic.call.	172800	IN	A	156.154.158.30
 ns6.dns.nic.call.	172800	IN	AAAA	2610:a1:1076::1e
+ns6.dns.nic.call.	172800	IN	A	156.154.158.30
 calvinklein.		172800	IN	NS	ns1.dns.nic.calvinklein.
 calvinklein.		172800	IN	NS	ns2.dns.nic.calvinklein.
 calvinklein.		172800	IN	NS	ns3.dns.nic.calvinklein.
@@ -2458,11 +2458,11 @@ canon.			172800	IN	NS	b.gmoregistry.net.
 canon.			172800	IN	NS	k.gmoregistry.net.
 canon.			172800	IN	NS	l.gmoregistry.net.
 canon.			86400	IN	DS	65201 8 2 600EBE753DA33C38AD812C071895AE5619BC56D729BF80FA7122E375 A2337372
+capetown.		86400	IN	DS	23824 8 2 0586015565352CDE736662A5DDF854E02B476744E396BCD147856387 6BC3A8DF
+capetown.		86400	IN	DS	63484 8 2 369D41F298DEBBC2BB994D40C3C0F3AE680E2F647695579C4B675333 1E76532A
 capetown.		172800	IN	NS	ns.coza.net.za.
 capetown.		172800	IN	NS	ns2.dns.business.
 capetown.		172800	IN	NS	coza1.dnsnode.net.
-capetown.		86400	IN	DS	23824 8 2 0586015565352CDE736662A5DDF854E02B476744E396BCD147856387 6BC3A8DF
-capetown.		86400	IN	DS	63484 8 2 369D41F298DEBBC2BB994D40C3C0F3AE680E2F647695579C4B675333 1E76532A
 capital.		172800	IN	NS	demand.beta.aridns.net.au.
 capital.		172800	IN	NS	demand.alpha.aridns.net.au.
 capital.		172800	IN	NS	demand.delta.aridns.net.au.
@@ -2641,12 +2641,12 @@ catering.		172800	IN	NS	demand.delta.aridns.net.au.
 catering.		172800	IN	NS	demand.gamma.aridns.net.au.
 catering.		86400	IN	DS	63217 8 1 E9CF7A9C67B95B8357B1211023E48BB8EA9F0103
 catering.		86400	IN	DS	63217 8 2 25CB23C61A0A739E0989213B746D92854F9E72E5708AAC20B4306E06 E4267BD5
+catholic.		86400	IN	DS	36094 8 1 BA3D19AB47D2F0A9534AAFFAB0D1555F03A5DA2D
+catholic.		86400	IN	DS	36094 8 2 E591A673A3B2F896407F120D4EE5AFCF41D7B3D366B8C879138E8512 6F4C34CE
 catholic.		172800	IN	NS	a.nic.catholic.
 catholic.		172800	IN	NS	b.nic.catholic.
 catholic.		172800	IN	NS	c.nic.catholic.
 catholic.		172800	IN	NS	d.nic.catholic.
-catholic.		86400	IN	DS	36094 8 1 BA3D19AB47D2F0A9534AAFFAB0D1555F03A5DA2D
-catholic.		86400	IN	DS	36094 8 2 E591A673A3B2F896407F120D4EE5AFCF41D7B3D366B8C879138E8512 6F4C34CE
 a.nic.catholic.		172800	IN	A	37.209.192.9
 a.nic.catholic.		172800	IN	AAAA	2001:dcd:1::9
 b.nic.catholic.		172800	IN	A	37.209.194.9
@@ -2711,8 +2711,8 @@ ns4.dns.nic.cbre.	172800	IN	A	156.154.156.36
 ns4.dns.nic.cbre.	172800	IN	AAAA	2610:a1:1074::24
 ns5.dns.nic.cbre.	172800	IN	A	156.154.157.36
 ns5.dns.nic.cbre.	172800	IN	AAAA	2610:a1:1075::24
-ns6.dns.nic.cbre.	172800	IN	A	156.154.158.36
 ns6.dns.nic.cbre.	172800	IN	AAAA	2610:a1:1076::24
+ns6.dns.nic.cbre.	172800	IN	A	156.154.158.36
 cbs.			172800	IN	NS	a0.nic.cbs.
 cbs.			172800	IN	NS	a2.nic.cbs.
 cbs.			172800	IN	NS	b0.nic.cbs.
@@ -2771,8 +2771,8 @@ ceo.			86400	IN	DS	63689 8 1 DB7A8F6AADCEE147D241A9778857E94707234D4E
 ceo.			86400	IN	DS	63689 8 2 F2AB788C2802C3F219D53F37E7E1687ECF2E453E04BC5ABCC0B444FC 0E35B1EE
 a.nic.ceo.		172800	IN	A	194.169.218.78
 a.nic.ceo.		172800	IN	AAAA	2001:67c:13cc::1:78
-b.nic.ceo.		172800	IN	AAAA	2a04:2b00:13cc::1:78
 b.nic.ceo.		172800	IN	A	185.24.64.78
+b.nic.ceo.		172800	IN	AAAA	2a04:2b00:13cc::1:78
 c.nic.ceo.		172800	IN	A	212.18.248.78
 c.nic.ceo.		172800	IN	AAAA	2a04:2b00:13ee::78
 d.nic.ceo.		172800	IN	A	212.18.249.78
@@ -2833,8 +2833,8 @@ b.nic.ch.		172800	IN	A	130.59.31.43
 b.nic.ch.		172800	IN	AAAA	2001:620:0:ff::58
 c.nic.ch.		172800	IN	A	147.28.0.39
 c.nic.ch.		172800	IN	AAAA	2001:418:1::39
-d.nic.ch.		172800	IN	AAAA	2001:12ff:0:a20::5
 d.nic.ch.		172800	IN	A	200.160.0.5
+d.nic.ch.		172800	IN	AAAA	2001:12ff:0:a20::5
 e.nic.ch.		172800	IN	A	194.0.17.1
 e.nic.ch.		172800	IN	AAAA	2001:678:3::1
 f.nic.ch.		172800	IN	A	194.146.106.10
@@ -2962,12 +2962,12 @@ b0.nic.chrysler.	172800	IN	A	65.22.77.1
 b0.nic.chrysler.	172800	IN	AAAA	2a01:8840:4b::1
 c0.nic.chrysler.	172800	IN	A	65.22.78.1
 c0.nic.chrysler.	172800	IN	AAAA	2a01:8840:4c::1
+church.			86400	IN	DS	50242 8 1 6BE653BAF38F2F2B1FC8F282196168404E4CF98C
+church.			86400	IN	DS	50242 8 2 F4169F7D9437EA63CB5441B5160DDBA9338DEB70111BB17CF273FAD4 3D25989D
 church.			172800	IN	NS	demand.beta.aridns.net.au.
 church.			172800	IN	NS	demand.alpha.aridns.net.au.
 church.			172800	IN	NS	demand.delta.aridns.net.au.
 church.			172800	IN	NS	demand.gamma.aridns.net.au.
-church.			86400	IN	DS	50242 8 1 6BE653BAF38F2F2B1FC8F282196168404E4CF98C
-church.			86400	IN	DS	50242 8 2 F4169F7D9437EA63CB5441B5160DDBA9338DEB70111BB17CF273FAD4 3D25989D
 ci.			172800	IN	NS	ci.hosting.nic.fr.
 ci.			172800	IN	NS	ns.nic.ci.
 ci.			172800	IN	NS	any.nic.ci.
@@ -3027,8 +3027,8 @@ cisco.			86400	IN	DS	45115 8 1 E59D3DC3DA29339EC585252997B1B02D9679DF86
 cisco.			86400	IN	DS	45115 8 2 F1EA02F8D77CB5BB395497D4EFDFCD33C545284EE32C53F78E3FF544 3E477402
 ns1.dns.nic.cisco.	172800	IN	A	156.154.144.44
 ns1.dns.nic.cisco.	172800	IN	AAAA	2610:a1:1071::2c
-ns2.dns.nic.cisco.	172800	IN	AAAA	2610:a1:1072::2c
 ns2.dns.nic.cisco.	172800	IN	A	156.154.145.44
+ns2.dns.nic.cisco.	172800	IN	AAAA	2610:a1:1072::2c
 ns3.dns.nic.cisco.	172800	IN	A	156.154.159.44
 ns3.dns.nic.cisco.	172800	IN	AAAA	2610:a1:1073::2c
 ns4.dns.nic.cisco.	172800	IN	A	156.154.156.44
@@ -3356,8 +3356,8 @@ ns1.samsung.centralnic-dns.com.	172800 IN A	194.169.218.112
 ns1.samsung.centralnic-dns.com.	172800 IN AAAA	2001:67c:13cc::1:112
 ns2.samsung.centralnic-dns.com.	172800 IN A	185.24.64.112
 ns2.samsung.centralnic-dns.com.	172800 IN AAAA	2a04:2b00:13cc::1:112
-ns3.samsung.centralnic-dns.com.	172800 IN A	212.18.248.112
 ns3.samsung.centralnic-dns.com.	172800 IN AAAA	2a04:2b00:13ee::112
+ns3.samsung.centralnic-dns.com.	172800 IN A	212.18.248.112
 ns4.samsung.centralnic-dns.com.	172800 IN A	212.18.249.112
 ns4.samsung.centralnic-dns.com.	172800 IN AAAA	2a04:2b00:13ff::112
 ns1.xn--cg4bki.centralnic-dns.com. 172800 IN A	194.169.218.113
@@ -3742,8 +3742,8 @@ cruise.			86400	IN	DS	62550 7 1 6BE1FA931719330E44C14F8BCDB0AEC8C1765718
 cruise.			86400	IN	DS	62550 7 2 F4A23D33454784D337840885289DFA81CB23A2F65009DECF86C2C84C 03DE91F2
 a0.nic.cruise.		172800	IN	A	65.22.192.25
 a0.nic.cruise.		172800	IN	AAAA	2a01:8840:ba::25
-a2.nic.cruise.		172800	IN	AAAA	2a01:8840:bd::25
 a2.nic.cruise.		172800	IN	A	65.22.195.25
+a2.nic.cruise.		172800	IN	AAAA	2a01:8840:bd::25
 b0.nic.cruise.		172800	IN	A	65.22.193.25
 b0.nic.cruise.		172800	IN	AAAA	2a01:8840:bb::25
 c0.nic.cruise.		172800	IN	A	65.22.194.25
@@ -3801,9 +3801,9 @@ ns01-server.curinfo.cw.	172800	IN	A	65.208.122.36
 ns1.uoc.cw.		172800	IN	A	198.93.177.21
 ns2.uoc.cw.		172800	IN	A	190.112.254.244
 ns3.uoc.cw.		172800	IN	A	200.26.199.99
-cx.			86400	IN	DS	6500 8 2 4854A102492CE0C50C714F366EBBD520CBA38BBEFC91CF295EEE8E6E F7D48CA5
 cx.			172800	IN	NS	ns.cocca.fr.
 cx.			172800	IN	NS	ns.anycast.nic.cx.
+cx.			86400	IN	DS	6500 8 2 4854A102492CE0C50C714F366EBBD520CBA38BBEFC91CF295EEE8E6E F7D48CA5
 ns.anycast.nic.cx.	172800	IN	A	204.61.216.16
 ns.anycast.nic.cx.	172800	IN	AAAA	2001:500:14:6016:ad::1
 cy.			172800	IN	NS	ns1.ucy.ac.cy.
@@ -3864,11 +3864,11 @@ b0.nic.cyou.		172800	IN	A	65.22.129.9
 b0.nic.cyou.		172800	IN	AAAA	2a01:8840:7f::9
 c0.nic.cyou.		172800	IN	A	65.22.130.9
 c0.nic.cyou.		172800	IN	AAAA	2a01:8840:80::9
-cz.			86400	IN	DS	20237 13 2 CFF0F3ECDBC529C1F0031BA1840BFB835853B9209ED1E508FFF48451 D7B778E2
 cz.			172800	IN	NS	a.ns.nic.cz.
 cz.			172800	IN	NS	b.ns.nic.cz.
 cz.			172800	IN	NS	c.ns.nic.cz.
 cz.			172800	IN	NS	d.ns.nic.cz.
+cz.			86400	IN	DS	20237 13 2 CFF0F3ECDBC529C1F0031BA1840BFB835853B9209ED1E508FFF48451 D7B778E2
 ba.anycastdns.cz.	172800	IN	A	185.28.194.194
 ba.anycastdns.cz.	172800	IN	A	185.38.108.108
 kenic.anycastdns.cz.	172800	IN	A	185.28.194.194
@@ -4240,8 +4240,8 @@ ns4.dns.nic.discover.	172800	IN	A	156.154.156.48
 ns4.dns.nic.discover.	172800	IN	AAAA	2610:a1:1074::30
 ns5.dns.nic.discover.	172800	IN	A	156.154.157.48
 ns5.dns.nic.discover.	172800	IN	AAAA	2610:a1:1075::30
-ns6.dns.nic.discover.	172800	IN	AAAA	2610:a1:1076::30
 ns6.dns.nic.discover.	172800	IN	A	156.154.158.48
+ns6.dns.nic.discover.	172800	IN	AAAA	2610:a1:1076::30
 dish.			172800	IN	NS	a0.nic.dish.
 dish.			172800	IN	NS	a2.nic.dish.
 dish.			172800	IN	NS	b0.nic.dish.
@@ -4551,8 +4551,8 @@ earth.			86400	IN	DS	51080 8 1 4958C964D3915C2D2BE329EC3B6F58C48F90E78D
 earth.			86400	IN	DS	51080 8 2 6C4ECBD765F57628C46D0494358AE9A0F21EB72B0F6E33DFE93EDBDD 1D679D36
 ns1.dns.nic.earth.	172800	IN	A	156.154.144.230
 ns1.dns.nic.earth.	172800	IN	AAAA	2610:a1:1071::e6
-ns2.dns.nic.earth.	172800	IN	A	156.154.145.230
 ns2.dns.nic.earth.	172800	IN	AAAA	2610:a1:1072::e6
+ns2.dns.nic.earth.	172800	IN	A	156.154.145.230
 ns3.dns.nic.earth.	172800	IN	A	156.154.159.230
 ns3.dns.nic.earth.	172800	IN	AAAA	2610:a1:1073::e6
 ns4.dns.nic.earth.	172800	IN	A	156.154.156.230
@@ -5361,8 +5361,8 @@ ns3.dns.nic.flir.	172800	IN	A	156.154.159.61
 ns3.dns.nic.flir.	172800	IN	AAAA	2610:a1:1073::3d
 ns4.dns.nic.flir.	172800	IN	A	156.154.156.61
 ns4.dns.nic.flir.	172800	IN	AAAA	2610:a1:1074::3d
-ns5.dns.nic.flir.	172800	IN	AAAA	2610:a1:1075::3d
 ns5.dns.nic.flir.	172800	IN	A	156.154.157.61
+ns5.dns.nic.flir.	172800	IN	AAAA	2610:a1:1075::3d
 ns6.dns.nic.flir.	172800	IN	A	156.154.158.61
 ns6.dns.nic.flir.	172800	IN	AAAA	2610:a1:1076::3d
 florist.		172800	IN	NS	demand.beta.aridns.net.au.
@@ -5476,12 +5476,12 @@ c.nic.forum.		172800	IN	A	212.18.248.65
 c.nic.forum.		172800	IN	AAAA	2a04:2b00:13ee::65
 d.nic.forum.		172800	IN	A	212.18.249.65
 d.nic.forum.		172800	IN	AAAA	2a04:2b00:13ff::65
-foundation.		86400	IN	DS	26866 8 1 BDDB72891FDA72A40994B8C4AC7A026D16942609
-foundation.		86400	IN	DS	26866 8 2 C8C031B1277F1C75104707BD6D4916F38999158A23871602037F59E6 2E78AD1D
 foundation.		172800	IN	NS	demand.beta.aridns.net.au.
 foundation.		172800	IN	NS	demand.alpha.aridns.net.au.
 foundation.		172800	IN	NS	demand.delta.aridns.net.au.
 foundation.		172800	IN	NS	demand.gamma.aridns.net.au.
+foundation.		86400	IN	DS	26866 8 1 BDDB72891FDA72A40994B8C4AC7A026D16942609
+foundation.		86400	IN	DS	26866 8 2 C8C031B1277F1C75104707BD6D4916F38999158A23871602037F59E6 2E78AD1D
 fox.			172800	IN	NS	ns1.dns.nic.fox.
 fox.			172800	IN	NS	ns2.dns.nic.fox.
 fox.			172800	IN	NS	ns3.dns.nic.fox.
@@ -5615,8 +5615,8 @@ ns4.dns.nic.frontier.	172800	IN	A	156.154.156.64
 ns4.dns.nic.frontier.	172800	IN	AAAA	2610:a1:1074::40
 ns5.dns.nic.frontier.	172800	IN	A	156.154.157.64
 ns5.dns.nic.frontier.	172800	IN	AAAA	2610:a1:1075::40
-ns6.dns.nic.frontier.	172800	IN	AAAA	2610:a1:1076::40
 ns6.dns.nic.frontier.	172800	IN	A	156.154.158.64
+ns6.dns.nic.frontier.	172800	IN	AAAA	2610:a1:1076::40
 ftr.			172800	IN	NS	ns1.dns.nic.ftr.
 ftr.			172800	IN	NS	ns2.dns.nic.ftr.
 ftr.			172800	IN	NS	ns3.dns.nic.ftr.
@@ -5729,8 +5729,8 @@ gallup.			172800	IN	NS	b0.nic.gallup.
 gallup.			172800	IN	NS	c0.nic.gallup.
 gallup.			86400	IN	DS	23110 7 1 00F395AE705A7870B16482B0426A47BEF6AF6089
 gallup.			86400	IN	DS	23110 7 2 24D417C21B6927C970EBDC04663366EED8E5E03A6F05453152D70E76 33339CC8
-a0.nic.gallup.		172800	IN	AAAA	2a01:8840:a2::17
 a0.nic.gallup.		172800	IN	A	65.22.168.17
+a0.nic.gallup.		172800	IN	AAAA	2a01:8840:a2::17
 a2.nic.gallup.		172800	IN	A	65.22.171.17
 a2.nic.gallup.		172800	IN	AAAA	2a01:8840:a5::17
 b0.nic.gallup.		172800	IN	A	65.22.169.17
@@ -6500,8 +6500,8 @@ a2.nic.hermes.		172800	IN	A	65.22.235.25
 a2.nic.hermes.		172800	IN	AAAA	2a01:8840:e5::25
 b0.nic.hermes.		172800	IN	A	65.22.233.25
 b0.nic.hermes.		172800	IN	AAAA	2a01:8840:e3::25
-c0.nic.hermes.		172800	IN	A	65.22.234.25
 c0.nic.hermes.		172800	IN	AAAA	2a01:8840:e4::25
+c0.nic.hermes.		172800	IN	A	65.22.234.25
 hgtv.			172800	IN	NS	ac1.nstld.com.
 hgtv.			172800	IN	NS	ac2.nstld.com.
 hgtv.			172800	IN	NS	ac3.nstld.com.
@@ -6562,8 +6562,8 @@ x.hkirc.net.hk.		172800	IN	A	202.45.188.39
 x.hkirc.net.hk.		172800	IN	AAAA	2405:3001:1:3a::27
 y.hkirc.net.hk.		172800	IN	A	137.189.6.21
 y.hkirc.net.hk.		172800	IN	AAAA	2405:3000:3:6::15
-z.hkirc.net.hk.		172800	IN	A	194.146.106.70
 z.hkirc.net.hk.		172800	IN	AAAA	2001:67c:1010:17::53
+z.hkirc.net.hk.		172800	IN	A	194.146.106.70
 hkt.			172800	IN	NS	a0.nic.hkt.
 hkt.			172800	IN	NS	a2.nic.hkt.
 hkt.			172800	IN	NS	b0.nic.hkt.
@@ -6615,8 +6615,8 @@ homedepot.		172800	IN	NS	b0.nic.homedepot.
 homedepot.		172800	IN	NS	c0.nic.homedepot.
 homedepot.		86400	IN	DS	54618 7 1 B78A4F2BA895067DE033F3DDBC154FA0AA002DA0
 homedepot.		86400	IN	DS	54618 7 2 0A490197F5193D09B6D7E63C3FE8415B98F43B3453BC954A29BB927F D6B05CE5
-a0.nic.homedepot.	172800	IN	A	65.22.192.1
 a0.nic.homedepot.	172800	IN	AAAA	2a01:8840:ba::1
+a0.nic.homedepot.	172800	IN	A	65.22.192.1
 a2.nic.homedepot.	172800	IN	A	65.22.195.1
 a2.nic.homedepot.	172800	IN	AAAA	2a01:8840:bd::1
 b0.nic.homedepot.	172800	IN	A	65.22.193.1
@@ -7017,8 +7017,8 @@ c.ns.ie.		172800	IN	A	194.146.106.98
 c.ns.ie.		172800	IN	AAAA	2001:67c:1010:25::53
 d.ns.ie.		172800	IN	A	77.72.229.245
 d.ns.ie.		172800	IN	AAAA	2a01:3f0:0:309::53
-e.ns.ie.		172800	IN	A	199.19.2.1
 e.ns.ie.		172800	IN	AAAA	2001:500:93::1
+e.ns.ie.		172800	IN	A	199.19.2.1
 f.ns.ie.		172800	IN	A	199.19.3.1
 f.ns.ie.		172800	IN	AAAA	2001:500:95::1
 g.ns.ie.		172800	IN	A	192.111.39.100
@@ -7148,8 +7148,8 @@ in.			86400	IN	DS	64788 7 1 82E4E46622B646086C1051A6093DEB897BD1C022
 in.			86400	IN	DS	64788 7 2 4021B67522D8935C8D8D7CE32900ACB382F55E3D1A8DE920233CBE70 A13DA85B
 a0.in.afilias-nst.in.	172800	IN	A	199.7.87.1
 a0.in.afilias-nst.in.	172800	IN	AAAA	2001:500:29::1
-a1.in.afilias-nst.in.	172800	IN	A	115.249.164.142
 a1.in.afilias-nst.in.	172800	IN	AAAA	2001:4528:fff:13::142
+a1.in.afilias-nst.in.	172800	IN	A	115.249.164.142
 a2.in.afilias-nst.in.	172800	IN	A	199.249.117.1
 a2.in.afilias-nst.in.	172800	IN	AAAA	2001:500:45::1
 b0.in.afilias-nst.in.	172800	IN	A	199.253.56.1
@@ -7292,8 +7292,8 @@ b.nic.ink.		172800	IN	A	185.24.64.41
 b.nic.ink.		172800	IN	AAAA	2a04:2b00:13cc::1:41
 c.nic.ink.		172800	IN	A	212.18.248.41
 c.nic.ink.		172800	IN	AAAA	2a04:2b00:13ee::41
-d.nic.ink.		172800	IN	A	212.18.249.41
 d.nic.ink.		172800	IN	AAAA	2a04:2b00:13ff::41
+d.nic.ink.		172800	IN	A	212.18.249.41
 institute.		172800	IN	NS	demand.beta.aridns.net.au.
 institute.		172800	IN	NS	demand.alpha.aridns.net.au.
 institute.		172800	IN	NS	demand.delta.aridns.net.au.
@@ -7480,8 +7480,8 @@ a0.nic.ismaili.		172800	IN	A	65.22.44.25
 a0.nic.ismaili.		172800	IN	AAAA	2a01:8840:2a::25
 a2.nic.ismaili.		172800	IN	A	65.22.47.25
 a2.nic.ismaili.		172800	IN	AAAA	2a01:8840:2d::25
-b0.nic.ismaili.		172800	IN	AAAA	2a01:8840:2b::25
 b0.nic.ismaili.		172800	IN	A	65.22.45.25
+b0.nic.ismaili.		172800	IN	AAAA	2a01:8840:2b::25
 c0.nic.ismaili.		172800	IN	A	65.22.46.25
 c0.nic.ismaili.		172800	IN	AAAA	2a01:8840:2c::25
 ist.			172800	IN	NS	a0.nic.ist.
@@ -7547,8 +7547,8 @@ itau.			86400	IN	DS	18946 8 1 2AB6919C53B10FC05F0B0925450BD293F46C00F4
 itau.			86400	IN	DS	18946 8 2 09C64A6902158E929B7BCA23E3D4B0BE8E6F169FFF40C7B40F5EF8FC 61331556
 ns1.dns.nic.itau.	172800	IN	A	156.154.144.84
 ns1.dns.nic.itau.	172800	IN	AAAA	2610:a1:1071::54
-ns2.dns.nic.itau.	172800	IN	A	156.154.145.84
 ns2.dns.nic.itau.	172800	IN	AAAA	2610:a1:1072::54
+ns2.dns.nic.itau.	172800	IN	A	156.154.145.84
 ns3.dns.nic.itau.	172800	IN	A	156.154.159.84
 ns3.dns.nic.itau.	172800	IN	AAAA	2610:a1:1073::54
 ns4.dns.nic.itau.	172800	IN	A	156.154.156.84
@@ -7606,8 +7606,8 @@ jcp.			172800	IN	NS	b0.nic.jcp.
 jcp.			172800	IN	NS	c0.nic.jcp.
 jcp.			86400	IN	DS	36598 7 1 EA3DEFD5B9335868E823DCA3F71476C116A9CC22
 jcp.			86400	IN	DS	36598 7 2 0708EFCCDDC36CFC2DB3D70931EF47EC3851081C84D797ADFA7475E1 DC57ECE8
-a0.nic.jcp.		172800	IN	A	65.22.216.33
 a0.nic.jcp.		172800	IN	AAAA	2a01:8840:d2::33
+a0.nic.jcp.		172800	IN	A	65.22.216.33
 a2.nic.jcp.		172800	IN	A	65.22.219.33
 a2.nic.jcp.		172800	IN	AAAA	2a01:8840:d5::33
 b0.nic.jcp.		172800	IN	A	65.22.217.33
@@ -7736,8 +7736,8 @@ jnj.			86400	IN	DS	19175 8 1 17B46009169A89A0CAAC6A03D1D77AC23B54BEC2
 jnj.			86400	IN	DS	19175 8 2 79772BF4AFDDF7C772035543992EA85BB999BA2089493C09A6D2F1AC 6904FD10
 jnj.			86400	IN	DS	33484 8 1 DA598AB6C83E5392B851C1DA98DAD6DDBDA10A45
 jnj.			86400	IN	DS	33484 8 2 959E8DCAA6BACBB311C85DF1DF9DED0E1B84DFD2AFA59D236640A5AC 86746649
-ns1.dns.nic.jnj.	172800	IN	A	156.154.144.89
 ns1.dns.nic.jnj.	172800	IN	AAAA	2610:a1:1071::59
+ns1.dns.nic.jnj.	172800	IN	A	156.154.144.89
 ns2.dns.nic.jnj.	172800	IN	A	156.154.145.89
 ns2.dns.nic.jnj.	172800	IN	AAAA	2610:a1:1072::59
 ns3.dns.nic.jnj.	172800	IN	A	156.154.159.89
@@ -7802,8 +7802,8 @@ ns1.dns.nic.joy.	172800	IN	A	156.154.144.91
 ns1.dns.nic.joy.	172800	IN	AAAA	2610:a1:1071::5b
 ns2.dns.nic.joy.	172800	IN	A	156.154.145.91
 ns2.dns.nic.joy.	172800	IN	AAAA	2610:a1:1072::5b
-ns3.dns.nic.joy.	172800	IN	AAAA	2610:a1:1073::5b
 ns3.dns.nic.joy.	172800	IN	A	156.154.159.91
+ns3.dns.nic.joy.	172800	IN	AAAA	2610:a1:1073::5b
 ns4.dns.nic.joy.	172800	IN	A	156.154.156.91
 ns4.dns.nic.joy.	172800	IN	AAAA	2610:a1:1074::5b
 ns5.dns.nic.joy.	172800	IN	A	156.154.157.91
@@ -7874,16 +7874,16 @@ tld4.nic.jprs.		172800	IN	A	103.198.210.1
 tld4.nic.jprs.		172800	IN	AAAA	2403:2880::1
 tld5.nic.jprs.		172800	IN	A	65.22.40.129
 tld5.nic.jprs.		172800	IN	AAAA	2a01:8840:1ba::129
+juegos.			172800	IN	NS	ns1.uniregistry.net.
+juegos.			172800	IN	NS	ns2.uniregistry.info.
+juegos.			172800	IN	NS	ns3.uniregistry.net.
+juegos.			172800	IN	NS	ns4.uniregistry.info.
 juegos.			86400	IN	DS	20797 5 1 A5EBCAF9F525AE2F33F5018D7967567B61789EB9
 juegos.			86400	IN	DS	20797 5 2 55789B935E93C3247273BFA6C5AC78479317F73F2955B38B480EDAC8 52806731
 juegos.			86400	IN	DS	47062 5 1 B4FB5CB337512B092E75E7E37E2912F31A294FFF
 juegos.			86400	IN	DS	47062 5 2 972404483D7387F7B95E385A7F737C8C368A32F16E01C74E93D6707E 04130461
 juegos.			86400	IN	DS	49006 5 1 333E711F9EC53C85D9B63260A7828BF88A403030
 juegos.			86400	IN	DS	49006 5 2 08A71D3B2D5592233B3F0BDA9888E20DEE11FF5E7D84EA46A0C84231 65C8AF16
-juegos.			172800	IN	NS	ns1.uniregistry.net.
-juegos.			172800	IN	NS	ns2.uniregistry.info.
-juegos.			172800	IN	NS	ns3.uniregistry.net.
-juegos.			172800	IN	NS	ns4.uniregistry.info.
 juniper.		172800	IN	NS	ac1.nstld.com.
 juniper.		172800	IN	NS	ac2.nstld.com.
 juniper.		172800	IN	NS	ac3.nstld.com.
@@ -8280,11 +8280,11 @@ land.			172800	IN	NS	demand.delta.aridns.net.au.
 land.			172800	IN	NS	demand.gamma.aridns.net.au.
 land.			86400	IN	DS	8800 8 1 DB6CAE14C58E12329361C56E513028EF8AB2F2D2
 land.			86400	IN	DS	8800 8 2 65F641A1817A3EF940D52694BD43B9C9DC7993241D3C4CFAD4471DED C84B09C9
+landrover.		86400	IN	DS	49638 8 2 EAA7250CEFCDC81ACB55B0E6AB33B7F82825C253691FB3D33C8C9109 A87C6089
 landrover.		172800	IN	NS	ac1.nstld.com.
 landrover.		172800	IN	NS	ac2.nstld.com.
 landrover.		172800	IN	NS	ac3.nstld.com.
 landrover.		172800	IN	NS	ac4.nstld.com.
-landrover.		86400	IN	DS	49638 8 2 EAA7250CEFCDC81ACB55B0E6AB33B7F82825C253691FB3D33C8C9109 A87C6089
 lanxess.		172800	IN	NS	ns1.dns.nic.lanxess.
 lanxess.		172800	IN	NS	ns2.dns.nic.lanxess.
 lanxess.		172800	IN	NS	ns3.dns.nic.lanxess.
@@ -8403,8 +8403,8 @@ lds.			86400	IN	DS	934 7 1 B24B8B815C37C6448C2603F4D9AE6301C3A817B2
 lds.			86400	IN	DS	934 7 2 BE4AFC3ACFD9C657F3D3BD3EED892EE356E17FCB5DF287E3755797EB 66B28C21
 a0.nic.lds.		172800	IN	A	65.22.152.9
 a0.nic.lds.		172800	IN	AAAA	2a01:8840:96::9
-a2.nic.lds.		172800	IN	A	65.22.155.9
 a2.nic.lds.		172800	IN	AAAA	2a01:8840:99::9
+a2.nic.lds.		172800	IN	A	65.22.155.9
 b0.nic.lds.		172800	IN	A	65.22.153.9
 b0.nic.lds.		172800	IN	AAAA	2a01:8840:97::9
 c0.nic.lds.		172800	IN	A	65.22.154.9
@@ -8589,8 +8589,8 @@ ns2.dns.nic.lilly.	172800	IN	A	156.154.145.104
 ns2.dns.nic.lilly.	172800	IN	AAAA	2610:a1:1072::68
 ns3.dns.nic.lilly.	172800	IN	A	156.154.159.104
 ns3.dns.nic.lilly.	172800	IN	AAAA	2610:a1:1073::68
-ns4.dns.nic.lilly.	172800	IN	AAAA	2610:a1:1074::68
 ns4.dns.nic.lilly.	172800	IN	A	156.154.156.104
+ns4.dns.nic.lilly.	172800	IN	AAAA	2610:a1:1074::68
 ns5.dns.nic.lilly.	172800	IN	A	156.154.157.104
 ns5.dns.nic.lilly.	172800	IN	AAAA	2610:a1:1075::68
 ns6.dns.nic.lilly.	172800	IN	A	156.154.158.104
@@ -8781,8 +8781,8 @@ loft.			86400	IN	DS	38956 8 1 7B6EAB53EC4930BB251EE8D085DBE3635AE9EE21
 loft.			86400	IN	DS	38956 8 2 D80FDA21CE38B1ADFA2842E2F6FF8F28B88E185C71B0401CC79B762E 58E653FD
 ns1.dns.nic.loft.	172800	IN	A	156.154.144.107
 ns1.dns.nic.loft.	172800	IN	AAAA	2610:a1:1071::6b
-ns2.dns.nic.loft.	172800	IN	AAAA	2610:a1:1072::6b
 ns2.dns.nic.loft.	172800	IN	A	156.154.145.107
+ns2.dns.nic.loft.	172800	IN	AAAA	2610:a1:1072::6b
 ns3.dns.nic.loft.	172800	IN	A	156.154.159.107
 ns3.dns.nic.loft.	172800	IN	AAAA	2610:a1:1073::6b
 ns4.dns.nic.loft.	172800	IN	A	156.154.156.107
@@ -8912,8 +8912,8 @@ b.tld.lt.		172800	IN	A	194.0.20.1
 b.tld.lt.		172800	IN	AAAA	2001:678:19::1
 c.tld.lt.		172800	IN	A	194.0.1.4
 c.tld.lt.		172800	IN	AAAA	2001:678:4::4
-d.tld.lt.		172800	IN	A	194.0.3.1
 d.tld.lt.		172800	IN	AAAA	2001:678:6::1
+d.tld.lt.		172800	IN	A	194.0.3.1
 e.tld.lt.		172800	IN	A	194.0.18.1
 f.tld.lt.		172800	IN	A	194.0.19.1
 f.tld.lt.		172800	IN	AAAA	2001:678:8c::1
@@ -9088,12 +9088,12 @@ map.			172800	IN	NS	ns-tld3.charlestonroadregistry.com.
 map.			172800	IN	NS	ns-tld4.charlestonroadregistry.com.
 map.			172800	IN	NS	ns-tld5.charlestonroadregistry.com.
 map.			86400	IN	DS	16600 8 2 2B0DBAFC4EAFA98FBED02ADB2FF33C9AF7666F2F9910A141573F5113 97393A4B
+market.			86400	IN	DS	37252 8 1 41D1CFFB195ADF536509094AB739E233B4087803
+market.			86400	IN	DS	37252 8 2 D52A8E1A1A26B8EF35882D298A0DE75657DBAAC7F7C89B8148EC9EC1 9F5BBEBC
 market.			172800	IN	NS	demand.beta.aridns.net.au.
 market.			172800	IN	NS	demand.alpha.aridns.net.au.
 market.			172800	IN	NS	demand.delta.aridns.net.au.
 market.			172800	IN	NS	demand.gamma.aridns.net.au.
-market.			86400	IN	DS	37252 8 1 41D1CFFB195ADF536509094AB739E233B4087803
-market.			86400	IN	DS	37252 8 2 D52A8E1A1A26B8EF35882D298A0DE75657DBAAC7F7C89B8148EC9EC1 9F5BBEBC
 marketing.		172800	IN	NS	demand.beta.aridns.net.au.
 marketing.		172800	IN	NS	demand.alpha.aridns.net.au.
 marketing.		172800	IN	NS	demand.delta.aridns.net.au.
@@ -9147,8 +9147,8 @@ maserati.		172800	IN	NS	b0.nic.maserati.
 maserati.		172800	IN	NS	c0.nic.maserati.
 maserati.		86400	IN	DS	52146 7 1 901A94250210C575DD41938B4064DFFCE6B443DC
 maserati.		86400	IN	DS	52146 7 2 C798F7039F390F0851FF3C9AA3825ED0E971730AAA2143109185625D A8ADD7F1
-a0.nic.maserati.	172800	IN	AAAA	2a01:8840:7a::33
 a0.nic.maserati.	172800	IN	A	65.22.124.33
+a0.nic.maserati.	172800	IN	AAAA	2a01:8840:7a::33
 a2.nic.maserati.	172800	IN	A	65.22.127.33
 a2.nic.maserati.	172800	IN	AAAA	2a01:8840:7d::33
 b0.nic.maserati.	172800	IN	A	65.22.125.33
@@ -9214,13 +9214,13 @@ nsb.dns.md.		172800	IN	A	217.26.144.15
 nsca.dns.md.		172800	IN	A	144.217.93.2
 nsf.dns.md.		172800	IN	A	86.106.212.21
 nsfr.dns.md.		172800	IN	A	92.222.76.179
+me.			86400	IN	DS	2569 7 1 09BA1EB4D20402620881FD9848994417800DB26A
+me.			86400	IN	DS	2569 7 2 94E798106F033500E67567B197AE9132C0E916764DC743C55A9ECA3C 7BF559E2
 me.			172800	IN	NS	a0.nic.me.
 me.			172800	IN	NS	a2.nic.me.
 me.			172800	IN	NS	b0.nic.me.
 me.			172800	IN	NS	b2.nic.me.
 me.			172800	IN	NS	c0.nic.me.
-me.			86400	IN	DS	2569 7 1 09BA1EB4D20402620881FD9848994417800DB26A
-me.			86400	IN	DS	2569 7 2 94E798106F033500E67567B197AE9132C0E916764DC743C55A9ECA3C 7BF559E2
 a0.nic.me.		172800	IN	A	199.253.59.1
 a0.nic.me.		172800	IN	AAAA	2001:500:53::1
 a2.nic.me.		172800	IN	A	199.249.119.1
@@ -9393,8 +9393,8 @@ ns1.dns.nic.mint.	172800	IN	A	156.154.144.112
 ns1.dns.nic.mint.	172800	IN	AAAA	2610:a1:1071::70
 ns2.dns.nic.mint.	172800	IN	A	156.154.145.112
 ns2.dns.nic.mint.	172800	IN	AAAA	2610:a1:1072::70
-ns3.dns.nic.mint.	172800	IN	A	156.154.159.112
 ns3.dns.nic.mint.	172800	IN	AAAA	2610:a1:1073::70
+ns3.dns.nic.mint.	172800	IN	A	156.154.159.112
 ns4.dns.nic.mint.	172800	IN	A	156.154.156.112
 ns4.dns.nic.mint.	172800	IN	AAAA	2610:a1:1074::70
 ns5.dns.nic.mint.	172800	IN	A	156.154.157.112
@@ -9459,11 +9459,11 @@ ns5.dns.nic.mlb.	172800	IN	A	156.154.157.113
 ns5.dns.nic.mlb.	172800	IN	AAAA	2610:a1:1075::71
 ns6.dns.nic.mlb.	172800	IN	A	156.154.158.113
 ns6.dns.nic.mlb.	172800	IN	AAAA	2610:a1:1076::71
+mls.			86400	IN	DS	50649 8 2 4494D7D0A0196BA6B36FB055B227D400043ADA39C0BEC75C14320271 264660CB
 mls.			172800	IN	NS	ac1.nstld.com.
 mls.			172800	IN	NS	ac2.nstld.com.
 mls.			172800	IN	NS	ac3.nstld.com.
 mls.			172800	IN	NS	ac4.nstld.com.
-mls.			86400	IN	DS	50649 8 2 4494D7D0A0196BA6B36FB055B227D400043ADA39C0BEC75C14320271 264660CB
 mm.			172800	IN	NS	mm.cctld.authdns.ripe.net.
 mm.			172800	IN	NS	ns0.nic.net.mm.
 mm.			172800	IN	NS	ns1.nic.net.mm.
@@ -9650,12 +9650,12 @@ b0.nic.monster.		172800	IN	A	65.22.101.25
 b0.nic.monster.		172800	IN	AAAA	2a01:8840:63::25
 c0.nic.monster.		172800	IN	A	65.22.102.25
 c0.nic.monster.		172800	IN	AAAA	2a01:8840:64::25
-mopar.			86400	IN	DS	57114 7 1 2E878D693305FD8BF1C2CF8FDB507DF3F60B4842
-mopar.			86400	IN	DS	57114 7 2 D2C438ACA58FFECDD8FC5C443B01E5D09B1A8E1DE45941E24543E865 B133E6D1
 mopar.			172800	IN	NS	a0.nic.mopar.
 mopar.			172800	IN	NS	a2.nic.mopar.
 mopar.			172800	IN	NS	b0.nic.mopar.
 mopar.			172800	IN	NS	c0.nic.mopar.
+mopar.			86400	IN	DS	57114 7 1 2E878D693305FD8BF1C2CF8FDB507DF3F60B4842
+mopar.			86400	IN	DS	57114 7 2 D2C438ACA58FFECDD8FC5C443B01E5D09B1A8E1DE45941E24543E865 B133E6D1
 a0.nic.mopar.		172800	IN	A	65.22.76.33
 a0.nic.mopar.		172800	IN	AAAA	2a01:8840:4a::33
 a2.nic.mopar.		172800	IN	A	65.22.79.33
@@ -9944,12 +9944,12 @@ b0.nic.natura.		172800	IN	A	65.22.241.33
 b0.nic.natura.		172800	IN	AAAA	2a01:8840:eb::33
 c0.nic.natura.		172800	IN	A	65.22.242.33
 c0.nic.natura.		172800	IN	AAAA	2a01:8840:ec::33
-navy.			86400	IN	DS	30811 8 1 6404010706B4EABFD9428133AC1E45EA37E5A468
-navy.			86400	IN	DS	30811 8 2 E02A4267F952B7E3065AD7FBF89B34DA45AECC101C3F0F05F0F2C93E B21CFFB1
 navy.			172800	IN	NS	demand.beta.aridns.net.au.
 navy.			172800	IN	NS	demand.alpha.aridns.net.au.
 navy.			172800	IN	NS	demand.delta.aridns.net.au.
 navy.			172800	IN	NS	demand.gamma.aridns.net.au.
+navy.			86400	IN	DS	30811 8 1 6404010706B4EABFD9428133AC1E45EA37E5A468
+navy.			86400	IN	DS	30811 8 2 E02A4267F952B7E3065AD7FBF89B34DA45AECC101C3F0F05F0F2C93E B21CFFB1
 nba.			172800	IN	NS	ns1.dns.nic.nba.
 nba.			172800	IN	NS	ns2.dns.nic.nba.
 nba.			172800	IN	NS	ns3.dns.nic.nba.
@@ -10181,8 +10181,8 @@ tld.gdns.net.		172800	IN	A	68.178.129.149
 ns2.gip.net.		172800	IN	A	204.59.1.222
 a.gmoregistry.net.	172800	IN	A	37.209.192.4
 a.gmoregistry.net.	172800	IN	AAAA	2001:dcd:1::4
-b.gmoregistry.net.	172800	IN	AAAA	2001:dcd:2::4
 b.gmoregistry.net.	172800	IN	A	37.209.194.4
+b.gmoregistry.net.	172800	IN	AAAA	2001:dcd:2::4
 k.gmoregistry.net.	172800	IN	A	37.209.196.4
 l.gmoregistry.net.	172800	IN	A	37.209.198.4
 l.gmoregistry.net.	172800	IN	AAAA	2001:dcd:4::4
@@ -10271,8 +10271,8 @@ cl-ns.anycast.pch.net.	172800	IN	A	204.61.216.30
 cl-ns.anycast.pch.net.	172800	IN	AAAA	2001:500:14:6030:ad::1
 cy-ns.anycast.pch.net.	172800	IN	A	204.61.216.44
 cy-ns.anycast.pch.net.	172800	IN	AAAA	2001:500:14:6044:ad::1
-gd-ns.anycast.pch.net.	172800	IN	AAAA	2001:500:14:6047:ad::1
 gd-ns.anycast.pch.net.	172800	IN	A	204.61.216.47
+gd-ns.anycast.pch.net.	172800	IN	AAAA	2001:500:14:6047:ad::1
 gy-ns.anycast.pch.net.	172800	IN	A	204.61.216.34
 gy-ns.anycast.pch.net.	172800	IN	AAAA	2001:500:14:6034:ad::1
 ht-ns.anycast.pch.net.	172800	IN	A	204.61.216.38
@@ -10514,8 +10514,8 @@ a0.nic.newholland.	172800	IN	A	65.22.120.25
 a0.nic.newholland.	172800	IN	AAAA	2a01:8840:76::25
 a2.nic.newholland.	172800	IN	A	65.22.123.25
 a2.nic.newholland.	172800	IN	AAAA	2a01:8840:79::25
-b0.nic.newholland.	172800	IN	AAAA	2a01:8840:77::25
 b0.nic.newholland.	172800	IN	A	65.22.121.25
+b0.nic.newholland.	172800	IN	AAAA	2a01:8840:77::25
 c0.nic.newholland.	172800	IN	A	65.22.122.25
 c0.nic.newholland.	172800	IN	AAAA	2a01:8840:78::25
 news.			172800	IN	NS	demand.beta.aridns.net.au.
@@ -10635,8 +10635,8 @@ ns2.dns.nic.nike.	172800	IN	A	156.154.145.123
 ns2.dns.nic.nike.	172800	IN	AAAA	2610:a1:1072::7b
 ns3.dns.nic.nike.	172800	IN	A	156.154.159.123
 ns3.dns.nic.nike.	172800	IN	AAAA	2610:a1:1073::7b
-ns4.dns.nic.nike.	172800	IN	AAAA	2610:a1:1074::7b
 ns4.dns.nic.nike.	172800	IN	A	156.154.156.123
+ns4.dns.nic.nike.	172800	IN	AAAA	2610:a1:1074::7b
 ns5.dns.nic.nike.	172800	IN	A	156.154.157.123
 ns5.dns.nic.nike.	172800	IN	AAAA	2610:a1:1075::7b
 ns6.dns.nic.nike.	172800	IN	A	156.154.158.123
@@ -10693,8 +10693,8 @@ z.nic.no.		172800	IN	AAAA	2001:700:0:52d:158:38:8:133
 njet.norid.no.		172800	IN	A	156.154.101.12
 not.norid.no.		172800	IN	A	156.154.100.12
 not.norid.no.		172800	IN	AAAA	2001:502:ad09::12
-nn.uninett.no.		172800	IN	AAAA	2001:700:0:503::aa:5302
 nn.uninett.no.		172800	IN	A	158.38.0.181
+nn.uninett.no.		172800	IN	AAAA	2001:700:0:503::aa:5302
 nokia.			172800	IN	NS	a0.nic.nokia.
 nokia.			172800	IN	NS	a2.nic.nokia.
 nokia.			172800	IN	NS	b0.nic.nokia.
@@ -11025,8 +11025,8 @@ ns4.dns.nic.oldnavy.	172800	IN	A	156.154.156.127
 ns4.dns.nic.oldnavy.	172800	IN	AAAA	2610:a1:1074::7f
 ns5.dns.nic.oldnavy.	172800	IN	A	156.154.157.127
 ns5.dns.nic.oldnavy.	172800	IN	AAAA	2610:a1:1075::7f
-ns6.dns.nic.oldnavy.	172800	IN	A	156.154.158.127
 ns6.dns.nic.oldnavy.	172800	IN	AAAA	2610:a1:1076::7f
+ns6.dns.nic.oldnavy.	172800	IN	A	156.154.158.127
 ollo.			172800	IN	NS	a0.nic.ollo.
 ollo.			172800	IN	NS	a2.nic.ollo.
 ollo.			172800	IN	NS	b0.nic.ollo.
@@ -11152,8 +11152,8 @@ ns1.dns.nic.open.	172800	IN	A	156.154.144.128
 ns1.dns.nic.open.	172800	IN	AAAA	2610:a1:1071::80
 ns2.dns.nic.open.	172800	IN	A	156.154.145.128
 ns2.dns.nic.open.	172800	IN	AAAA	2610:a1:1072::80
-ns3.dns.nic.open.	172800	IN	AAAA	2610:a1:1073::80
 ns3.dns.nic.open.	172800	IN	A	156.154.159.128
+ns3.dns.nic.open.	172800	IN	AAAA	2610:a1:1073::80
 ns4.dns.nic.open.	172800	IN	A	156.154.156.128
 ns4.dns.nic.open.	172800	IN	AAAA	2610:a1:1074::80
 ns5.dns.nic.open.	172800	IN	A	156.154.157.128
@@ -11422,8 +11422,8 @@ pars.			172800	IN	NS	b.ns.nic.pars.
 pars.			172800	IN	NS	ns.cocca.fr.
 pars.			172800	IN	NS	ns.coccaregistry.org.
 pars.			86400	IN	DS	2911 8 2 BD1468967B866D21C106F1A2B92906604380E7787BE97AC2855219DD E2CD2285
-a.ns.nic.pars.		172800	IN	A	72.0.49.5
 a.ns.nic.pars.		172800	IN	AAAA	2620:171:a01:ad::5
+a.ns.nic.pars.		172800	IN	A	72.0.49.5
 b.ns.nic.pars.		172800	IN	A	72.42.113.5
 b.ns.nic.pars.		172800	IN	AAAA	2620:171:d01:dc::5
 partners.		172800	IN	NS	demand.beta.aridns.net.au.
@@ -11615,8 +11615,8 @@ philips.		172800	IN	NS	c.nic.philips.
 philips.		172800	IN	NS	d.nic.philips.
 philips.		86400	IN	DS	16027 8 1 27B6E5AE12558470199109C704F44A2CBADBC165
 philips.		86400	IN	DS	16027 8 2 7E358A0F0EF3AEB949129FF0CDC99217520670330E32B08A87421C2F 5D02F05F
-a.nic.philips.		172800	IN	AAAA	2001:dcd:1::9
 a.nic.philips.		172800	IN	A	37.209.192.9
+a.nic.philips.		172800	IN	AAAA	2001:dcd:1::9
 b.nic.philips.		172800	IN	A	37.209.194.9
 b.nic.philips.		172800	IN	AAAA	2001:dcd:2::9
 c.nic.philips.		172800	IN	A	37.209.196.9
@@ -11742,8 +11742,8 @@ pin.			86400	IN	DS	38257 8 1 30F207F2FB23EAF2F09CD63C0FD61568C3B36F06
 pin.			86400	IN	DS	38257 8 2 A725E25405359FBBE28339464F1C5FCBD29BE2AABBD8F23A41A7DEAB BCEFB5F0
 ns1.dns.nic.pin.	172800	IN	A	156.154.169.28
 ns1.dns.nic.pin.	172800	IN	AAAA	2610:a1:1071::1:1c
-ns2.dns.nic.pin.	172800	IN	A	156.154.170.28
 ns2.dns.nic.pin.	172800	IN	AAAA	2610:a1:1072::1:1c
+ns2.dns.nic.pin.	172800	IN	A	156.154.170.28
 ns3.dns.nic.pin.	172800	IN	A	156.154.171.28
 ns3.dns.nic.pin.	172800	IN	AAAA	2610:a1:1073::1:1c
 ns4.dns.nic.pin.	172800	IN	A	156.154.172.28
@@ -11924,8 +11924,8 @@ politie.		172800	IN	NS	ns1.nic.politie.
 politie.		172800	IN	NS	ns3.nic.politie.
 politie.		172800	IN	NS	sns-pb.isc.org.
 politie.		86400	IN	DS	63485 8 2 98F1793434C640FCB733F3A17C6BBE63D32666DEBE54BB4D264BC22F 273A4E15
-ns1.nic.politie.	172800	IN	A	194.0.28.5
 ns1.nic.politie.	172800	IN	AAAA	2001:678:2c:0:194:0:28:5
+ns1.nic.politie.	172800	IN	A	194.0.28.5
 ns3.nic.politie.	172800	IN	A	194.0.25.27
 ns3.nic.politie.	172800	IN	AAAA	2001:678:20::27
 porn.			172800	IN	NS	a0.nic.porn.
@@ -12258,8 +12258,8 @@ py.			172800	IN	NS	p.dns.py.
 py.			172800	IN	NS	u.dns.py.
 b.dns.py.		172800	IN	A	200.160.0.5
 b.dns.py.		172800	IN	AAAA	2001:12ff:0:a20::5
-c.dns.py.		172800	IN	A	130.59.31.30
 c.dns.py.		172800	IN	AAAA	2001:620:0:ff::30
+c.dns.py.		172800	IN	A	130.59.31.30
 l.dns.py.		172800	IN	A	200.0.68.10
 l.dns.py.		172800	IN	AAAA	2801:14:a000::10
 m.dns.py.		172800	IN	A	200.33.111.1
@@ -12515,12 +12515,12 @@ c.nic.reit.		172800	IN	A	212.18.248.38
 c.nic.reit.		172800	IN	AAAA	2a04:2b00:13ee::38
 d.nic.reit.		172800	IN	A	212.18.249.38
 d.nic.reit.		172800	IN	AAAA	2a04:2b00:13ff::38
+reliance.		86400	IN	DS	54214 7 1 D7B1272496615834548FD39B38AD9104718F288E
+reliance.		86400	IN	DS	54214 7 2 72F9F4415EBE13628D09DFCD5FDC5C079B07EC5186CB89F28541C7A5 C42A457E
 reliance.		172800	IN	NS	a0.nic.reliance.
 reliance.		172800	IN	NS	a2.nic.reliance.
 reliance.		172800	IN	NS	b0.nic.reliance.
 reliance.		172800	IN	NS	c0.nic.reliance.
-reliance.		86400	IN	DS	54214 7 1 D7B1272496615834548FD39B38AD9104718F288E
-reliance.		86400	IN	DS	54214 7 2 72F9F4415EBE13628D09DFCD5FDC5C079B07EC5186CB89F28541C7A5 C42A457E
 a0.nic.reliance.	172800	IN	A	65.22.108.25
 a0.nic.reliance.	172800	IN	AAAA	2a01:8840:6a::25
 a2.nic.reliance.	172800	IN	A	65.22.111.25
@@ -12829,8 +12829,8 @@ h.nic.rs.		172800	IN	A	91.199.17.60
 h.nic.rs.		172800	IN	AAAA	2001:67c:69c::60
 k.nic.rs.		172800	IN	A	192.5.4.1
 k.nic.rs.		172800	IN	AAAA	2001:500:2e::1
-l.nic.rs.		172800	IN	A	194.146.106.114
 l.nic.rs.		172800	IN	AAAA	2001:67c:1010:29::53
+l.nic.rs.		172800	IN	A	194.146.106.114
 rsvp.			172800	IN	NS	ns-tld1.charlestonroadregistry.com.
 rsvp.			172800	IN	NS	ns-tld2.charlestonroadregistry.com.
 rsvp.			172800	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -12948,8 +12948,8 @@ ns1.dns.nic.safety.	172800	IN	A	156.154.144.148
 ns1.dns.nic.safety.	172800	IN	AAAA	2610:a1:1071::94
 ns2.dns.nic.safety.	172800	IN	A	156.154.145.148
 ns2.dns.nic.safety.	172800	IN	AAAA	2610:a1:1072::94
-ns3.dns.nic.safety.	172800	IN	A	156.154.159.148
 ns3.dns.nic.safety.	172800	IN	AAAA	2610:a1:1073::94
+ns3.dns.nic.safety.	172800	IN	A	156.154.159.148
 ns4.dns.nic.safety.	172800	IN	A	156.154.156.148
 ns4.dns.nic.safety.	172800	IN	AAAA	2610:a1:1074::94
 ns5.dns.nic.safety.	172800	IN	A	156.154.157.148
@@ -13193,12 +13193,12 @@ b0.nic.scholarships.	172800	IN	A	65.22.141.17
 b0.nic.scholarships.	172800	IN	AAAA	2a01:8840:8b::17
 c0.nic.scholarships.	172800	IN	A	65.22.142.17
 c0.nic.scholarships.	172800	IN	AAAA	2a01:8840:8c::17
+school.			86400	IN	DS	37876 8 1 2CA6E63FC24825749293CC1470546B7D3AB1CA6D
+school.			86400	IN	DS	37876 8 2 949632616DDC65064FBA7F90DF25402D3757F8586A6D7860444F6340 0FF3066D
 school.			172800	IN	NS	demand.beta.aridns.net.au.
 school.			172800	IN	NS	demand.alpha.aridns.net.au.
 school.			172800	IN	NS	demand.delta.aridns.net.au.
 school.			172800	IN	NS	demand.gamma.aridns.net.au.
-school.			86400	IN	DS	37876 8 1 2CA6E63FC24825749293CC1470546B7D3AB1CA6D
-school.			86400	IN	DS	37876 8 2 949632616DDC65064FBA7F90DF25402D3757F8586A6D7860444F6340 0FF3066D
 schule.			172800	IN	NS	demand.beta.aridns.net.au.
 schule.			172800	IN	NS	demand.alpha.aridns.net.au.
 schule.			172800	IN	NS	demand.delta.aridns.net.au.
@@ -13324,11 +13324,11 @@ search.			172800	IN	NS	ns-tld3.charlestonroadregistry.com.
 search.			172800	IN	NS	ns-tld4.charlestonroadregistry.com.
 search.			172800	IN	NS	ns-tld5.charlestonroadregistry.com.
 search.			86400	IN	DS	36497 8 2 AFAEC406996DF5555FC4365C07C7C74DE82FE7CF5264FC5FAD9D1AB9 48F3DA28
+seat.			86400	IN	DS	40138 10 2 8531B10A28C981D28F0F412DBE6A7985EFFE40BF0EFC8F2F80D45F85 770C1A8A
 seat.			172800	IN	NS	anycast9.irondns.net.
 seat.			172800	IN	NS	anycast10.irondns.net.
 seat.			172800	IN	NS	anycast23.irondns.net.
 seat.			172800	IN	NS	anycast24.irondns.net.
-seat.			86400	IN	DS	40138 10 2 8531B10A28C981D28F0F412DBE6A7985EFFE40BF0EFC8F2F80D45F85 770C1A8A
 secure.			172800	IN	NS	ns1.dns.nic.secure.
 secure.			172800	IN	NS	ns2.dns.nic.secure.
 secure.			172800	IN	NS	ns3.dns.nic.secure.
@@ -13517,8 +13517,8 @@ a2.nic.sh.		172800	IN	A	65.22.163.9
 a2.nic.sh.		172800	IN	AAAA	2a01:8840:a1::9
 b0.nic.sh.		172800	IN	A	65.22.161.9
 b0.nic.sh.		172800	IN	AAAA	2a01:8840:9f::9
-c0.nic.sh.		172800	IN	AAAA	2a01:8840:a0::9
 c0.nic.sh.		172800	IN	A	65.22.162.9
+c0.nic.sh.		172800	IN	AAAA	2a01:8840:a0::9
 ns-a1.sh.		172800	IN	A	194.0.1.1
 ns-a1.sh.		172800	IN	AAAA	2001:678:4::1
 ns-a3.sh.		172800	IN	A	74.116.178.1
@@ -13695,12 +13695,12 @@ singles.		172800	IN	NS	demand.delta.aridns.net.au.
 singles.		172800	IN	NS	demand.gamma.aridns.net.au.
 singles.		86400	IN	DS	50764 8 1 9D3090F52784B568D12A9DD3D5FC38BAD640BD56
 singles.		86400	IN	DS	50764 8 2 C28D1A306DA4FC2A75916B6EE9CB1A09029E2AD394069A375E39C82D 3C737867
-site.			86400	IN	DS	51676 8 1 90DDBEEEB973B0F8719ED763FB6EEDE97C73ABF5
-site.			86400	IN	DS	51676 8 2 883175F6F5C68EA81563B62D1B2B79B6A997D60DC6E20CC70AFD0CD6 B7E82F62
 site.			172800	IN	NS	a.nic.site.
 site.			172800	IN	NS	b.nic.site.
 site.			172800	IN	NS	c.nic.site.
 site.			172800	IN	NS	d.nic.site.
+site.			86400	IN	DS	51676 8 1 90DDBEEEB973B0F8719ED763FB6EEDE97C73ABF5
+site.			86400	IN	DS	51676 8 2 883175F6F5C68EA81563B62D1B2B79B6A997D60DC6E20CC70AFD0CD6 B7E82F62
 a.nic.site.		172800	IN	A	194.169.218.61
 a.nic.site.		172800	IN	AAAA	2001:67c:13cc::1:61
 b.nic.site.		172800	IN	A	185.24.64.61
@@ -13995,8 +13995,8 @@ srl.			172800	IN	NS	b0.nic.srl.
 srl.			172800	IN	NS	c0.nic.srl.
 srl.			86400	IN	DS	16923 7 1 D238CCACAB989CB47AD542AAB1ABA32BB601CE33
 srl.			86400	IN	DS	16923 7 2 DDC08432E8534F2FB8E8C23CAB08263E74C7ADA5BC52C17B3C032458 68690938
-a0.nic.srl.		172800	IN	AAAA	2a01:8840:4e::33
 a0.nic.srl.		172800	IN	A	65.22.80.33
+a0.nic.srl.		172800	IN	AAAA	2a01:8840:4e::33
 a2.nic.srl.		172800	IN	A	65.22.83.33
 a2.nic.srl.		172800	IN	AAAA	2a01:8840:51::33
 b0.nic.srl.		172800	IN	A	65.22.81.33
@@ -14190,8 +14190,8 @@ store.			172800	IN	NS	c.nic.store.
 store.			172800	IN	NS	d.nic.store.
 store.			86400	IN	DS	16342 8 1 C6D41FB11396E2B908BD82ADD46457DAA960EC23
 store.			86400	IN	DS	16342 8 2 E59827295E51C4F46D5208ED454BCD78DD6FFA49F01BD203B24E1380 AA535675
-a.nic.store.		172800	IN	AAAA	2001:67c:13cc::1:45
 a.nic.store.		172800	IN	A	194.169.218.45
+a.nic.store.		172800	IN	AAAA	2001:67c:13cc::1:45
 b.nic.store.		172800	IN	A	185.24.64.45
 b.nic.store.		172800	IN	AAAA	2a04:2b00:13cc::1:45
 c.nic.store.		172800	IN	A	185.38.99.8
@@ -14252,12 +14252,12 @@ su.			172800	IN	NS	d.dns.ripn.net.
 su.			172800	IN	NS	e.dns.ripn.net.
 su.			172800	IN	NS	f.dns.ripn.net.
 su.			86400	IN	DS	44216 8 2 FC6E60B557F040CB777483D2BF140264BA7FC6DF1187CB51C985F36F EE5972E5
-sucks.			86400	IN	DS	53287 8 1 852A2FB0FA5A7708417B403A96A1FB84F8DC0967
-sucks.			86400	IN	DS	53287 8 2 9BA55749B9F3922FAAD173E938AA807F825F0B63E15905E36AD10F72 4B0DEDE2
 sucks.			172800	IN	NS	a.nic.sucks.
 sucks.			172800	IN	NS	b.nic.sucks.
 sucks.			172800	IN	NS	c.nic.sucks.
 sucks.			172800	IN	NS	d.nic.sucks.
+sucks.			86400	IN	DS	53287 8 1 852A2FB0FA5A7708417B403A96A1FB84F8DC0967
+sucks.			86400	IN	DS	53287 8 2 9BA55749B9F3922FAAD173E938AA807F825F0B63E15905E36AD10F72 4B0DEDE2
 a.nic.sucks.		172800	IN	A	37.209.192.10
 a.nic.sucks.		172800	IN	AAAA	2001:dcd:1::10
 b.nic.sucks.		172800	IN	A	37.209.194.10
@@ -14508,8 +14508,8 @@ ns4.dns.nic.target.	172800	IN	A	156.154.156.158
 ns4.dns.nic.target.	172800	IN	AAAA	2610:a1:1074::9e
 ns5.dns.nic.target.	172800	IN	A	156.154.157.158
 ns5.dns.nic.target.	172800	IN	AAAA	2610:a1:1075::9e
-ns6.dns.nic.target.	172800	IN	A	156.154.158.158
 ns6.dns.nic.target.	172800	IN	AAAA	2610:a1:1076::9e
+ns6.dns.nic.target.	172800	IN	A	156.154.158.158
 tatamotors.		172800	IN	NS	ac1.nstld.com.
 tatamotors.		172800	IN	NS	ac2.nstld.com.
 tatamotors.		172800	IN	NS	ac3.nstld.com.
@@ -15054,12 +15054,12 @@ toyota.			172800	IN	NS	b.gmoregistry.net.
 toyota.			172800	IN	NS	k.gmoregistry.net.
 toyota.			172800	IN	NS	l.gmoregistry.net.
 toyota.			86400	IN	DS	28984 8 2 58B328E736506E58298F3F91D27AA0053ABCC24980E4AFA4E9C561BF E44FBAEC
-toys.			86400	IN	DS	11182 8 1 0194594A2598339EEE7B5EE68E390689DE94531D
-toys.			86400	IN	DS	11182 8 2 0AC929AFF56BE452A8AA56BCE71AE3DE0061AFCDEA4E0455B3373B5F 1D683FFF
 toys.			172800	IN	NS	demand.beta.aridns.net.au.
 toys.			172800	IN	NS	demand.alpha.aridns.net.au.
 toys.			172800	IN	NS	demand.delta.aridns.net.au.
 toys.			172800	IN	NS	demand.gamma.aridns.net.au.
+toys.			86400	IN	DS	11182 8 1 0194594A2598339EEE7B5EE68E390689DE94531D
+toys.			86400	IN	DS	11182 8 2 0AC929AFF56BE452A8AA56BCE71AE3DE0061AFCDEA4E0455B3373B5F 1D683FFF
 tr.			172800	IN	NS	ns21.nic.tr.
 tr.			172800	IN	NS	ns22.nic.tr.
 tr.			172800	IN	NS	ns31.nic.tr.
@@ -15121,8 +15121,8 @@ travel.			86400	IN	DS	5599 8 1 0E146CAC215682BE7BA42BF4BDA786A311C8743C
 travel.			86400	IN	DS	5599 8 2 EC3BB8723430458A4EA6048A2A360C4BCE48A9BF75FE8D8D25336A3F B277625A
 travel.			86400	IN	DS	23764 8 1 E09105D6E22596AE547C52D8720DE6254742D9EE
 travel.			86400	IN	DS	23764 8 2 25F405D3DA254E8A682D4EFAD1D8E31273A4883EAE7CE2F1D22BCA9B 580CDF5A
-a.gtld.travel.		172800	IN	A	156.154.100.1
 a.gtld.travel.		172800	IN	AAAA	2001:502:ad09::1
+a.gtld.travel.		172800	IN	A	156.154.100.1
 b.gtld.travel.		172800	IN	A	156.154.101.1
 b.gtld.travel.		172800	IN	AAAA	2610:a1:1009::1
 c.gtld.travel.		172800	IN	A	156.154.102.1
@@ -15756,8 +15756,8 @@ a.nic.vista.		172800	IN	A	37.209.192.9
 a.nic.vista.		172800	IN	AAAA	2001:dcd:1::9
 b.nic.vista.		172800	IN	A	37.209.194.9
 b.nic.vista.		172800	IN	AAAA	2001:dcd:2::9
-c.nic.vista.		172800	IN	A	37.209.196.9
 c.nic.vista.		172800	IN	AAAA	2001:dcd:3::9
+c.nic.vista.		172800	IN	A	37.209.196.9
 d.nic.vista.		172800	IN	A	37.209.198.9
 d.nic.vista.		172800	IN	AAAA	2001:dcd:4::9
 vistaprint.		172800	IN	NS	a.nic.vistaprint.
@@ -15824,8 +15824,8 @@ a.nic.vlaanderen.	172800	IN	A	194.0.6.1
 a.nic.vlaanderen.	172800	IN	AAAA	2001:678:9::1
 b.nic.vlaanderen.	172800	IN	A	194.0.37.1
 b.nic.vlaanderen.	172800	IN	AAAA	2001:678:64::1
-x.nic.vlaanderen.	172800	IN	AAAA	2001:678:4::a
 x.nic.vlaanderen.	172800	IN	A	194.0.1.10
+x.nic.vlaanderen.	172800	IN	AAAA	2001:678:4::a
 vn.			172800	IN	NS	a.dns-servers.vn.
 vn.			172800	IN	NS	b.dns-servers.vn.
 vn.			172800	IN	NS	c.dns-servers.vn.
@@ -15890,12 +15890,12 @@ volvo.			172800	IN	NS	ac2.nstld.com.
 volvo.			172800	IN	NS	ac3.nstld.com.
 volvo.			172800	IN	NS	ac4.nstld.com.
 volvo.			86400	IN	DS	63963 8 2 9E66E85052005EC24BE53611A1CD19AF98DD649DFE54A90667849582 F60B1C4A
-vote.			86400	IN	DS	17586 7 1 A0B4BE7608D8A2C883939B318B4AFCBC1959E9A0
-vote.			86400	IN	DS	17586 7 2 8E80CDB7CB91AD73A41B39196A25DEF591BC1B51EAE1AE255181BCB8 E2814F60
 vote.			172800	IN	NS	a0.nic.vote.
 vote.			172800	IN	NS	a2.nic.vote.
 vote.			172800	IN	NS	b0.nic.vote.
 vote.			172800	IN	NS	c0.nic.vote.
+vote.			86400	IN	DS	17586 7 1 A0B4BE7608D8A2C883939B318B4AFCBC1959E9A0
+vote.			86400	IN	DS	17586 7 2 8E80CDB7CB91AD73A41B39196A25DEF591BC1B51EAE1AE255181BCB8 E2814F60
 a0.nic.vote.		172800	IN	A	65.22.168.9
 a0.nic.vote.		172800	IN	AAAA	2a01:8840:a2::9
 a2.nic.vote.		172800	IN	A	65.22.171.9
@@ -16087,8 +16087,8 @@ weather.		86400	IN	DS	62959 8 1 2FBD2358FD6DF65361B3B062BFFBD0ADBF392CD2
 weather.		86400	IN	DS	62959 8 2 FF8C0D6BDA26D334D42200737316877D89E2F7AA40FAA67A73D7EAE3 4D3EA4BC
 ns1.dns.nic.weather.	172800	IN	A	156.154.144.178
 ns1.dns.nic.weather.	172800	IN	AAAA	2610:a1:1071::b2
-ns2.dns.nic.weather.	172800	IN	AAAA	2610:a1:1072::b2
 ns2.dns.nic.weather.	172800	IN	A	156.154.145.178
+ns2.dns.nic.weather.	172800	IN	AAAA	2610:a1:1072::b2
 ns3.dns.nic.weather.	172800	IN	A	156.154.159.178
 ns3.dns.nic.weather.	172800	IN	AAAA	2610:a1:1073::b2
 ns4.dns.nic.weather.	172800	IN	A	156.154.156.178
@@ -16158,8 +16158,8 @@ b.nic.website.		172800	IN	A	185.24.64.52
 b.nic.website.		172800	IN	AAAA	2a04:2b00:13cc::1:52
 c.nic.website.		172800	IN	A	185.38.99.1
 c.nic.website.		172800	IN	AAAA	2a02:e180:3::1
-d.nic.website.		172800	IN	AAAA	2a02:e180:4::1
 d.nic.website.		172800	IN	A	108.59.161.1
+d.nic.website.		172800	IN	AAAA	2a02:e180:4::1
 wed.			172800	IN	NS	dns1.emdns.uk.
 wed.			172800	IN	NS	dns2.emdns.uk.
 wed.			172800	IN	NS	dns3.emdns.uk.
@@ -17351,8 +17351,8 @@ ns4.dns.nic.xn--kpu716f. 172800	IN	A	156.154.156.176
 ns4.dns.nic.xn--kpu716f. 172800	IN	AAAA	2610:a1:1074::b0
 ns5.dns.nic.xn--kpu716f. 172800	IN	A	156.154.157.176
 ns5.dns.nic.xn--kpu716f. 172800	IN	AAAA	2610:a1:1075::b0
-ns6.dns.nic.xn--kpu716f. 172800	IN	AAAA	2610:a1:1076::b0
 ns6.dns.nic.xn--kpu716f. 172800	IN	A	156.154.158.176
+ns6.dns.nic.xn--kpu716f. 172800	IN	AAAA	2610:a1:1076::b0
 xn--kput3i.		172800	IN	NS	a0.nic.xn--kput3i.
 xn--kput3i.		172800	IN	NS	a2.nic.xn--kput3i.
 xn--kput3i.		172800	IN	NS	b0.nic.xn--kput3i.
@@ -17410,8 +17410,8 @@ xn--mgba7c0bbn0a.	172800	IN	NS	c.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	172800	IN	NS	d.nic.xn--mgba7c0bbn0a.
 xn--mgba7c0bbn0a.	86400	IN	DS	20134 8 1 2C43A1A4929F9819C4C373D97E440BBEBCC9A319
 xn--mgba7c0bbn0a.	86400	IN	DS	20134 8 2 DA551D19968823499F680420DD2578DDF9A1FAD0A591D52F7B1D2F7A 13F9BAD4
-a.nic.xn--mgba7c0bbn0a.	172800	IN	AAAA	2001:dcd:1::9
 a.nic.xn--mgba7c0bbn0a.	172800	IN	A	37.209.192.9
+a.nic.xn--mgba7c0bbn0a.	172800	IN	AAAA	2001:dcd:1::9
 b.nic.xn--mgba7c0bbn0a.	172800	IN	A	37.209.194.9
 b.nic.xn--mgba7c0bbn0a.	172800	IN	AAAA	2001:dcd:2::9
 c.nic.xn--mgba7c0bbn0a.	172800	IN	A	37.209.196.9
@@ -17587,8 +17587,8 @@ xn--ngbc5azd.		172800	IN	NS	c.nic.xn--ngbc5azd.
 xn--ngbc5azd.		172800	IN	NS	d.nic.xn--ngbc5azd.
 xn--ngbc5azd.		86400	IN	DS	58699 8 1 7B9A90E5A2B290341A2FD161BB5F4C6AAF5DA44F
 xn--ngbc5azd.		86400	IN	DS	58699 8 2 09545CA064C8792154FACDAAEC7795850D27D052D743546CB90CA9B6 572CEB99
-a.nic.xn--ngbc5azd.	172800	IN	AAAA	2001:dcd:1::3
 a.nic.xn--ngbc5azd.	172800	IN	A	37.209.192.3
+a.nic.xn--ngbc5azd.	172800	IN	AAAA	2001:dcd:1::3
 b.nic.xn--ngbc5azd.	172800	IN	A	37.209.194.3
 b.nic.xn--ngbc5azd.	172800	IN	AAAA	2001:dcd:2::3
 c.nic.xn--ngbc5azd.	172800	IN	A	37.209.196.3
@@ -17769,8 +17769,8 @@ ns4.dns.nic.xn--rovu88b. 172800	IN	A	156.154.172.76
 ns4.dns.nic.xn--rovu88b. 172800	IN	AAAA	2610:a1:1074::1:4c
 ns5.dns.nic.xn--rovu88b. 172800	IN	A	156.154.173.76
 ns5.dns.nic.xn--rovu88b. 172800	IN	AAAA	2610:a1:1075::1:4c
-ns6.dns.nic.xn--rovu88b. 172800	IN	A	156.154.174.76
 ns6.dns.nic.xn--rovu88b. 172800	IN	AAAA	2610:a1:1076::1:4c
+ns6.dns.nic.xn--rovu88b. 172800	IN	A	156.154.174.76
 xn--rvc1e0am3e.		172800	IN	NS	a0.in.afilias-nst.in.
 xn--rvc1e0am3e.		172800	IN	NS	a1.in.afilias-nst.in.
 xn--rvc1e0am3e.		172800	IN	NS	a2.in.afilias-nst.in.
@@ -17874,12 +17874,12 @@ xn--wgbl6a.		172800	IN	NS	f.registry.qa.
 xn--wgbl6a.		172800	IN	NS	g.registry.qa.
 xn--wgbl6a.		172800	IN	NS	h.registry.qa.
 xn--wgbl6a.		172800	IN	NS	i.registry.qa.
-xn--xhq521b.		86400	IN	DS	2506 8 2 AAB3B1CBC1B41DA41348F9B7546B700CE2356D7627B9026FD616320F 18B08FE8
 xn--xhq521b.		172800	IN	NS	ta.ngtld.cn.
 xn--xhq521b.		172800	IN	NS	tb.ngtld.cn.
 xn--xhq521b.		172800	IN	NS	tc.ngtld.cn.
 xn--xhq521b.		172800	IN	NS	td.ngtld.cn.
 xn--xhq521b.		172800	IN	NS	te.ngtld.cn.
+xn--xhq521b.		86400	IN	DS	2506 8 2 AAB3B1CBC1B41DA41348F9B7546B700CE2356D7627B9026FD616320F 18B08FE8
 xn--xkc2al3hye2a.	172800	IN	NS	lk.communitydns.net.
 xn--xkc2al3hye2a.	172800	IN	NS	nic.lk-anycast.pch.net.
 xn--xkc2al3hye2a.	172800	IN	NS	ns1.ac.lk.
@@ -18131,8 +18131,8 @@ ns1.dns.nic.zappos.	172800	IN	A	156.154.144.187
 ns1.dns.nic.zappos.	172800	IN	AAAA	2610:a1:1071::bb
 ns2.dns.nic.zappos.	172800	IN	A	156.154.145.187
 ns2.dns.nic.zappos.	172800	IN	AAAA	2610:a1:1072::bb
-ns3.dns.nic.zappos.	172800	IN	AAAA	2610:a1:1073::bb
 ns3.dns.nic.zappos.	172800	IN	A	156.154.159.187
+ns3.dns.nic.zappos.	172800	IN	AAAA	2610:a1:1073::bb
 ns4.dns.nic.zappos.	172800	IN	A	156.154.156.187
 ns4.dns.nic.zappos.	172800	IN	AAAA	2610:a1:1074::bb
 ns5.dns.nic.zappos.	172800	IN	A	156.154.157.187
