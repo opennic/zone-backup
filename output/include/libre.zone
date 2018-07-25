@@ -115,8 +115,8 @@ madhatter.libre.	0	IN	A	107.181.153.60
 www.madhatter.libre.	0	IN	A	107.181.153.60
 marmat.libre.		0	IN	A	51.254.211.71
 marmat.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
-www.marmat.libre.	0	IN	A	51.254.211.71
 www.marmat.libre.	0	IN	AAAA	2001:41d0:302:2000::1647
+www.marmat.libre.	0	IN	A	51.254.211.71
 mineral.libre.		0	IN	NS	ns1.elencasino.com.
 mineral.libre.		0	IN	NS	ns2.elencasino.com.
 mmo.libre.		0	IN	NS	ns6529.hostgator.com.
@@ -188,6 +188,8 @@ support.libre.		0	IN	A	64.137.228.61
 tbpchan.libre.		0	IN	A	70.174.0.214
 test.libre.		0	IN	A	104.131.78.30
 thefoxesoftheforest.libre. 0	IN	A	73.11.11.6
+top.libre.		0	IN	NS	ns1.top.libre.
+ns1.top.libre.		0	IN	A	73.11.11.6
 trico-world.libre.	0	IN	A	73.11.11.6
 host.trico-world.libre.	0	IN	A	73.11.11.6
 www.trico-world.libre.	0	IN	A	73.11.11.6
