@@ -51,12 +51,13 @@ fibre.libre.		0	IN	NS	ns2.mb.os.vu.
 for.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 reg.for.libre.		0	IN	A	161.97.219.84
 reg.for.libre.		0	IN	AAAA	2001:470:4212:1::254
+gamewolf10.libre.	0	IN	NS	ns1.gamewolf10.libre.
 gitlab.libre.		0	IN	A	158.69.160.166
 mattermost.gitlab.libre. 0	IN	CNAME	gitlab.libre.
 pages.gitlab.libre.	0	IN	CNAME	gitlab.libre.
 registry.gitlab.libre.	0	IN	CNAME	gitlab.libre.
-run1.gitlab.libre.	0	IN	AAAA	2607:5300:201:3100::1a8a
 run1.gitlab.libre.	0	IN	A	149.56.98.147
+run1.gitlab.libre.	0	IN	AAAA	2607:5300:201:3100::1a8a
 www.gitlab.libre.	0	IN	CNAME	gitlab.libre.
 go.libre.		0	IN	A	161.97.219.84
 go.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
@@ -114,8 +115,8 @@ madhatter.libre.	0	IN	A	107.181.153.60
 www.madhatter.libre.	0	IN	A	107.181.153.60
 marmat.libre.		0	IN	A	51.254.211.71
 marmat.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
-www.marmat.libre.	0	IN	A	51.254.211.71
 www.marmat.libre.	0	IN	AAAA	2001:41d0:302:2000::1647
+www.marmat.libre.	0	IN	A	51.254.211.71
 mineral.libre.		0	IN	NS	ns1.elencasino.com.
 mineral.libre.		0	IN	NS	ns2.elencasino.com.
 mmo.libre.		0	IN	NS	ns6529.hostgator.com.
