@@ -42,6 +42,10 @@ i.cyb.			86400	IN	A	104.198.14.52
 iash.cyb.		86400	IN	A	163.172.144.110
 icnsoft.cyb.		86400	IN	CNAME	cloud.appaton.com.
 www.icnsoft.cyb.	86400	IN	CNAME	icnsoft.cyb.
+chromebook.in.cyb.	86400	IN	A	10.100.0.253
+nixos-master.in.cyb.	86400	IN	A	10.100.0.10
+router.in.cyb.		86400	IN	A	10.100.0.1
+turtaw.in.cyb.		86400	IN	A	10.100.0.254
 inksu.cyb.		86400	IN	AAAA	2a01:4f9:2a:14e2:5f:e608:b47a:d9b5
 irc.cyb.		86400	IN	NS	a.resolv.is.
 irc.cyb.		86400	IN	NS	u.resolv.is.

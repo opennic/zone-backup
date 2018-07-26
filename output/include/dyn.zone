@@ -126,7 +126,11 @@ tick.dyn.		300	IN	NS	ns4.linode.com.
 tick.dyn.		300	IN	NS	ns5.linode.com.
 uf.dyn.			300	IN	A	45.33.65.68
 uf.dyn.			300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+uflour.dyn.		300	IN	A	45.33.65.68
+uflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 un.dyn.			300	IN	NS	free.ssl.libre.
+unionf.dyn.		300	IN	A	45.33.65.68
+unionf.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 unionflour.dyn.		300	IN	A	45.33.65.68
 unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
