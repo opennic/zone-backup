@@ -77,8 +77,8 @@ www.pulsar-toolz.oss.	86400	IN	A	81.177.135.156
 pypper.oss.		86400	IN	TXT	"keybase-site-verification=dlST-xnSVeOpbINs_fl7LOyRUs96rZb4yASfPc_aJDs"
 reg.oss.		86400	IN	NS	ns1.sourpuss.net.
 reg.oss.		86400	IN	NS	ns2.sourpuss.net.
-register.oss.		86400	IN	AAAA	2001:470:4212:1::254
 register.oss.		86400	IN	A	161.97.219.84
+register.oss.		86400	IN	AAAA	2001:470:4212:1::254
 root.oss.		86400	IN	A	173.160.58.202
 scalehost.oss.		86400	IN	NS	ns1.scalehost.eu.
 scalehost.oss.		86400	IN	NS	ns2.scalehost.eu.
@@ -97,6 +97,8 @@ unplug.oss.		86400	IN	NS	ns1.servers.dbatley.com.
 unplug.oss.		86400	IN	NS	ns2.servers.dbatley.com.
 ns1.unplug.oss.unplug.oss. 86400 IN	A	46.149.19.98
 utzon.oss.		86400	IN	A	84.209.2.104
+vrnint.oss.		86400	IN	A	185.22.153.39
+vrnint.oss.		86400	IN	AAAA	2a00:b700::2d0
 waytt.oss.		86400	IN	A	194.143.137.144
 webmail.oss.		86400	IN	A	73.11.11.6
 www.wgboome.oss.	86400	IN	CNAME	www0.wgboome.org.
