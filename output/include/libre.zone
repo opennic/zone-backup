@@ -204,6 +204,8 @@ unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
 www.unixzone.libre.	0	IN	CNAME	www.remoteshaman.com.
 vertige-moderne.libre.	0	IN	TXT	"gitlab-pages-verification-code=b07514aae9fcde4768a2384c629456bc"
+vrnint.libre.		0	IN	A	185.22.153.39
+vrnint.libre.		0	IN	AAAA	2a00:b700::2d0
 waffle.libre.		0	IN	A	204.152.206.250
 webriq.libre.		0	IN	A	104.198.14.52
 www.wgboome.libre.	0	IN	CNAME	www5.wgboome.org.
