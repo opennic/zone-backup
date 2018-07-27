@@ -48,7 +48,7 @@ jor.dyn.		300	IN	A	172.168.12.13
 kf4nvx.dyn.		300	IN	A	68.235.239.187
 kf4nvx.dyn.		300	IN	AAAA	2600:1700:5f90:9930::16
 lan.dyn.		300	IN	NS	ns1.lan.dyn.
-libre.dyn.		300	IN	A	189.155.96.182
+libre.dyn.		300	IN	A	189.155.179.181
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
