@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1532639101 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1532721121 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -48,6 +48,7 @@ www.fheutest.cyb.	86400	IN	A	185.176.43.84
 fiber.cyb.		86400	IN	A	149.56.156.92
 www.fiber.cyb.		86400	IN	CNAME	fiber.cyb.
 flewkey.cyb.		86400	IN	A	184.71.141.170
+gz.cyb.			86400	IN	CNAME	gz.camelot-ia.org.
 heropunch.cyb.		86400	IN	A	88.99.105.98
 heropunch.cyb.		86400	IN	AAAA	2a01:4f8:10a:19a1::2
 www.heropunch.cyb.	86400	IN	CNAME	heropunch.io.
