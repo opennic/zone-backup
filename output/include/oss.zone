@@ -53,7 +53,6 @@ nokeh.oss.		86400	IN	NS	ns3.geoscaling.com.
 nokeh.oss.		86400	IN	NS	ns4.geoscaling.com.
 nokeh.oss.		86400	IN	NS	ns5.geoscaling.com.
 nol.oss.		86400	IN	A	138.201.159.27
-oakm.oss.		86400	IN	A	184.54.149.233
 openmsg.oss.		86400	IN	A	73.11.11.6
 local.openmsg.oss.	86400	IN	A	127.0.0.1
 www.openmsg.oss.	86400	IN	A	73.11.11.6
