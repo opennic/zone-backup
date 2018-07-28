@@ -141,14 +141,14 @@ diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
 wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
 nemanja.geek.		86400	IN	A	104.31.78.59
-nightshade.geek.	86400	IN	A	59.101.2.108
+nightshade.geek.	86400	IN	A	59.101.4.155
 nirudo.geek.		86400	IN	A	91.134.137.85
 mail.nirudo.geek.	86400	IN	CNAME	mail.nirudo.me.
 null.geek.		86400	IN	A	138.201.159.27
 dev.null.geek.		86400	IN	A	138.201.159.27
 nuxware.geek.		86400	IN	NS	ns1.x10hosting.com.
 nuxware.geek.		86400	IN	NS	ns2.x10hosting.com.
-obsceneshoes.geek.	86400	IN	A	59.101.2.108
+obsceneshoes.geek.	86400	IN	A	59.101.4.155
 official.geek.		86400	IN	NS	ns1.whc.ca.
 official.geek.		86400	IN	NS	ns2.whc.ca.
 official.geek.		86400	IN	NS	ns3.whc.ca.
@@ -208,7 +208,7 @@ sdf.geek.		86400	IN	A	205.166.94.15
 search.geek.		86400	IN	A	69.197.155.38
 sha.geek.		86400	IN	TXT	"dnslink=" "/ipfs/QmYCvbfNbCwFR45HiNP45rwJgvatpiW38D961L5qAhUM5Y"
 social.geek.		86400	IN	A	69.197.155.38
-spikestradale.geek.	86400	IN	A	59.101.2.108
+spikestradale.geek.	86400	IN	A	59.101.4.155
 www.ssl.geek.		86400	IN	A	107.191.104.137
 www.ssl.geek.		86400	IN	AAAA	2604:180:1:d6f::20
 succ.geek.		86400	IN	A	163.172.185.51
@@ -242,6 +242,6 @@ vsta.geek.		86400	IN	A	212.47.245.167
 waytt.geek.		86400	IN	A	194.143.137.144
 weblionx.geek.		86400	IN	NS	ns.phx1.nearlyfreespeech.net.
 weblionx.geek.		86400	IN	NS	ns.phx8.nearlyfreespeech.net.
-wildhorse.geek.		86400	IN	A	59.101.2.108
+wildhorse.geek.		86400	IN	A	59.101.4.155
 www.geek.		86400	IN	A	161.97.219.84
 www.geek.		86400	IN	AAAA	2001:470:4212:1::254
