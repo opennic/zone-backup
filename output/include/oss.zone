@@ -76,8 +76,8 @@ www.pulsar-toolz.oss.	86400	IN	A	81.177.135.156
 pypper.oss.		86400	IN	TXT	"keybase-site-verification=dlST-xnSVeOpbINs_fl7LOyRUs96rZb4yASfPc_aJDs"
 reg.oss.		86400	IN	NS	ns1.sourpuss.net.
 reg.oss.		86400	IN	NS	ns2.sourpuss.net.
-register.oss.		86400	IN	A	161.97.219.84
 register.oss.		86400	IN	AAAA	2001:470:4212:1::254
+register.oss.		86400	IN	A	161.97.219.84
 root.oss.		86400	IN	A	173.160.58.202
 scalehost.oss.		86400	IN	NS	ns1.scalehost.eu.
 scalehost.oss.		86400	IN	NS	ns2.scalehost.eu.
