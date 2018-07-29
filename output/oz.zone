@@ -1,4 +1,4 @@
-oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018072929 3600 7200 604800 86400
+oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018072934 3600 7200 604800 86400
 oz.			86400	IN	NS	ns2.opennic.glue.
 oz.			86400	IN	NS	ns3.opennic.glue.
 oz.			86400	IN	NS	ns4.opennic.glue.
@@ -155,6 +155,8 @@ edu.oz.			86400	IN	NS	ns1.digitalocean.com.
 edu.oz.			86400	IN	NS	ns2.digitalocean.com.
 edubay.oz.		86400	IN	NS	ns01.000webhost.com.
 edubay.oz.		86400	IN	NS	ns02.000webhost.com.
+eis.oz.			86400	IN	NS	dns1.eis.qiushi.ac.cn.
+eis.oz.			86400	IN	NS	dns2.eis.qiushi.ac.cn.
 elencasino.oz.		86400	IN	NS	ns1.elencasino.name.
 elencasino.oz.		86400	IN	NS	ns2.elencasino.name.
 elmagode.oz.		86400	IN	NS	ns01.000webhost.com.
