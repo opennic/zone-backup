@@ -83,7 +83,6 @@ hack13.geek.		86400	IN	NS	pns101.cloudns.net.
 hack13.geek.		86400	IN	NS	pns102.cloudns.net.
 hack13.geek.		86400	IN	NS	pns103.cloudns.net.
 hack13.geek.		86400	IN	NS	pns104.cloudns.net.
-happysmash27.geek.	86400	IN	AAAA	fcbe:1c0:a7d0:5aa2:a8a3:a3d5:3bf1:11e5
 hckiang.geek.		86400	IN	A	45.33.87.201
 henri.geek.		86400	IN	A	172.104.137.138
 horrible.geek.		86400	IN	A	104.198.14.52

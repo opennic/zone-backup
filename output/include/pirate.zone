@@ -46,7 +46,6 @@ hacky.pirate.		86400	IN	A	98.19.250.101
 hansen.pirate.		86400	IN	A	84.209.2.104
 harukigrande.pirate.	86400	IN	NS	beta.harukigrande.co.uk.
 harukigrande.pirate.	86400	IN	NS	alpha.harukigrande.co.uk.
-heho.pirate.		86400	IN	A	192.168.1.28
 iam.pirate.		86400	IN	A	94.156.142.136
 www.itadmin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 www.ithelp.pirate.	86400	IN	CNAME	www.remoteshaman.com.
