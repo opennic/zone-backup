@@ -127,8 +127,8 @@ spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 spikestradale.pirate.	86400	IN	A	59.101.4.155
 succ.pirate.		86400	IN	A	163.172.185.51
 test.pirate.		86400	IN	A	127.0.0.1
-torr.pirate.		86400	IN	A	173.212.234.232
 torr.pirate.		86400	IN	AAAA	2a02:c207:2014:4260::1
+torr.pirate.		86400	IN	A	173.212.234.232
 torrent.pirate.		86400	IN	NS	ns1.host.geek.
 torrent.pirate.		86400	IN	NS	ns2.host.geek.
 www.unix.pirate.	86400	IN	CNAME	www.remoteshaman.com.
