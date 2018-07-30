@@ -43,7 +43,6 @@ happysmash27.dyn.	300	IN	AAAA	fcbe:1c0:a7d0:5aa2:a8a3:a3d5:3bf1:11e5
 herman.dyn.		300	IN	A	82.73.159.243
 home-neo.dyn.		300	IN	A	95.88.225.142
 inquiries.dyn.		300	IN	A	148.75.237.47
-joe.dyn.		300	IN	A	75.118.29.63
 jor.dyn.		300	IN	A	172.168.12.13
 kf4nvx.dyn.		300	IN	A	68.235.239.187
 kf4nvx.dyn.		300	IN	AAAA	2600:1700:5f90:9930::16
@@ -54,7 +53,7 @@ maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
 michael.dyn.		300	IN	A	91.176.103.32
-micheal65536.dyn.	300	IN	A	88.145.84.59
+micheal65536.dyn.	300	IN	A	88.144.75.225
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	89.15.174.9
 mulu-stick.dyn.		300	IN	A	89.15.174.9
@@ -111,8 +110,8 @@ thefarm.dyn.		300	IN	A	45.33.65.68
 thefarm.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thefarms.dyn.		300	IN	A	45.33.65.68
 thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegarden.dyn.		300	IN	A	45.33.65.68
 thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thegarden.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalley.dyn.		300	IN	A	45.33.65.68
@@ -136,8 +135,8 @@ unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
 valley.dyn.		300	IN	A	45.33.65.68
 valley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+valleys.dyn.		300	IN	A	45.33.65.68
 vektorweg.dyn.		300	IN	A	46.246.63.49
 vovanium.dyn.		300	IN	A	95.165.139.85
 whitedwarf.dyn.		300	IN	A	67.249.202.109
