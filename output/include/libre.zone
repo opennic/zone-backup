@@ -51,6 +51,8 @@ fibre.libre.		0	IN	NS	ns2.mb.os.vu.
 for.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 reg.for.libre.		0	IN	A	161.97.219.84
 reg.for.libre.		0	IN	AAAA	2001:470:4212:1::254
+foss.libre.		0	IN	NS	ns1.httpdonline.com.
+foss.libre.		0	IN	NS	ns2.httpdonline.com.
 gamewolf10.libre.	0	IN	NS	ns1.gamewolf10.libre.
 ns1.gamewolf10.libre.	0	IN	A	73.11.11.6
 gitlab.libre.		0	IN	A	158.69.160.166
