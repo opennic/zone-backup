@@ -55,8 +55,8 @@ me.dyn.			300	IN	A	86.124.246.114
 michael.dyn.		300	IN	A	91.176.103.32
 micheal65536.dyn.	300	IN	A	88.144.75.225
 momoka.dyn.		300	IN	A	181.110.7.225
-muellerlukas.dyn.	300	IN	A	89.15.174.9
-mulu-stick.dyn.		300	IN	A	89.15.174.9
+muellerlukas.dyn.	300	IN	A	89.15.32.33
+mulu-stick.dyn.		300	IN	A	89.15.32.33
 my.dyn.			300	IN	A	139.59.211.104
 nightshade.dyn.		300	IN	A	59.101.4.155
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
@@ -110,10 +110,10 @@ thefarm.dyn.		300	IN	A	45.33.65.68
 thefarm.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thefarms.dyn.		300	IN	A	45.33.65.68
 thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegarden.dyn.		300	IN	A	45.33.65.68
 thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thegarden.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	A	45.33.65.68
+thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalley.dyn.		300	IN	A	45.33.65.68
 thevalley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalleys.dyn.		300	IN	A	45.33.65.68
