@@ -83,7 +83,6 @@ register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.4.155
 rt-srb.dyn.		300	IN	A	184.6.245.198
-samsa.dyn.		300	IN	A	89.177.104.112
 sin.dyn.		300	IN	A	85.21.190.231
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	110.175.105.184
@@ -110,8 +109,8 @@ thefarm.dyn.		300	IN	A	45.33.65.68
 thefarm.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thefarms.dyn.		300	IN	A	45.33.65.68
 thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thegarden.dyn.		300	IN	A	45.33.65.68
+thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thegardens.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalley.dyn.		300	IN	A	45.33.65.68
@@ -135,8 +134,8 @@ unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
 valley.dyn.		300	IN	A	45.33.65.68
 valley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 valleys.dyn.		300	IN	A	45.33.65.68
+valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.63.49
 vovanium.dyn.		300	IN	A	95.165.139.85
 whitedwarf.dyn.		300	IN	A	67.249.202.109
