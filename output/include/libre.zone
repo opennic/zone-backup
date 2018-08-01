@@ -93,11 +93,6 @@ znc.irc.libre.		0	IN	CNAME	leaf01.irc.libre.
 ironlibrary.libre.	0	IN	A	162.222.176.137
 www.itadmin.libre.	0	IN	CNAME	www.remoteshaman.com.
 www.itshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
-kodo.libre.		0	IN	A	174.129.25.170
-kodo.libre.		0	IN	TXT	"testing"
-test.kodo.libre.	0	IN	A	216.58.202.238
-test.kodo.libre.	0	IN	TXT	"test3"
-www.kodo.libre.		0	IN	CNAME	www.kodo.libre.s3-website-us-west-2.amazonaws.com.
 www.krainachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 kuhmunity.libre.	0	IN	A	84.200.85.45
 kuhmunity.libre.	0	IN	AAAA	2001:1608:39::2:2
