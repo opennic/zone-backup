@@ -88,8 +88,8 @@ soft.oss.		86400	IN	A	31.207.72.12
 spikestradale.oss.	86400	IN	A	59.101.4.155
 sso.oss.		86400	IN	NS	free.ssl.libre.
 succ.oss.		86400	IN	A	163.172.185.51
-syntazia.oss.		86400	IN	A	89.64.45.70
-repo.syntazia.oss.	86400	IN	A	89.64.45.70
+syntazia.oss.		86400	IN	A	89.64.17.214
+repo.syntazia.oss.	86400	IN	A	89.64.17.214
 test.oss.		86400	IN	A	104.131.78.30
 errors.turtlecoin.oss.	86400	IN	A	104.37.195.165
 unplug.oss.		86400	IN	NS	ns1.servers.dbatley.com.
