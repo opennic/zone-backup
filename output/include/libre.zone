@@ -179,8 +179,6 @@ soy.libre.		0	IN	NS	ns1.tupropiaradio.net.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
 spatium.libre.		0	IN	NS	ns2.mb.os.vu.
 spikestradale.libre.	0	IN	A	59.101.4.155
-free.ssl.libre.		0	IN	A	107.161.27.227
-www.ssl.libre.		0	IN	A	127.0.0.1
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 succ.libre.		0	IN	A	163.172.185.51
 support.libre.		0	IN	A	64.137.228.61
