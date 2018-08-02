@@ -125,7 +125,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	88.145.86.16
+micheal65536.geek.	86400	IN	A	79.64.30.121
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 ns1.nameservers.geek.	86400	IN	A	67.221.146.229
@@ -204,8 +204,6 @@ search.geek.		86400	IN	A	69.197.155.38
 sha.geek.		86400	IN	TXT	"dnslink=" "/ipfs/QmYCvbfNbCwFR45HiNP45rwJgvatpiW38D961L5qAhUM5Y"
 social.geek.		86400	IN	A	69.197.155.38
 spikestradale.geek.	86400	IN	A	59.101.4.155
-www.ssl.geek.		86400	IN	A	107.191.104.137
-www.ssl.geek.		86400	IN	AAAA	2604:180:1:d6f::20
 succ.geek.		86400	IN	A	163.172.185.51
 talk.geek.		86400	IN	A	216.17.244.224
 cdn.talk.geek.		86400	IN	CNAME	cdn.publicmirrors.org.
