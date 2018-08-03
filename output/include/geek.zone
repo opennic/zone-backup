@@ -129,8 +129,8 @@ micheal65536.geek.	86400	IN	A	79.64.31.202
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 ns1.nameservers.geek.	86400	IN	A	67.221.146.229
-natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
 natrinicle.geek.	86400	IN	A	136.60.193.37
+natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
 diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
 diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
@@ -178,8 +178,8 @@ profismart.geek.	86400	IN	NS	ns1.profismart.net.
 profismart.geek.	86400	IN	NS	ns2.profismart.net.
 radio.geek.		86400	IN	NS	ns1.sourpuss.net.
 radio.geek.		86400	IN	NS	ns2.sourpuss.net.
-reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
 reg.geek.		86400	IN	A	161.97.219.84
+reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
 register.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	AAAA	2001:470:4212:1::254
 www.remoteshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
