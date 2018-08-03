@@ -8,9 +8,6 @@ bird-lg.oss.		86400	IN	NS	ns.subnets.ru.
 bird-lg.oss.		86400	IN	NS	ns3.subnets.ru.
 blahdns.oss.		86400	IN	A	202.182.120.110
 box.oss.		86400	IN	A	145.239.233.78
-centos.oss.		86400	IN	A	121.121.19.189
-iso.centos.oss.		86400	IN	A	121.121.19.189
-sohai.centos.oss.	86400	IN	A	121.121.19.190
 code.oss.		86400	IN	A	161.97.219.84
 code.oss.		86400	IN	AAAA	2001:470:4212:1::254
 computer.oss.		86400	IN	A	145.239.233.78

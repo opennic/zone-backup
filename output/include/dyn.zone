@@ -12,10 +12,10 @@ co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 computer-pig.dyn.	300	IN	AAAA	fcbe:1c0:a7d0:5aa2:a8a3:a3d5:3bf1:11e5
 corrin.dyn.		300	IN	A	87.222.130.201
-creative.dyn.		300	IN	A	45.33.65.68
 creative.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-creativegarden.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+creative.dyn.		300	IN	A	45.33.65.68
 creativegarden.dyn.	300	IN	A	45.33.65.68
+creativegarden.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
@@ -52,7 +52,6 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-michael.dyn.		300	IN	A	91.176.103.32
 micheal65536.dyn.	300	IN	A	79.64.31.202
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	92.227.10.66
