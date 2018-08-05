@@ -233,8 +233,8 @@ secure.fur.		300	IN	NS	ns1.us.editdns.net.
 secure.fur.		300	IN	NS	ns2.us.editdns.net.
 sergal.fur.		300	IN	A	185.13.38.139
 www.sergal.fur.		300	IN	A	185.13.38.139
-ShadowDrake.fur.	300	IN	NS	ayron.darktech.org.
-ShadowDrake.fur.	300	IN	NS	draconity.darktech.org.
+ShadowDrake.fur.	300	IN	NS	ns1.draconis.ovh.
+ShadowDrake.fur.	300	IN	NS	ns2.draconis.ovh.
 skykun.fur.		300	IN	CNAME	new.fur.
 www.skykun.fur.		300	IN	CNAME	www.new.fur.
 sonic.fur.		300	IN	CNAME	mobianlegends.com.
