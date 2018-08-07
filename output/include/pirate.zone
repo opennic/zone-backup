@@ -79,6 +79,7 @@ mgtowmirror.pirate.	86400	IN	NS	ns2.black.host.
 www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
+musicloud.pirate.	86400	IN	A	80.211.213.113
 lan.name.pirate.	86400	IN	A	172.16.2.20
 ns1.name.pirate.	86400	IN	A	172.93.180.48
 nightshade.pirate.	86400	IN	A	59.101.4.155
@@ -151,6 +152,6 @@ yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
 zio.pirate.		86400	IN	A	2.35.150.84
 zio.pirate.		86400	IN	TXT	"2.35.150.84"
-www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 www.zio.pirate.		86400	IN	A	2.35.150.84
+www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
