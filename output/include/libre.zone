@@ -121,14 +121,14 @@ mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 nameserver-test.libre.	0	IN	NS	ns1.nameserver-test.libre.
 ns1.nameserver-test.libre. 0	IN	A	73.11.11.6
-nightshade.libre.	0	IN	A	59.101.4.155
+nightshade.libre.	0	IN	A	59.101.9.92
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns3.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns4.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns5.geoscaling.com.
-nuracing.libre.		0	IN	A	59.101.4.155
-obsceneshoes.libre.	0	IN	A	59.101.4.155
+nuracing.libre.		0	IN	A	59.101.9.92
+obsceneshoes.libre.	0	IN	A	59.101.9.92
 office.libre.		0	IN	A	139.59.211.104
 opennic.libre.		0	IN	A	161.97.219.84
 opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
@@ -152,7 +152,7 @@ phundrak.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
 pizza.libre.		0	IN	A	46.22.223.253
 pnp.libre.		0	IN	A	217.25.226.215
 www.polechudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
-presentpal.libre.	0	IN	A	59.101.4.155
+presentpal.libre.	0	IN	A	59.101.9.92
 radio.libre.		0	IN	NS	ns1.sourpuss.net.
 radio.libre.		0	IN	NS	ns2.sourpuss.net.
 rajabi.libre.		0	IN	A	66.18.246.131
@@ -164,9 +164,9 @@ register.libre.		0	IN	AAAA	2001:470:4212:1::254
 remoteshaman.libre.	0	IN	A	93.170.128.114
 www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 reward.libre.		0	IN	A	127.0.0.1
-rhieandjosh.libre.	0	IN	A	59.101.4.155
-rhiekipedia.libre.	0	IN	A	59.101.4.155
-rhikipedia.libre.	0	IN	A	59.101.4.155
+rhieandjosh.libre.	0	IN	A	59.101.9.92
+rhiekipedia.libre.	0	IN	A	59.101.9.92
+rhikipedia.libre.	0	IN	A	59.101.9.92
 search.libre.		0	IN	A	73.11.11.6
 search.libre.		0	IN	TXT	"Alternative to search.null or search.oss since there both easy to access."
 secretum.libre.		0	IN	A	23.236.62.147
@@ -174,7 +174,7 @@ singlemr.libre.		0	IN	NS	ns2.opennic.glue.
 soy.libre.		0	IN	NS	ns1.tupropiaradio.net.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
 spatium.libre.		0	IN	NS	ns2.mb.os.vu.
-spikestradale.libre.	0	IN	A	59.101.4.155
+spikestradale.libre.	0	IN	A	59.101.9.92
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 succ.libre.		0	IN	A	163.172.185.51
 tbpchan.libre.		0	IN	A	70.174.0.214
@@ -201,7 +201,7 @@ webriq.libre.		0	IN	A	104.198.14.52
 www.wgboome.libre.	0	IN	CNAME	www5.wgboome.org.
 wiki.libre.		0	IN	A	158.69.160.165
 *.wiki.libre.		0	IN	CNAME	wiki.libre.
-wildhorse.libre.	0	IN	A	59.101.4.155
+wildhorse.libre.	0	IN	A	59.101.9.92
 wolvespackonline.libre.	0	IN	A	127.0.0.1
 public.wolvespackonline.libre. 0 IN	A	67.189.101.107
 www.libre.		0	IN	A	161.97.219.84
