@@ -53,7 +53,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.145.87.92
+micheal65536.dyn.	300	IN	A	88.145.87.23
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	85.178.30.12
 mulu-stick.dyn.		300	IN	A	85.178.30.12
@@ -134,8 +134,8 @@ unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
 valley.dyn.		300	IN	A	45.33.65.68
 valley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 valleys.dyn.		300	IN	A	45.33.65.68
+valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.63.49
 vovanium.dyn.		300	IN	A	95.165.139.85
 whitedwarf.dyn.		300	IN	A	67.249.202.109
