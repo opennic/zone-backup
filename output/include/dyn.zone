@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	207.237.207.250
+albuic.dyn.		300	IN	A	216.47.133.47
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -45,7 +45,7 @@ herman.dyn.		300	IN	A	82.73.159.243
 home-neo.dyn.		300	IN	A	95.88.225.142
 inquiries.dyn.		300	IN	A	148.75.237.47
 jor.dyn.		300	IN	A	172.168.12.13
-kf4nvx.dyn.		300	IN	A	68.235.228.70
+kf4nvx.dyn.		300	IN	A	68.235.230.84
 kf4nvx.dyn.		300	IN	AAAA	2600:1700:5f90:9930::16
 lan.dyn.		300	IN	NS	ns1.lan.dyn.
 libre.dyn.		300	IN	A	189.155.139.121
