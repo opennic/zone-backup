@@ -106,6 +106,7 @@ jolly.geek.		86400	IN	A	72.14.186.246
 jolly.geek.		86400	IN	AAAA	fe80::fcfd:48ff:fe0e:baf6
 jos.geek.		86400	IN	NS	us.nouwen.name.
 jos.geek.		86400	IN	NS	ns1.nouwen.name.
+josh.geek.		86400	IN	AAAA	2a02:120b:2c35:f7b0:5497:ffe1:7e55:a16a
 judgedt.geek.		86400	IN	A	92.222.38.31
 perso.judgedt.geek.	86400	IN	A	92.222.38.31
 kitt.geek.		86400	IN	A	178.79.162.221
