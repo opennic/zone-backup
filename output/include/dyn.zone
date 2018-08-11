@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	216.47.133.47
+albuic.dyn.		300	IN	A	207.237.207.250
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -134,8 +134,8 @@ unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
 valley.dyn.		300	IN	A	45.33.65.68
 valley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+valleys.dyn.		300	IN	A	45.33.65.68
 vektorweg.dyn.		300	IN	A	46.246.63.49
 vovanium.dyn.		300	IN	A	95.165.139.85
 whitedwarf.dyn.		300	IN	A	67.249.202.109
