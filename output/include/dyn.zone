@@ -108,10 +108,10 @@ thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thedigitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thefarm.dyn.		300	IN	A	45.33.65.68
 thefarm.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thefarms.dyn.		300	IN	A	45.33.65.68
-thegarden.dyn.		300	IN	A	45.33.65.68
+thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thegarden.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalley.dyn.		300	IN	A	45.33.65.68
