@@ -109,6 +109,7 @@ jos.geek.		86400	IN	NS	ns1.nouwen.name.
 josh.geek.		86400	IN	AAAA	2a02:120b:2c35:f7b0:5497:ffe1:7e55:a16a
 judgedt.geek.		86400	IN	A	92.222.38.31
 perso.judgedt.geek.	86400	IN	A	92.222.38.31
+jugalgala.geek.		86400	IN	A	60.243.85.46
 kitt.geek.		86400	IN	A	178.79.162.221
 forum.kitt.geek.	86400	IN	A	178.79.162.221
 kjs.geek.		86400	IN	A	45.32.6.22
@@ -120,8 +121,8 @@ www.linux.geek.		86400	IN	CNAME	www.remoteshaman.com.
 linux-lynx.geek.	86400	IN	A	37.59.63.23
 localhost.geek.		86400	IN	A	127.0.0.1
 maauer.geek.		86400	IN	A	100.33.33.33
-macibuki.geek.		86400	IN	A	207.246.124.52
 macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
+macibuki.geek.		86400	IN	A	207.246.124.52
 vpn.macibuki.geek.	86400	IN	A	207.246.124.52
 vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
@@ -153,8 +154,8 @@ olbat.geek.		86400	IN	A	104.28.30.22
 olbat.geek.		86400	IN	A	104.28.31.22
 omar.geek.		86400	IN	A	108.56.241.109
 one.geek.		86400	IN	A	192.243.126.209
-opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
 opennic.geek.		86400	IN	A	161.97.219.84
+opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
 opennicwebtest.geek.	86400	IN	NS	ns-293.awsdns-36.com.
 opennicwebtest.geek.	86400	IN	NS	ns-592.awsdns-10.net.
 opennicwebtest.geek.	86400	IN	NS	ns-1055.awsdns-03.org.
