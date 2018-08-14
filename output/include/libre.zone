@@ -10,6 +10,8 @@ arttek.libre.		0	IN	A	31.207.72.12
 be.libre.		0	IN	A	161.97.219.84
 be.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 be.libre.		0	IN	AAAA	2001:470:4212:1::254
+bea.libre.		0	IN	A	185.8.165.233
+*.bea.libre.		0	IN	A	185.8.165.233
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
 bobby.libre.		0	IN	A	188.166.5.11
