@@ -121,8 +121,8 @@ www.linux.geek.		86400	IN	CNAME	www.remoteshaman.com.
 linux-lynx.geek.	86400	IN	A	37.59.63.23
 localhost.geek.		86400	IN	A	127.0.0.1
 maauer.geek.		86400	IN	A	100.33.33.33
-macibuki.geek.		86400	IN	A	207.246.124.52
 macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
+macibuki.geek.		86400	IN	A	207.246.124.52
 vpn.macibuki.geek.	86400	IN	A	207.246.124.52
 vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
