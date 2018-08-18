@@ -78,7 +78,6 @@ secure.oss.		86400	IN	A	185.26.156.35
 secure.oss.		86400	IN	AAAA	2a00:d0c0:200:0:b9:1a:9c23:285
 soft.oss.		86400	IN	A	31.207.72.12
 spikestradale.oss.	86400	IN	A	59.101.8.235
-sso.oss.		86400	IN	NS	free.ssl.libre.
 succ.oss.		86400	IN	A	163.172.185.51
 syntazia.oss.		86400	IN	A	89.64.17.214
 repo.syntazia.oss.	86400	IN	A	89.64.17.214
