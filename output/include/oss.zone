@@ -40,7 +40,7 @@ localhost.oss.		86400	IN	A	127.0.0.1
 mail.oss.		86400	IN	A	173.160.58.202
 martin.oss.		86400	IN	NS	cyberblast.dyndns.org.
 mc-serverlist.oss.	86400	IN	A	73.11.11.6
-nightshade.oss.		86400	IN	A	59.101.9.92
+nightshade.oss.		86400	IN	A	59.101.8.235
 nob.oss.		86400	IN	A	185.224.137.66
 nokeh.oss.		86400	IN	NS	ns1.geoscaling.com.
 nokeh.oss.		86400	IN	NS	ns2.geoscaling.com.
@@ -77,7 +77,7 @@ search.oss.		86400	IN	A	73.11.11.6
 secure.oss.		86400	IN	A	185.26.156.35
 secure.oss.		86400	IN	AAAA	2a00:d0c0:200:0:b9:1a:9c23:285
 soft.oss.		86400	IN	A	31.207.72.12
-spikestradale.oss.	86400	IN	A	59.101.9.92
+spikestradale.oss.	86400	IN	A	59.101.8.235
 sso.oss.		86400	IN	NS	free.ssl.libre.
 succ.oss.		86400	IN	A	163.172.185.51
 syntazia.oss.		86400	IN	A	89.64.17.214
