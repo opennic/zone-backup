@@ -151,8 +151,8 @@ olbat.geek.		86400	IN	A	104.28.30.22
 olbat.geek.		86400	IN	A	104.28.31.22
 omar.geek.		86400	IN	A	108.56.241.109
 one.geek.		86400	IN	A	192.243.126.209
-opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
 opennic.geek.		86400	IN	A	161.97.219.84
+opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
 opennicwebtest.geek.	86400	IN	NS	ns-293.awsdns-36.com.
 opennicwebtest.geek.	86400	IN	NS	ns-592.awsdns-10.net.
 opennicwebtest.geek.	86400	IN	NS	ns-1055.awsdns-03.org.
