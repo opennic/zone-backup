@@ -107,10 +107,10 @@ thefarm.dyn.		300	IN	A	45.33.65.68
 thefarm.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thefarms.dyn.		300	IN	A	45.33.65.68
 thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegarden.dyn.		300	IN	A	45.33.65.68
 thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thegarden.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	A	45.33.65.68
+thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalley.dyn.		300	IN	A	45.33.65.68
 thevalley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalleys.dyn.		300	IN	A	45.33.65.68
@@ -142,4 +142,4 @@ wildhorse.dyn.		300	IN	A	59.101.8.235
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	46.88.37.94
+zufriedenheit.dyn.	300	IN	A	79.242.84.12
