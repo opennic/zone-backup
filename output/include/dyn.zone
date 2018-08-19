@@ -12,10 +12,6 @@ chadnet.dyn.		300	IN	A	59.101.8.235
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	87.222.130.201
-creative.dyn.		300	IN	A	45.33.65.68
-creative.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-creativegarden.dyn.	300	IN	A	45.33.65.68
-creativegarden.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
@@ -23,8 +19,6 @@ cryptoforliberty.dyn.	300	IN	A	75.100.179.59
 darkcodi.dyn.		300	IN	A	139.59.211.104
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarm.dyn.	300	IN	A	45.33.65.68
-digitalfarm.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 diz.dyn.		300	IN	A	45.30.159.243
@@ -32,8 +26,6 @@ dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
 enter.dyn.		300	IN	A	127.0.0.10
 example.dyn.		300	IN	A	127.0.0.1
-farms.dyn.		300	IN	A	45.33.65.68
-farms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 francoismelchior.dyn.	300	IN	A	213.219.188.206
 gardens.dyn.		300	IN	A	45.33.65.68
 gardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
@@ -91,10 +83,6 @@ stemby.dyn.		300	IN	A	146.241.199.254
 subnet.dyn.		300	IN	A	91.40.220.63
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
-thecreative.dyn.	300	IN	A	45.33.65.68
-thecreative.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thecreativegarden.dyn.	300	IN	A	45.33.65.68
-thecreativegarden.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
 thecreativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thedigital.dyn.		300	IN	A	45.33.65.68
@@ -103,14 +91,6 @@ thedigitalfarm.dyn.	300	IN	A	45.33.65.68
 thedigitalfarm.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thedigitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thefarm.dyn.		300	IN	A	45.33.65.68
-thefarm.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thefarms.dyn.		300	IN	A	45.33.65.68
-thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegarden.dyn.		300	IN	A	45.33.65.68
-thegardens.dyn.		300	IN	A	45.33.65.68
-thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalley.dyn.		300	IN	A	45.33.65.68
 thevalley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalleys.dyn.		300	IN	A	45.33.65.68
