@@ -43,7 +43,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.144.74.5
+micheal65536.dyn.	300	IN	A	88.144.73.92
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	92.227.145.110
 mulu-stick.dyn.		300	IN	A	92.227.145.110
@@ -85,14 +85,8 @@ sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
 thecreativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thedigital.dyn.		300	IN	A	45.33.65.68
-thedigital.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thedigitalfarm.dyn.	300	IN	A	45.33.65.68
-thedigitalfarm.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thedigitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thevalley.dyn.		300	IN	A	45.33.65.68
-thevalley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalleys.dyn.		300	IN	A	45.33.65.68
 thevalleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 tick.dyn.		300	IN	NS	ns1.linode.com.
@@ -110,8 +104,6 @@ unionf.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 unionflour.dyn.		300	IN	A	45.33.65.68
 unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
-valley.dyn.		300	IN	A	45.33.65.68
-valley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.38.181
