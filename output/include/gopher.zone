@@ -5,8 +5,6 @@ dns.gopher.		86400	IN	A	127.0.0.1
 example.gopher.		86400	IN	A	127.0.0.1
 localhost.gopher.	86400	IN	A	127.0.0.1
 mail.gopher.		86400	IN	A	127.0.0.1
-mercury.gopher.		86400	IN	A	185.22.172.78
-mercury.gopher.		86400	IN	AAAA	2a00:1838:36:e4::b287
 opennic.gopher.		86400	IN	A	127.0.0.1
 orbitalfox.gopher.	86400	IN	A	95.172.232.202
 pongonova.gopher.	86400	IN	A	52.24.18.83
