@@ -11,7 +11,6 @@ cdn.dyn.		300	IN	A	114.4.216.59
 chadnet.dyn.		300	IN	A	59.101.8.235
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
-computer-pig.dyn.	300	IN	AAAA	fcbe:1c0:a7d0:5aa2:a8a3:a3d5:3bf1:11e5
 corrin.dyn.		300	IN	A	87.222.130.201
 creative.dyn.		300	IN	A	45.33.65.68
 creative.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
@@ -40,7 +39,6 @@ gardens.dyn.		300	IN	A	45.33.65.68
 gardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 gmarquez.dyn.		300	IN	A	192.168.0.13
 gylle.dyn.		300	IN	A	84.209.2.104
-happysmash27.dyn.	300	IN	AAAA	fcbe:1c0:a7d0:5aa2:a8a3:a3d5:3bf1:11e5
 herman.dyn.		300	IN	A	82.73.159.243
 home-neo.dyn.		300	IN	A	95.88.225.142
 inquiries.dyn.		300	IN	A	148.75.237.47
@@ -111,8 +109,8 @@ thefarms.dyn.		300	IN	A	45.33.65.68
 thefarms.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thegarden.dyn.		300	IN	A	45.33.65.68
 thegarden.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thegardens.dyn.		300	IN	A	45.33.65.68
 thegardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thegardens.dyn.		300	IN	A	45.33.65.68
 thevalley.dyn.		300	IN	A	45.33.65.68
 thevalley.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalleys.dyn.		300	IN	A	45.33.65.68
