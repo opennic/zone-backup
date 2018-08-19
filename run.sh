@@ -25,7 +25,7 @@ dig_tld indy 161.97.219.84
 dig_tld libre 161.97.219.84
 dig_tld neo 104.168.144.17
 dig_tld null 188.226.146.136
-dig_tld o 45.55.97.204
+dig_tld o 174.138.48.29
 dig_tld oss 161.97.219.84
 dig_tld oz 188.226.146.136
 dig_tld parody 161.97.219.84
