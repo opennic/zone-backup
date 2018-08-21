@@ -26,6 +26,7 @@ dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
 enter.dyn.		300	IN	A	127.0.0.10
 example.dyn.		300	IN	A	127.0.0.1
+flour.dyn.		300	IN	A	45.33.65.68
 francoismelchior.dyn.	300	IN	A	213.219.188.206
 gardens.dyn.		300	IN	A	45.33.65.68
 gardens.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
@@ -99,6 +100,7 @@ uf.dyn.			300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 uflour.dyn.		300	IN	A	45.33.65.68
 uflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 un.dyn.			300	IN	NS	free.ssl.libre.
+union.dyn.		300	IN	A	45.33.65.68
 unionf.dyn.		300	IN	A	45.33.65.68
 unionf.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 unionflour.dyn.		300	IN	A	45.33.65.68
