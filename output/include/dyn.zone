@@ -82,7 +82,7 @@ soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.1.121
 startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	146.241.199.254
-subnet.dyn.		300	IN	A	79.255.44.60
+subnet.dyn.		300	IN	A	91.40.218.143
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
