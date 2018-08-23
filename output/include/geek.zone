@@ -148,7 +148,6 @@ official.geek.		86400	IN	NS	ns2.whc.ca.
 official.geek.		86400	IN	NS	ns3.whc.ca.
 olbat.geek.		86400	IN	A	104.28.30.22
 olbat.geek.		86400	IN	A	104.28.31.22
-omar.geek.		86400	IN	A	108.56.241.109
 one.geek.		86400	IN	A	192.243.126.209
 opennic.geek.		86400	IN	A	161.97.219.84
 opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
