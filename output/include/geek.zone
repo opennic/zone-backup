@@ -25,7 +25,6 @@ bodi-office.geek.	86400	IN	A	35.227.103.26
 byte.geek.		86400	IN	A	138.201.159.27
 cccp.geek.		86400	IN	A	212.24.103.221
 chrisg.geek.		86400	IN	A	150.101.112.36
-cocoto.geek.		86400	IN	A	51.15.69.5
 combook.geek.		86400	IN	A	35.227.103.26
 coredump.geek.		86400	IN	NS	ns1.lunarservers.com.
 coredump.geek.		86400	IN	NS	ns2.lunarservers.com.
@@ -124,7 +123,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	79.64.30.141
+micheal65536.geek.	86400	IN	A	88.145.86.108
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 ns1.nameservers.geek.	86400	IN	A	67.221.146.229
