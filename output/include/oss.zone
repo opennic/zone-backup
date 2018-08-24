@@ -87,8 +87,6 @@ unplug.oss.		86400	IN	NS	ns1.servers.dbatley.com.
 unplug.oss.		86400	IN	NS	ns2.servers.dbatley.com.
 ns1.unplug.oss.unplug.oss. 86400 IN	A	46.149.19.98
 utzon.oss.		86400	IN	A	84.209.2.104
-vrnint.oss.		86400	IN	A	185.22.153.39
-vrnint.oss.		86400	IN	AAAA	2a00:b700::2d0
 waytt.oss.		86400	IN	A	194.143.137.144
 webmail.oss.		86400	IN	A	73.11.11.6
 www.wgboome.oss.	86400	IN	CNAME	www0.wgboome.org.

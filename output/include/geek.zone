@@ -169,7 +169,6 @@ php.geek.		86400	IN	A	90.252.229.137
 phundrak.geek.		86400	IN	A	82.226.82.83
 phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
 phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
-pnp.geek.		86400	IN	A	217.25.226.215
 poppop.geek.		86400	IN	A	81.187.19.191
 profilib.geek.		86400	IN	NS	ns1.profismart.net.
 profilib.geek.		86400	IN	NS	ns2.profismart.net.
@@ -223,8 +222,6 @@ tuetuopay.geek.		86400	IN	A	94.23.17.209
 vps1.tuetuopay.geek.	86400	IN	CNAME	vps1.tuetuopay.fr.
 www.unix.geek.		86400	IN	CNAME	www.remoteshaman.com.
 vovanium.geek.		86400	IN	A	95.165.139.85
-vrnint.geek.		86400	IN	A	185.22.153.39
-vrnint.geek.		86400	IN	AAAA	2a00:b700::2d0
 vsta.geek.		86400	IN	A	212.47.245.167
 waytt.geek.		86400	IN	A	194.143.137.144
 weblionx.geek.		86400	IN	NS	ns.phx1.nearlyfreespeech.net.
