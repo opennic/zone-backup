@@ -135,8 +135,6 @@ utzon.pirate.		86400	IN	A	84.209.2.104
 viking94.pirate.	86400	IN	A	193.11.134.88
 votar.pirate.		86400	IN	A	178.37.40.131
 votar.pirate.		86400	IN	TXT	"YARR!"
-vrnint.pirate.		86400	IN	A	185.22.153.39
-vrnint.pirate.		86400	IN	AAAA	2a00:b700::2d0
 www.windowsadmin.pirate. 86400	IN	CNAME	www.remoteshaman.com.
 xn--wxa.pirate.		86400	IN	A	37.59.68.48
 xn--wxa.pirate.		86400	IN	AAAA	2001:41d0:1:891b::2
