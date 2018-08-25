@@ -88,8 +88,8 @@ opennic.pirate.		86400	IN	A	198.98.53.128
 www.opennic.pirate.	86400	IN	A	198.98.53.128
 oxro.pirate.		86400	IN	AAAA	2a03:b0c0:3:d0::b61:1
 pazuzuwonderland.pirate. 86400	IN	A	217.217.37.43
-pcy.pirate.		86400	IN	A	193.190.253.234
 pcy.pirate.		86400	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
+pcy.pirate.		86400	IN	A	193.190.253.234
 alphard.pcy.pirate.	86400	IN	AAAA	fc43:bd41:4e2d:67f9:59f7:fced:2a55:2b8a
 ran.pcy.pirate.		86400	IN	AAAA	fcea:5374:445:fd20:20b0:c359:b570:d24
 ulyssis.pcy.pirate.	86400	IN	A	193.190.253.234
