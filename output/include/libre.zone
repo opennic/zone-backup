@@ -16,7 +16,6 @@ bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 *.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
-bobby.libre.		0	IN	A	188.166.5.11
 ca.libre.		0	IN	A	149.56.97.161
 ca.libre.		0	IN	AAAA	2607:5300:201:3100::1a86
 ocsp.ca.libre.		0	IN	CNAME	ca.libre.
