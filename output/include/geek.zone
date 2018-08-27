@@ -58,9 +58,9 @@ eugene.geek.		86400	IN	A	95.79.31.188
 mail.eugene.geek.	86400	IN	A	95.79.31.188
 example.geek.		86400	IN	A	127.0.0.1
 fei.geek.		86400	IN	A	60.246.202.112
-file.geek.		86400	IN	A	173.160.58.204
 file.geek.		86400	IN	RP	shdwdrgn.sourpuss.net. .
 file.geek.		86400	IN	AAAA	2001:470:f032:10:0:2:80:22
+file.geek.		86400	IN	A	173.160.58.204
 fosstechtalk.geek.	86400	IN	A	159.203.21.102
 freecert.geek.		86400	IN	A	69.197.155.38
 geeky.geek.		86400	IN	A	202.57.16.45
