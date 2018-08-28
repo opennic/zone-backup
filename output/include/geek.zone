@@ -222,6 +222,7 @@ trebuchet.geek.		86400	IN	NS	ns1.sourpuss.net.
 trebuchet.geek.		86400	IN	NS	ns2.sourpuss.net.
 tuetuopay.geek.		86400	IN	A	94.23.17.209
 vps1.tuetuopay.geek.	86400	IN	CNAME	vps1.tuetuopay.fr.
+uly.geek.		86400	IN	A	173.212.246.189
 www.unix.geek.		86400	IN	CNAME	www.remoteshaman.com.
 vovanium.geek.		86400	IN	A	95.165.139.85
 vsta.geek.		86400	IN	A	212.47.245.167
