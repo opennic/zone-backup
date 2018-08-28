@@ -1,4 +1,4 @@
-oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018082786 3600 7200 604800 86400
+oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018082790 3600 7200 604800 86400
 oz.			86400	IN	NS	ns2.opennic.glue.
 oz.			86400	IN	NS	ns3.opennic.glue.
 oz.			86400	IN	NS	ns4.opennic.glue.
