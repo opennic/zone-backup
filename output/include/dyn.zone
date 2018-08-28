@@ -12,8 +12,8 @@ chadnet.dyn.		300	IN	A	59.101.1.121
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	87.222.130.201
-creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
+creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	75.100.179.59
 darkcodi.dyn.		300	IN	A	139.59.211.104
@@ -59,7 +59,7 @@ opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
 pala.dyn.		300	IN	A	81.174.162.197
-pheralcus.dyn.		300	IN	A	89.0.210.38
+pheralcus.dyn.		300	IN	A	89.0.225.8
 posei.dyn.		300	IN	A	172.138.5.21
 profismart.dyn.		300	IN	A	145.255.2.196
 quirxi.dyn.		300	IN	A	213.162.73.149
