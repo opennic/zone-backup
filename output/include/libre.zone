@@ -117,6 +117,7 @@ www.marmat.libre.	0	IN	A	51.254.211.71
 www.marmat.libre.	0	IN	AAAA	2001:41d0:302:2000::1647
 mmo.libre.		0	IN	NS	ns6529.hostgator.com.
 mmo.libre.		0	IN	NS	ns6530.hostgator.com.
+movies.libre.		0	IN	A	173.212.246.189
 mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 nameserver-test.libre.	0	IN	NS	ns1.nameserver-test.libre.
