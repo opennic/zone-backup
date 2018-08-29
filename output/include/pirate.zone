@@ -57,6 +57,7 @@ jediknight.pirate.	86400	IN	A	94.250.249.251
 www.junia.pirate.	86400	IN	NS	ns1.site4now.net.
 www.junia.pirate.	86400	IN	NS	ns2.site4now.net.
 www.junia.pirate.	86400	IN	NS	ns3.site4now.net.
+kcastner.pirate.	86400	IN	A	84.200.44.240
 limewire.pirate.	86400	IN	A	145.130.116.135
 www.linux.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 www.linuxadmin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
