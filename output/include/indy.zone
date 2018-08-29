@@ -10,8 +10,8 @@ localhost.indy.		86400	IN	A	127.0.0.1
 midskiller.indy.	86400	IN	A	198.251.90.113
 nightshade.indy.	86400	IN	A	59.101.1.121
 obsceneshoes.indy.	86400	IN	A	59.101.1.121
-opennic.indy.		86400	IN	A	161.97.219.84
 opennic.indy.		86400	IN	AAAA	2001:470:4212:1::254
+opennic.indy.		86400	IN	A	161.97.219.84
 orbitalfox.indy.	86400	IN	A	95.172.232.202
 prorussian.indy.	86400	IN	A	109.195.19.160
 prorussian.indy.	86400	IN	TXT	"v=spf1" "redirect=_spf.yandex.net"
