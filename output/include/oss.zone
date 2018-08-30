@@ -51,8 +51,8 @@ nol.oss.		86400	IN	A	138.201.159.27
 openmsg.oss.		86400	IN	A	73.11.11.6
 local.openmsg.oss.	86400	IN	A	127.0.0.1
 www.openmsg.oss.	86400	IN	A	73.11.11.6
-opennic.oss.		86400	IN	AAAA	2001:470:4212:1::254
 opennic.oss.		86400	IN	A	161.97.219.84
+opennic.oss.		86400	IN	AAAA	2001:470:4212:1::254
 code.opennic.oss.	86400	IN	A	161.97.219.84
 code.opennic.oss.	86400	IN	AAAA	2001:470:4212:1::254
 mail.opennic.oss.	86400	IN	A	161.97.219.84
