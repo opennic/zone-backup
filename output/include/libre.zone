@@ -150,8 +150,8 @@ www.parabola.libre.	0	IN	CNAME	www.parabola.nu.
 pcy.libre.		0	IN	A	193.190.253.234
 pcy.libre.		0	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
 pensamiento.libre.	0	IN	A	80.36.144.202
-phundrak.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
 phundrak.libre.		0	IN	A	82.226.82.83
+phundrak.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
 pizza.libre.		0	IN	A	46.22.223.253
 pnp.libre.		0	IN	A	217.25.226.215
 www.polechudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
