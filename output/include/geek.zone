@@ -58,9 +58,9 @@ eugene.geek.		86400	IN	A	95.79.31.188
 mail.eugene.geek.	86400	IN	A	95.79.31.188
 example.geek.		86400	IN	A	127.0.0.1
 fei.geek.		86400	IN	A	60.246.202.112
-file.geek.		86400	IN	A	173.160.58.204
 file.geek.		86400	IN	RP	shdwdrgn.sourpuss.net. .
 file.geek.		86400	IN	AAAA	2001:470:f032:10:0:2:80:22
+file.geek.		86400	IN	A	173.160.58.204
 fosstechtalk.geek.	86400	IN	A	159.203.21.102
 freecert.geek.		86400	IN	A	69.197.155.38
 geeky.geek.		86400	IN	A	202.57.16.45
@@ -206,7 +206,6 @@ succ.geek.		86400	IN	A	163.172.185.51
 talk.geek.		86400	IN	A	216.17.244.224
 cdn.talk.geek.		86400	IN	CNAME	cdn.publicmirrors.org.
 www.talk.geek.		86400	IN	CNAME	talk.geek.
-technovantage.geek.	86400	IN	A	104.33.16.156
 teddy.geek.		86400	IN	NS	dns.fastdns24.com.
 teddy.geek.		86400	IN	NS	dns2.fastdns24.org.
 teddy.geek.		86400	IN	NS	dns3.fastdns24.eu.
@@ -226,5 +225,5 @@ vovanium.geek.		86400	IN	A	95.165.139.85
 vsta.geek.		86400	IN	A	212.47.245.167
 waytt.geek.		86400	IN	A	194.143.137.144
 wildhorse.geek.		86400	IN	A	59.101.1.121
-www.geek.		86400	IN	AAAA	2001:470:4212:1::254
 www.geek.		86400	IN	A	161.97.219.84
+www.geek.		86400	IN	AAAA	2001:470:4212:1::254
