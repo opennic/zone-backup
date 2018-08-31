@@ -43,7 +43,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.144.74.225
+micheal65536.dyn.	300	IN	A	88.145.84.241
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	95.114.97.236
 mulu-stick.dyn.		300	IN	A	95.114.97.236
@@ -116,4 +116,4 @@ wildhorse.dyn.		300	IN	A	59.101.1.121
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	46.88.46.27
+zufriedenheit.dyn.	300	IN	A	79.242.81.171
