@@ -130,6 +130,8 @@ nokeh.libre.		0	IN	NS	ns5.geoscaling.com.
 nopunyir.libre.		0	IN	A	145.1.233.227
 nuracing.libre.		0	IN	A	59.101.1.121
 obsceneshoes.libre.	0	IN	A	59.101.1.121
+ocean.libre.		0	IN	A	127.0.0.1
+ocean.libre.		0	IN	TXT	"A whirled instance server, the very first whirled server to be on OpenNIC!"
 office.libre.		0	IN	A	139.59.211.104
 opennic.libre.		0	IN	A	161.97.219.84
 opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
@@ -148,8 +150,8 @@ www.parabola.libre.	0	IN	CNAME	www.parabola.nu.
 pcy.libre.		0	IN	A	193.190.253.234
 pcy.libre.		0	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
 pensamiento.libre.	0	IN	A	80.36.144.202
-phundrak.libre.		0	IN	A	82.226.82.83
 phundrak.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
+phundrak.libre.		0	IN	A	82.226.82.83
 pizza.libre.		0	IN	A	46.22.223.253
 pnp.libre.		0	IN	A	217.25.226.215
 www.polechudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
@@ -180,6 +182,8 @@ spatium.libre.		0	IN	NS	ns2.mb.os.vu.
 spikestradale.libre.	0	IN	A	59.101.1.121
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 succ.libre.		0	IN	A	163.172.185.51
+syncedonline.libre.	0	IN	A	74.91.125.124
+www.syncedonline.libre.	0	IN	A	74.91.125.124
 tbpchan.libre.		0	IN	A	70.174.0.214
 test.libre.		0	IN	A	104.131.78.30
 thefoxesoftheforest.libre. 0	IN	A	73.11.11.6
