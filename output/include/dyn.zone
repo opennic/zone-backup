@@ -79,7 +79,7 @@ skynet.dyn.		300	IN	A	203.219.252.188
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.1.121
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	78.134.87.48
+stemby.dyn.		300	IN	A	88.147.103.65
 subnet.dyn.		300	IN	A	91.40.219.5
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
