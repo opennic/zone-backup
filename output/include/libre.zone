@@ -128,6 +128,7 @@ nokeh.libre.		0	IN	NS	ns3.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns4.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns5.geoscaling.com.
 nopunyir.libre.		0	IN	A	145.1.233.227
+null.libre.		0	IN	A	73.11.11.6
 nuracing.libre.		0	IN	A	59.101.1.121
 obsceneshoes.libre.	0	IN	A	59.101.1.121
 ocean.libre.		0	IN	A	127.0.0.1
