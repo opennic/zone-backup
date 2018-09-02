@@ -177,8 +177,8 @@ reward.libre.		0	IN	A	127.0.0.1
 rhieandjosh.libre.	0	IN	A	59.101.1.121
 rhiekipedia.libre.	0	IN	A	59.101.1.121
 rhikipedia.libre.	0	IN	A	59.101.1.121
-search.libre.		0	IN	TXT	"Alternative to search.null or search.oss since there both easy to access."
 search.libre.		0	IN	A	73.11.11.6
+search.libre.		0	IN	TXT	"Alternative to search.null or search.oss since there both easy to access."
 secretum.libre.		0	IN	A	23.236.62.147
 show-animate.libre.	0	IN	NS	ns1.show-animate.libre.
 ns1.show-animate.libre.	0	IN	A	73.11.11.6
