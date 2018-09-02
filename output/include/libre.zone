@@ -131,6 +131,10 @@ nokeh.libre.		0	IN	NS	ns4.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns5.geoscaling.com.
 nopunyir.libre.		0	IN	A	145.1.233.227
 null.libre.		0	IN	A	73.11.11.6
+game.null.libre.	0	IN	A	73.11.11.6
+host.null.libre.	0	IN	A	73.11.11.6
+media.null.libre.	0	IN	A	73.11.11.6
+www.null.libre.		0	IN	A	73.11.11.6
 nuracing.libre.		0	IN	A	59.101.1.121
 obsceneshoes.libre.	0	IN	A	59.101.1.121
 ocean.libre.		0	IN	A	127.0.0.1
@@ -173,8 +177,8 @@ reward.libre.		0	IN	A	127.0.0.1
 rhieandjosh.libre.	0	IN	A	59.101.1.121
 rhiekipedia.libre.	0	IN	A	59.101.1.121
 rhikipedia.libre.	0	IN	A	59.101.1.121
-search.libre.		0	IN	A	73.11.11.6
 search.libre.		0	IN	TXT	"Alternative to search.null or search.oss since there both easy to access."
+search.libre.		0	IN	A	73.11.11.6
 secretum.libre.		0	IN	A	23.236.62.147
 show-animate.libre.	0	IN	NS	ns1.show-animate.libre.
 ns1.show-animate.libre.	0	IN	A	73.11.11.6
