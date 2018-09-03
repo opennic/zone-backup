@@ -92,7 +92,6 @@ pazuzuwonderland.pirate. 86400	IN	A	217.217.37.43
 pcy.pirate.		86400	IN	A	193.190.253.234
 pcy.pirate.		86400	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
 alphard.pcy.pirate.	86400	IN	AAAA	fc43:bd41:4e2d:67f9:59f7:fced:2a55:2b8a
-ran.pcy.pirate.		86400	IN	AAAA	fcea:5374:445:fd20:20b0:c359:b570:d24
 ulyssis.pcy.pirate.	86400	IN	A	193.190.253.234
 pltv.pirate.		86400	IN	NS	ns1.afraid.org.
 pltv.pirate.		86400	IN	NS	ns2.afraid.org.
