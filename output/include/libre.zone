@@ -3,11 +3,8 @@ www.aglaea.libre.	0	IN	CNAME	aglaea.libre.
 alterpm.libre.		0	IN	NS	ns1.alterpm.libre.
 ns1.alterpm.libre.	0	IN	A	73.11.11.6
 ankit.libre.		0	IN	A	45.55.110.124
-argca.libre.		0	IN	NS	ns1.linode.com.
-argca.libre.		0	IN	NS	ns2.linode.com.
-argca.libre.		0	IN	NS	ns3.linode.com.
-argca.libre.		0	IN	NS	ns4.linode.com.
-argca.libre.		0	IN	NS	ns5.linode.com.
+argca.libre.		0	IN	A	172.104.59.190
+argca.libre.		0	IN	AAAA	2400:8901::f03c:91ff:fe36:7e3c
 arttek.libre.		0	IN	A	31.207.72.12
 be.libre.		0	IN	A	161.97.219.84
 be.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .

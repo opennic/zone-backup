@@ -106,8 +106,8 @@ perso.judgedt.geek.	86400	IN	A	92.222.38.31
 jugalgala.geek.		86400	IN	A	115.96.44.138
 kitt.geek.		86400	IN	A	178.79.162.221
 kitt.geek.		86400	IN	AAAA	2a01:7e00::f03c:91ff:fe6e:dd29
-forum.kitt.geek.	86400	IN	AAAA	2a01:7e00::f03c:91ff:fe6e:dd29
 forum.kitt.geek.	86400	IN	A	178.79.162.221
+forum.kitt.geek.	86400	IN	AAAA	2a01:7e00::f03c:91ff:fe6e:dd29
 kjs.geek.		86400	IN	A	45.32.6.22
 kwendenarmo.geek.	86400	IN	A	31.193.227.158
 lad.geek.		86400	IN	A	73.96.177.72
