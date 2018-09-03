@@ -20,7 +20,7 @@ byte.geek.		86400	IN	A	138.201.159.27
 cccp.geek.		86400	IN	A	212.24.103.221
 chrisg.geek.		86400	IN	A	150.101.112.36
 combook.geek.		86400	IN	A	35.227.103.26
-comfix.geek.		86400	IN	A	213.235.213.45
+comfix.geek.		86400	IN	A	213.239.213.45
 coredump.geek.		86400	IN	NS	ns1.lunarservers.com.
 coredump.geek.		86400	IN	NS	ns2.lunarservers.com.
 coredumpcentral.geek.	86400	IN	NS	ns1.lunarservers.com.
