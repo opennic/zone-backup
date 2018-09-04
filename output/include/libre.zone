@@ -41,6 +41,7 @@ ns1.danq.libre.		0	IN	A	209.200.237.4
 ns2.danq.libre.		0	IN	A	209.200.238.4
 den.libre.		0	IN	A	178.76.232.222
 diamond-ns.libre.	0	IN	A	73.11.11.6
+djuber.libre.		0	IN	A	158.69.204.165
 docbit.libre.		0	IN	A	73.11.11.6
 domain.libre.		0	IN	NS	ns1.domain.libre.
 drakpa.libre.		0	IN	A	82.226.82.83
