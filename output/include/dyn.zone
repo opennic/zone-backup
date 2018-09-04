@@ -86,8 +86,8 @@ sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
 thecreativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thedigitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thevalleys.dyn.		300	IN	A	45.33.65.68
 thevalleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 tick.dyn.		300	IN	NS	ns1.linode.com.
