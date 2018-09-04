@@ -108,6 +108,7 @@ kwendenarmo.geek.	86400	IN	A	31.193.227.158
 lad.geek.		86400	IN	A	73.96.177.72
 lasercutter.geek.	86400	IN	A	172.223.225.4
 www.lasercutter.geek.	86400	IN	A	172.223.225.4
+linkpuff.geek.		86400	IN	A	207.246.78.136
 www.linux.geek.		86400	IN	CNAME	www.remoteshaman.com.
 linux-lynx.geek.	86400	IN	A	37.59.63.23
 localhost.geek.		86400	IN	A	127.0.0.1
@@ -123,8 +124,8 @@ micheal65536.geek.	86400	IN	A	79.64.30.103
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 ns1.nameservers.geek.	86400	IN	A	67.221.146.229
-natrinicle.geek.	86400	IN	A	136.60.193.37
 natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
+natrinicle.geek.	86400	IN	A	136.60.193.37
 diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
 diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
@@ -147,8 +148,8 @@ opennicwebtest.geek.	86400	IN	NS	ns-293.awsdns-36.com.
 opennicwebtest.geek.	86400	IN	NS	ns-592.awsdns-10.net.
 opennicwebtest.geek.	86400	IN	NS	ns-1055.awsdns-03.org.
 opennicwebtest.geek.	86400	IN	NS	ns-1895.awsdns-44.co.uk.
-p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p4bl0.geek.		86400	IN	A	91.121.16.67
+p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
 p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
 peerz.geek.		86400	IN	A	24.137.85.135
@@ -171,8 +172,8 @@ radio.geek.		86400	IN	NS	ns1.sourpuss.net.
 radio.geek.		86400	IN	NS	ns2.sourpuss.net.
 reg.geek.		86400	IN	A	161.97.219.84
 reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
-register.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	AAAA	2001:470:4212:1::254
+register.geek.		86400	IN	A	161.97.219.84
 www.remoteshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
 retro.geek.		86400	IN	A	172.168.12.13
 rob.geek.		86400	IN	A	66.6.44.4
