@@ -136,9 +136,9 @@ utzon.pirate.		86400	IN	A	84.209.2.104
 viking94.pirate.	86400	IN	A	193.11.134.88
 votar.pirate.		86400	IN	A	178.37.40.131
 votar.pirate.		86400	IN	TXT	"YARR!"
-whereisthe.pirate.	86400	IN	NS	ns1.easyname.eu.
-whereisthe.pirate.	86400	IN	NS	ns2.easyname.eu.
-easyname4de5b7db4171cc76.whereisthe.pirate. 86400 IN CNAME www.easyname.com.
+whereisthe.pirate.	86400	IN	A	51.15.195.2
+whereisthe.pirate.	86400	IN	AAAA	2001:bc8:4400:2b00::21:703
+www.whereisthe.pirate.	86400	IN	A	51.15.195.2
 www.windowsadmin.pirate. 86400	IN	CNAME	www.remoteshaman.com.
 xn--wxa.pirate.		86400	IN	A	37.59.68.48
 xn--wxa.pirate.		86400	IN	AAAA	2001:41d0:1:891b::2
