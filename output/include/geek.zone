@@ -7,6 +7,7 @@ amirgt.geek.		86400	IN	A	46.105.198.0
 www.amirgt.geek.	86400	IN	A	46.105.198.0
 apason.geek.		86400	IN	A	5.39.20.236
 nastroje.apason.geek.	86400	IN	CNAME	apason.geek.
+www.apason.geek.	86400	IN	CNAME	apason.geek.
 appmaker.geek.		86400	IN	NS	ns-cloud-b1.googledomains.com.
 appmaker.geek.		86400	IN	NS	ns-cloud-b2.googledomains.com.
 appmaker.geek.		86400	IN	NS	ns-cloud-b3.googledomains.com.
@@ -103,8 +104,8 @@ josh.geek.		86400	IN	AAAA	2a02:120b:2c35:f7b0:5497:ffe1:7e55:a16a
 judgedt.geek.		86400	IN	A	92.222.38.31
 perso.judgedt.geek.	86400	IN	A	92.222.38.31
 jugalgala.geek.		86400	IN	A	115.96.44.138
-kitt.geek.		86400	IN	AAAA	2a01:7e00::f03c:91ff:fe6e:dd29
 kitt.geek.		86400	IN	A	178.79.162.221
+kitt.geek.		86400	IN	AAAA	2a01:7e00::f03c:91ff:fe6e:dd29
 forum.kitt.geek.	86400	IN	A	178.79.162.221
 forum.kitt.geek.	86400	IN	AAAA	2a01:7e00::f03c:91ff:fe6e:dd29
 kjs.geek.		86400	IN	A	45.32.6.22
@@ -119,8 +120,8 @@ www.linux.geek.		86400	IN	CNAME	www.remoteshaman.com.
 linux-lynx.geek.	86400	IN	A	37.59.63.23
 localhost.geek.		86400	IN	A	127.0.0.1
 maauer.geek.		86400	IN	A	100.33.33.33
-macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 macibuki.geek.		86400	IN	A	207.246.124.52
+macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 vpn.macibuki.geek.	86400	IN	A	207.246.124.52
 vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
