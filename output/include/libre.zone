@@ -198,11 +198,6 @@ ns1.top.libre.		0	IN	A	73.11.11.6
 trico-world.libre.	0	IN	A	73.11.11.6
 host.trico-world.libre.	0	IN	A	73.11.11.6
 www.trico-world.libre.	0	IN	A	73.11.11.6
-tvclub.libre.		0	IN	A	0.0.0.0
-tv3.tvclub.libre.	0	IN	A	91.121.153.30
-tv5.tvclub.libre.	0	IN	A	176.31.247.149
-tv6.tvclub.libre.	0	IN	A	37.59.50.91
-tv7.tvclub.libre.	0	IN	A	91.121.6.65
 unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
 www.unixzone.libre.	0	IN	CNAME	www.remoteshaman.com.
