@@ -78,7 +78,6 @@ mgtowmirror.pirate.	86400	IN	NS	ns2.black.host.
 www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
-musicloud.pirate.	86400	IN	A	80.211.213.113
 nightshade.pirate.	86400	IN	A	59.101.1.121
 nil.pirate.		86400	IN	A	155.254.33.249
 nnm-club.pirate.	86400	IN	A	81.17.30.22
