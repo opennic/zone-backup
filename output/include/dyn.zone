@@ -30,7 +30,6 @@ example.dyn.		300	IN	A	127.0.0.1
 flour.dyn.		300	IN	A	45.33.65.68
 flour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 francoismelchior.dyn.	300	IN	A	213.219.188.206
-freshtea.dyn.		300	IN	A	128.199.152.30
 gmarquez.dyn.		300	IN	A	192.168.0.13
 gylle.dyn.		300	IN	A	84.209.2.104
 herman.dyn.		300	IN	A	82.73.159.243
