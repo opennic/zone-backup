@@ -14,8 +14,6 @@ reg.opennic.parody.	86400	IN	A	161.97.219.84
 reg.opennic.parody.	86400	IN	AAAA	2001:470:4212:1::254
 www.opennic.parody.	86400	IN	A	161.97.219.84
 www.opennic.parody.	86400	IN	AAAA	2001:470:4212:1::254
-pinguem.parody.		86400	IN	A	62.109.6.121
-www.pinguem.parody.	86400	IN	A	62.109.6.121
 reg.parody.		86400	IN	NS	ns1.sourpuss.net.
 reg.parody.		86400	IN	NS	ns2.sourpuss.net.
 register.parody.	86400	IN	A	161.97.219.84
