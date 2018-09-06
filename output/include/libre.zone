@@ -1,3 +1,4 @@
+2ef42.libre.		0	IN	A	87.122.153.100
 aglaea.libre.		0	IN	A	155.94.234.2
 www.aglaea.libre.	0	IN	CNAME	aglaea.libre.
 alterpm.libre.		0	IN	NS	ns1.alterpm.libre.
