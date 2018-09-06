@@ -1,6 +1,8 @@
 3afm.geek.		86400	IN	A	217.108.219.149
 mail.3afm.geek.		86400	IN	A	217.108.219.149
 moi.3afm.geek.		86400	IN	A	217.108.219.140
+abraham.geek.		86400	IN	A	5.39.20.236
+www.abraham.geek.	86400	IN	CNAME	abraham.geek.
 aditya.geek.		86400	IN	A	151.101.13.147
 adler.geek.		86400	IN	AAAA	2001:470:70:a2f::2
 amirgt.geek.		86400	IN	A	46.105.198.0
@@ -127,7 +129,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	88.144.72.140
+micheal65536.geek.	86400	IN	A	79.64.30.160
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 ns1.nameservers.geek.	86400	IN	A	67.221.146.229
