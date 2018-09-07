@@ -31,10 +31,6 @@ civdev.libre.		0	IN	A	77.246.157.26
 www.civdev.libre.	0	IN	A	77.246.157.26
 cloud.libre.		0	IN	A	73.11.11.6
 com.libre.		0	IN	NS	ns1.tupropiaradio.net.
-constitutionallaborparty.libre.	0 IN	A	35.188.150.149
-pixiv.constitutionallaborparty.libre. 0	IN A	210.129.120.41
-pixiv.constitutionallaborparty.libre. 0	IN A	210.129.120.43
-pixiv.constitutionallaborparty.libre. 0	IN A	210.129.120.44
 crumax.libre.		0	IN	A	127.0.0.1
 danq.libre.		0	IN	NS	ns1.lunarservers.com.
 danq.libre.		0	IN	NS	ns2.lunarservers.com.
