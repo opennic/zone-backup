@@ -39,6 +39,7 @@ www.freebsd.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 galaxy.pirate.		86400	IN	A	51.38.235.192
 gender.pirate.		86400	IN	A	78.94.228.62
 gml.pirate.		86400	IN	A	50.116.17.96
+gnien.pirate.		86400	IN	A	88.89.254.98
 gongo.pirate.		86400	IN	A	88.99.57.117
 www.gongo.pirate.	86400	IN	A	88.99.57.117
 gylle.pirate.		86400	IN	A	84.209.2.104
