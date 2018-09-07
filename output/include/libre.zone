@@ -140,8 +140,8 @@ obsceneshoes.libre.	0	IN	A	59.101.1.121
 ocean.libre.		0	IN	A	127.0.0.1
 ocean.libre.		0	IN	TXT	"A whirled instance server, the very first whirled server to be on OpenNIC!"
 office.libre.		0	IN	A	139.59.211.104
-opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
 opennic.libre.		0	IN	A	161.97.219.84
+opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
 opentube.libre.		0	IN	NS	beta.harukigrande.co.uk.
 opentube.libre.		0	IN	NS	alpha.harukigrande.co.uk.
 organisms.libre.	0	IN	A	85.214.155.155
