@@ -12,8 +12,8 @@ be.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 be.libre.		0	IN	AAAA	2001:470:4212:1::254
 bea.libre.		0	IN	A	185.8.165.233
 bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
-*.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 *.bea.libre.		0	IN	A	185.8.165.233
+*.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
 ca.libre.		0	IN	A	149.56.97.161
@@ -119,7 +119,6 @@ nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns3.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns4.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns5.geoscaling.com.
-nopunyir.libre.		0	IN	A	145.1.233.227
 null.libre.		0	IN	A	73.11.11.6
 game.null.libre.	0	IN	A	73.11.11.6
 host.null.libre.	0	IN	A	73.11.11.6
