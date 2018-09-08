@@ -96,9 +96,9 @@ lexo.libre.		0	IN	A	66.70.189.98
 lindon.libre.		0	IN	A	37.59.63.23
 linux-lynx.libre.	0	IN	A	37.59.63.23
 www.linuxzone.libre.	0	IN	CNAME	www.remoteshaman.com.
+llll.libre.		0	IN	TXT	"dnslink=/ipns/QmP7zEtWApYXL25cxZwfv3YxoC2vmt29phB8ZeaUMMeSqm"
 llll.libre.		0	IN	A	147.135.130.181
 llll.libre.		0	IN	A	217.182.195.23
-llll.libre.		0	IN	TXT	"dnslink=/ipns/QmP7zEtWApYXL25cxZwfv3YxoC2vmt29phB8ZeaUMMeSqm"
 localhost.libre.	0	IN	A	127.0.0.1
 madhatter.libre.	0	IN	A	107.181.153.60
 www.madhatter.libre.	0	IN	A	107.181.153.60
