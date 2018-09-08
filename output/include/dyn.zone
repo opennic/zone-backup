@@ -12,8 +12,8 @@ chadnet.dyn.		300	IN	A	59.101.1.121
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	87.222.130.201
-creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
+creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	75.100.179.59
 darkcodi.dyn.		300	IN	A	139.59.211.104
@@ -81,7 +81,7 @@ soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.1.121
 startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	78.134.54.232
-subnet.dyn.		300	IN	A	91.40.219.12
+subnet.dyn.		300	IN	A	79.255.38.109
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
