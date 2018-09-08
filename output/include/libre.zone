@@ -37,6 +37,8 @@ danq.libre.		0	IN	NS	ns2.lunarservers.com.
 ns1.danq.libre.		0	IN	A	209.200.237.4
 ns2.danq.libre.		0	IN	A	209.200.238.4
 den.libre.		0	IN	A	178.76.232.222
+dimitrov.libre.		0	IN	NS	ns1.buh.ro.
+dimitrov.libre.		0	IN	NS	ns1.lom.it.
 djuber.libre.		0	IN	NS	igor.cloudlfare.com.
 drakpa.libre.		0	IN	A	82.226.82.83
 drakpa.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
