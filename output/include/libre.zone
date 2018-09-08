@@ -12,8 +12,8 @@ be.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 be.libre.		0	IN	AAAA	2001:470:4212:1::254
 bea.libre.		0	IN	A	185.8.165.233
 bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
-*.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 *.bea.libre.		0	IN	A	185.8.165.233
+*.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
 ca.libre.		0	IN	A	149.56.97.161
@@ -26,10 +26,10 @@ catalunya.libre.	0	IN	A	83.247.129.60
 cert.libre.		0	IN	A	149.56.97.161
 cert.libre.		0	IN	AAAA	2607:5300:201:3100::1a86
 www.cert.libre.		0	IN	CNAME	cert.libre.
+chatjs.libre.		0	IN	A	50.116.17.96
 chema.libre.		0	IN	NS	ns.lisper.es.
 civdev.libre.		0	IN	A	77.246.157.26
 www.civdev.libre.	0	IN	A	77.246.157.26
-cloud.libre.		0	IN	A	73.11.11.6
 com.libre.		0	IN	NS	ns1.tupropiaradio.net.
 crumax.libre.		0	IN	A	127.0.0.1
 danq.libre.		0	IN	NS	ns1.lunarservers.com.
@@ -37,10 +37,7 @@ danq.libre.		0	IN	NS	ns2.lunarservers.com.
 ns1.danq.libre.		0	IN	A	209.200.237.4
 ns2.danq.libre.		0	IN	A	209.200.238.4
 den.libre.		0	IN	A	178.76.232.222
-diamond-ns.libre.	0	IN	A	73.11.11.6
 djuber.libre.		0	IN	NS	igor.cloudlfare.com.
-docbit.libre.		0	IN	A	73.11.11.6
-domain.libre.		0	IN	NS	ns1.domain.libre.
 drakpa.libre.		0	IN	A	82.226.82.83
 drakpa.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
 edo.libre.		0	IN	A	5.100.231.23
@@ -53,8 +50,6 @@ reg.for.libre.		0	IN	A	161.97.219.84
 reg.for.libre.		0	IN	AAAA	2001:470:4212:1::254
 foss.libre.		0	IN	NS	ns1.httpdonline.com.
 foss.libre.		0	IN	NS	ns2.httpdonline.com.
-gamewolf10.libre.	0	IN	NS	ns1.gamewolf10.libre.
-ns1.gamewolf10.libre.	0	IN	A	73.11.11.6
 gitlab.libre.		0	IN	A	158.69.160.166
 mattermost.gitlab.libre. 0	IN	CNAME	gitlab.libre.
 pages.gitlab.libre.	0	IN	CNAME	gitlab.libre.
@@ -98,14 +93,12 @@ kyodev.libre.		0	IN	A	144.76.206.44
 kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 www.kyodev.libre.	0	IN	CNAME	kyodev.libre.
 lexo.libre.		0	IN	A	66.70.189.98
-lightening-wolves-entertainment.libre. 0 IN A	127.0.0.1
-www.lightening-wolves-entertainment.libre. 0 IN	A 73.11.11.6
 lindon.libre.		0	IN	A	37.59.63.23
 linux-lynx.libre.	0	IN	A	37.59.63.23
 www.linuxzone.libre.	0	IN	CNAME	www.remoteshaman.com.
+llll.libre.		0	IN	TXT	"dnslink=/ipns/QmP7zEtWApYXL25cxZwfv3YxoC2vmt29phB8ZeaUMMeSqm"
 llll.libre.		0	IN	A	147.135.130.181
 llll.libre.		0	IN	A	217.182.195.23
-llll.libre.		0	IN	TXT	"dnslink=/ipns/QmP7zEtWApYXL25cxZwfv3YxoC2vmt29phB8ZeaUMMeSqm"
 localhost.libre.	0	IN	A	127.0.0.1
 madhatter.libre.	0	IN	A	107.181.153.60
 www.madhatter.libre.	0	IN	A	107.181.153.60
@@ -133,8 +126,6 @@ media.null.libre.	0	IN	A	73.11.11.6
 www.null.libre.		0	IN	A	73.11.11.6
 nuracing.libre.		0	IN	A	59.101.1.121
 obsceneshoes.libre.	0	IN	A	59.101.1.121
-ocean.libre.		0	IN	A	127.0.0.1
-ocean.libre.		0	IN	TXT	"A whirled instance server, the very first whirled server to be on OpenNIC!"
 office.libre.		0	IN	A	139.59.211.104
 opennic.libre.		0	IN	A	161.97.219.84
 opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
@@ -169,15 +160,10 @@ register.libre.		0	IN	A	161.97.219.84
 register.libre.		0	IN	AAAA	2001:470:4212:1::254
 remoteshaman.libre.	0	IN	A	93.170.128.114
 www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
-reward.libre.		0	IN	A	127.0.0.1
 rhieandjosh.libre.	0	IN	A	59.101.1.121
 rhiekipedia.libre.	0	IN	A	59.101.1.121
 rhikipedia.libre.	0	IN	A	59.101.1.121
-search.libre.		0	IN	A	73.11.11.6
-search.libre.		0	IN	TXT	"Alternative to search.null or search.oss since there both easy to access."
 secretum.libre.		0	IN	A	23.236.62.147
-show-animate.libre.	0	IN	NS	ns1.show-animate.libre.
-ns1.show-animate.libre.	0	IN	A	73.11.11.6
 singlemr.libre.		0	IN	NS	ns2.opennic.glue.
 soy.libre.		0	IN	NS	ns1.tupropiaradio.net.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
@@ -189,12 +175,6 @@ syncedonline.libre.	0	IN	A	74.91.125.124
 www.syncedonline.libre.	0	IN	A	74.91.125.124
 tbpchan.libre.		0	IN	A	70.174.0.214
 test.libre.		0	IN	A	104.131.78.30
-thefoxesoftheforest.libre. 0	IN	A	73.11.11.6
-top.libre.		0	IN	NS	ns1.top.libre.
-ns1.top.libre.		0	IN	A	73.11.11.6
-trico-world.libre.	0	IN	A	73.11.11.6
-host.trico-world.libre.	0	IN	A	73.11.11.6
-www.trico-world.libre.	0	IN	A	73.11.11.6
 unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
 www.unixzone.libre.	0	IN	CNAME	www.remoteshaman.com.
