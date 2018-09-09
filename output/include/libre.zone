@@ -12,8 +12,8 @@ be.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 be.libre.		0	IN	AAAA	2001:470:4212:1::254
 bea.libre.		0	IN	A	185.8.165.233
 bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
-*.bea.libre.		0	IN	A	185.8.165.233
 *.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
+*.bea.libre.		0	IN	A	185.8.165.233
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
 ca.libre.		0	IN	A	149.56.97.161
@@ -56,8 +56,8 @@ gitlab.libre.		0	IN	A	158.69.160.166
 mattermost.gitlab.libre. 0	IN	CNAME	gitlab.libre.
 pages.gitlab.libre.	0	IN	CNAME	gitlab.libre.
 registry.gitlab.libre.	0	IN	CNAME	gitlab.libre.
-run1.gitlab.libre.	0	IN	A	149.56.98.147
 run1.gitlab.libre.	0	IN	AAAA	2607:5300:201:3100::1a8a
+run1.gitlab.libre.	0	IN	A	149.56.98.147
 www.gitlab.libre.	0	IN	CNAME	gitlab.libre.
 go.libre.		0	IN	A	161.97.219.84
 go.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
