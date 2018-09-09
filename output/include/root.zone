@@ -17646,8 +17646,9 @@ xn--nyqy26a.		86400	IN	DS	61705 8 1 8D4FF5A86429FBDF7BDD44C05391B08A3594C09A
 xn--nyqy26a.		86400	IN	DS	61705 8 2 60A626B01624F7305E1E22C1B04DA36C14BB501A3A6ACB76B40AF73A F445221F
 xn--o3cw4h.		172800	IN	NS	a.thains.co.th.
 xn--o3cw4h.		172800	IN	NS	b.thains.co.th.
+xn--o3cw4h.		172800	IN	NS	p.thains.co.th.
 xn--o3cw4h.		172800	IN	NS	ns.thnic.net.
-xn--o3cw4h.		86400	IN	DS	42580 8 2 FF4DE3F7DB4A4372D27970D4409E6D7EEFAB8D4FB20D53DACF8D1473 E8B950D8
+xn--o3cw4h.		86400	IN	DS	27061 8 2 53856679AC45EA6562EF4ECD2DE7AEA57D786870979F09C4BC1D5244 C2E2A9C9
 xn--ogbpf8fl.		172800	IN	NS	sy.cctld.authdns.ripe.net.
 xn--ogbpf8fl.		172800	IN	NS	ns1.tld.sy.
 xn--ogbpf8fl.		172800	IN	NS	pch.anycast.tld.sy.
@@ -18008,8 +18009,8 @@ ns4.dns.nic.yandex.	172800	IN	A	156.154.156.186
 ns4.dns.nic.yandex.	172800	IN	AAAA	2610:a1:1074::ba
 ns5.dns.nic.yandex.	172800	IN	A	156.154.157.186
 ns5.dns.nic.yandex.	172800	IN	AAAA	2610:a1:1075::ba
-ns6.dns.nic.yandex.	172800	IN	A	156.154.158.186
 ns6.dns.nic.yandex.	172800	IN	AAAA	2610:a1:1076::ba
+ns6.dns.nic.yandex.	172800	IN	A	156.154.158.186
 ye.			172800	IN	NS	ns1.yemen.net.ye.
 ye.			172800	IN	NS	ns2.yemen.net.ye.
 ye.			172800	IN	NS	sah1.ye.
@@ -18074,8 +18075,8 @@ ns4.dns.nic.you.	172800	IN	A	156.154.172.77
 ns4.dns.nic.you.	172800	IN	AAAA	2610:a1:1074::1:4d
 ns5.dns.nic.you.	172800	IN	A	156.154.173.77
 ns5.dns.nic.you.	172800	IN	AAAA	2610:a1:1075::1:4d
-ns6.dns.nic.you.	172800	IN	A	156.154.174.77
 ns6.dns.nic.you.	172800	IN	AAAA	2610:a1:1076::1:4d
+ns6.dns.nic.you.	172800	IN	A	156.154.174.77
 youtube.		172800	IN	NS	ns-tld1.charlestonroadregistry.com.
 youtube.		172800	IN	NS	ns-tld2.charlestonroadregistry.com.
 youtube.		172800	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -18134,8 +18135,8 @@ zara.			86400	IN	DS	26743 7 1 DB311C639714F0505A423A450341117FEC68B4B5
 zara.			86400	IN	DS	26743 7 2 8C5921F2924E3B6EC6504A7FF9448924A877707FDCB283F3D6C2D7B5 9555BC76
 a0.nic.zara.		172800	IN	A	65.22.232.33
 a0.nic.zara.		172800	IN	AAAA	2a01:8840:e2::33
-a2.nic.zara.		172800	IN	AAAA	2a01:8840:e5::33
 a2.nic.zara.		172800	IN	A	65.22.235.33
+a2.nic.zara.		172800	IN	AAAA	2a01:8840:e5::33
 b0.nic.zara.		172800	IN	A	65.22.233.33
 b0.nic.zara.		172800	IN	AAAA	2a01:8840:e3::33
 c0.nic.zara.		172800	IN	A	65.22.234.33
