@@ -88,8 +88,8 @@ thecreativegardens.dyn.	300	IN	A	45.33.65.68
 thecreativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thedigitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thevalleys.dyn.		300	IN	A	45.33.65.68
 thevalleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+thevalleys.dyn.		300	IN	A	45.33.65.68
 tick.dyn.		300	IN	NS	ns1.linode.com.
 tick.dyn.		300	IN	NS	ns2.linode.com.
 tick.dyn.		300	IN	NS	ns3.linode.com.
