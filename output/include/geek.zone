@@ -165,10 +165,10 @@ p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
 peerz.geek.		86400	IN	A	24.137.85.135
 web.peerz.geek.		86400	IN	A	24.137.85.135
 miner.penguinator.geek.	86400	IN	A	91.77.164.245
-vpshost1.penguinator.geek. 86400 IN	AAAA	2a04:92c7:16:31e::1
 vpshost1.penguinator.geek. 86400 IN	A	185.169.235.5
-vpshost2.penguinator.geek. 86400 IN	A	94.23.214.156
+vpshost1.penguinator.geek. 86400 IN	AAAA	2a04:92c7:16:31e::1
 vpshost2.penguinator.geek. 86400 IN	AAAA	2001:41d0:2:599c::1211:adaf
+vpshost2.penguinator.geek. 86400 IN	A	94.23.214.156
 php.geek.		86400	IN	A	90.252.229.137
 phundrak.geek.		86400	IN	A	82.226.82.83
 phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
