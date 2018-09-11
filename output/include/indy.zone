@@ -7,8 +7,8 @@ gwar.indy.		86400	IN	NS	ns1.gwar.indy.
 ns1.gwar.indy.		86400	IN	A	95.79.31.188
 localhost.indy.		86400	IN	A	127.0.0.1
 midskiller.indy.	86400	IN	A	198.251.90.113
-nightshade.indy.	86400	IN	A	59.101.1.121
-obsceneshoes.indy.	86400	IN	A	59.101.1.121
+nightshade.indy.	86400	IN	A	210.10.129.173
+obsceneshoes.indy.	86400	IN	A	210.10.129.173
 opennic.indy.		86400	IN	A	161.97.219.84
 opennic.indy.		86400	IN	AAAA	2001:470:4212:1::254
 orbitalfox.indy.	86400	IN	A	95.172.232.202
@@ -19,11 +19,11 @@ reg.indy.		86400	IN	AAAA	2001:470:4212:1::254
 register.indy.		86400	IN	A	161.97.219.84
 register.indy.		86400	IN	AAAA	2001:470:4212:1::254
 root.indy.		86400	IN	A	127.0.0.1
-spikestradale.indy.	86400	IN	A	59.101.1.121
+spikestradale.indy.	86400	IN	A	210.10.129.173
 succ.indy.		86400	IN	A	163.172.185.51
 test.indy.		86400	IN	A	104.131.78.30
 unfettered.indy.	86400	IN	A	144.172.70.181
 www.unfettered.indy.	86400	IN	A	144.172.70.181
-wildhorse.indy.		86400	IN	A	59.101.1.121
+wildhorse.indy.		86400	IN	A	210.10.129.173
 wildhorse.indy.		86400	IN	AAAA	2001:8003:2405:8c00:f427:bd08:e58b:938
 www.indy.		86400	IN	A	161.97.219.84
