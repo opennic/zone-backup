@@ -8,6 +8,7 @@ adler.geek.		86400	IN	AAAA	2001:470:70:a2f::2
 amirgt.geek.		86400	IN	A	46.105.198.0
 www.amirgt.geek.	86400	IN	A	46.105.198.0
 apason.geek.		86400	IN	A	5.39.20.236
+kanban.apason.geek.	86400	IN	CNAME	apason.geek.
 nastroje.apason.geek.	86400	IN	CNAME	apason.geek.
 www.apason.geek.	86400	IN	CNAME	apason.geek.
 appmaker.geek.		86400	IN	NS	ns-cloud-b1.googledomains.com.
