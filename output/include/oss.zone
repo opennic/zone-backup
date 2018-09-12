@@ -11,6 +11,7 @@ charutf.oss.		86400	IN	A	185.199.108.153
 charutf.oss.		86400	IN	A	185.199.109.153
 charutf.oss.		86400	IN	A	185.199.110.153
 charutf.oss.		86400	IN	A	185.199.111.153
+www.charutf.oss.	86400	IN	CNAME	charutf.oss.
 code.oss.		86400	IN	A	161.97.219.84
 code.oss.		86400	IN	AAAA	2001:470:4212:1::254
 computer.oss.		86400	IN	A	145.239.233.78
