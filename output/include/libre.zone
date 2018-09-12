@@ -12,8 +12,8 @@ be.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 be.libre.		0	IN	AAAA	2001:470:4212:1::254
 bea.libre.		0	IN	A	185.8.165.233
 bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
-*.bea.libre.		0	IN	A	185.8.165.233
 *.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
+*.bea.libre.		0	IN	A	185.8.165.233
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
 ca.libre.		0	IN	A	149.56.97.161
@@ -23,6 +23,10 @@ scep.ca.libre.		0	IN	CNAME	ca.libre.
 tools.ca.libre.		0	IN	CNAME	ca.libre.
 wiki.ca.libre.		0	IN	CNAME	158.69.160.165.ca.libre.
 catalunya.libre.	0	IN	A	83.247.129.60
+celinetan.libre.	0	IN	NS	ns1.afraid.org.
+celinetan.libre.	0	IN	NS	ns2.afraid.org.
+celinetan.libre.	0	IN	NS	ns3.afraid.org.
+celinetan.libre.	0	IN	NS	ns4.afraid.org.
 cert.libre.		0	IN	A	149.56.97.161
 cert.libre.		0	IN	AAAA	2607:5300:201:3100::1a86
 www.cert.libre.		0	IN	CNAME	cert.libre.
