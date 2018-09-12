@@ -86,8 +86,8 @@ hosting.geek.		86400	IN	NS	beta.harukigrande.co.uk.
 hosting.geek.		86400	IN	NS	alpha.harukigrande.co.uk.
 huesken.geek.		86400	IN	A	88.159.139.160
 iam.geek.		86400	IN	A	94.156.142.136
-ima.geek.		86400	IN	TXT	"bruce-lab.blogspot.om"
 ima.geek.		86400	IN	A	172.217.9.129
+ima.geek.		86400	IN	TXT	"bruce-lab.blogspot.om"
 info.geek.		86400	IN	NS	ns1.afraid.org.
 info.geek.		86400	IN	NS	ns2.afraid.org.
 info.geek.		86400	IN	NS	ns3.afraid.org.
