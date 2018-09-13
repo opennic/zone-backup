@@ -22,6 +22,9 @@ blahdns.pirate.		86400	IN	A	202.182.120.110
 www.bsd.pirate.		86400	IN	CNAME	www.remoteshaman.com.
 www.bsdzone.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 cat.pirate.		86400	IN	A	155.254.35.135
+codegrey.pirate.	86400	IN	NS	ns101.cloudns.net.
+codegrey.pirate.	86400	IN	NS	ns102.cloudns.net.
+www.codegrey.pirate.	86400	IN	CNAME	codegrey.pirate.
 crumax.pirate.		86400	IN	A	127.0.0.1
 cyberpunk.pirate.	86400	IN	A	90.252.229.137
 darkcodi.pirate.	86400	IN	A	139.59.211.104
