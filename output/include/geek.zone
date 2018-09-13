@@ -188,8 +188,8 @@ profismart.geek.	86400	IN	NS	ns1.profismart.net.
 profismart.geek.	86400	IN	NS	ns2.profismart.net.
 radio.geek.		86400	IN	NS	ns1.sourpuss.net.
 radio.geek.		86400	IN	NS	ns2.sourpuss.net.
-reg.geek.		86400	IN	A	161.97.219.84
 reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
+reg.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	AAAA	2001:470:4212:1::254
 www.remoteshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
