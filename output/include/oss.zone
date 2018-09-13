@@ -23,6 +23,8 @@ email.oss.		86400	IN	NS	ns1.nameservers.geek.
 example.oss.		86400	IN	A	127.0.0.1
 www.example.oss.	86400	IN	A	173.160.58.202
 fh-bio.oss.		86400	IN	A	50.116.17.96
+firstaidcode.oss.	86400	IN	NS	ns101.cloudns.net.
+firstaidcode.oss.	86400	IN	NS	ns102.cloudns.net.
 forum.oss.		86400	IN	A	50.116.17.96
 www.forum.oss.		86400	IN	A	50.116.17.96
 ftp.oss.		86400	IN	A	127.0.0.1

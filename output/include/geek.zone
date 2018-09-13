@@ -50,8 +50,8 @@ darkcandle.geek.	86400	IN	A	90.196.108.28
 darkcodi.geek.		86400	IN	A	139.59.211.104
 debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
-dhoomketu.geek.		86400	IN	A	141.255.162.213
 dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+dhoomketu.geek.		86400	IN	A	141.255.162.213
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
@@ -70,6 +70,8 @@ fgu8.geek.		86400	IN	NS	ns4.afraid.org.
 file.geek.		86400	IN	A	173.160.58.204
 file.geek.		86400	IN	RP	shdwdrgn.sourpuss.net. .
 file.geek.		86400	IN	AAAA	2001:470:f032:10:0:2:80:22
+firstaidcode.geek.	86400	IN	NS	ns101.cloudns.net.
+firstaidcode.geek.	86400	IN	NS	ns102.cloudns.net.
 fosstechtalk.geek.	86400	IN	A	159.203.21.102
 freecert.geek.		86400	IN	A	69.197.155.38
 garret.geek.		86400	IN	NS	ns01.000webhost.com.
@@ -186,8 +188,8 @@ profismart.geek.	86400	IN	NS	ns1.profismart.net.
 profismart.geek.	86400	IN	NS	ns2.profismart.net.
 radio.geek.		86400	IN	NS	ns1.sourpuss.net.
 radio.geek.		86400	IN	NS	ns2.sourpuss.net.
-reg.geek.		86400	IN	A	161.97.219.84
 reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
+reg.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	AAAA	2001:470:4212:1::254
 www.remoteshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
