@@ -162,6 +162,10 @@ opennicwebtest.geek.	86400	IN	NS	ns-293.awsdns-36.com.
 opennicwebtest.geek.	86400	IN	NS	ns-592.awsdns-10.net.
 opennicwebtest.geek.	86400	IN	NS	ns-1055.awsdns-03.org.
 opennicwebtest.geek.	86400	IN	NS	ns-1895.awsdns-44.co.uk.
+opensource.geek.	86400	IN	NS	ns1.afraid.org.
+opensource.geek.	86400	IN	NS	ns2.afraid.org.
+opensource.geek.	86400	IN	NS	ns3.afraid.org.
+opensource.geek.	86400	IN	NS	ns4.afraid.org.
 p4bl0.geek.		86400	IN	A	91.121.16.67
 p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
