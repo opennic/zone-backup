@@ -61,10 +61,6 @@ eugene.geek.		86400	IN	A	95.79.31.188
 mail.eugene.geek.	86400	IN	A	95.79.31.188
 example.geek.		86400	IN	A	127.0.0.1
 fei.geek.		86400	IN	A	60.246.202.112
-fgu8.geek.		86400	IN	NS	ns1.afraid.org.
-fgu8.geek.		86400	IN	NS	ns2.afraid.org.
-fgu8.geek.		86400	IN	NS	ns3.afraid.org.
-fgu8.geek.		86400	IN	NS	ns4.afraid.org.
 file.geek.		86400	IN	A	173.160.58.204
 file.geek.		86400	IN	RP	shdwdrgn.sourpuss.net. .
 file.geek.		86400	IN	AAAA	2001:470:f032:10:0:2:80:22
