@@ -160,10 +160,10 @@ radio.libre.		0	IN	NS	ns1.sourpuss.net.
 radio.libre.		0	IN	NS	ns2.sourpuss.net.
 rajabi.libre.		0	IN	A	66.18.246.131
 www.rajabi.libre.	0	IN	A	66.18.246.131
-reg.libre.		0	IN	AAAA	2001:470:4212:1::254
 reg.libre.		0	IN	A	161.97.219.84
-register.libre.		0	IN	A	161.97.219.84
+reg.libre.		0	IN	AAAA	2001:470:4212:1::254
 register.libre.		0	IN	AAAA	2001:470:4212:1::254
+register.libre.		0	IN	A	161.97.219.84
 remoteshaman.libre.	0	IN	A	93.170.128.114
 www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 rhieandjosh.libre.	0	IN	A	59.101.2.165
