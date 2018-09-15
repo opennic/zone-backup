@@ -46,8 +46,8 @@ mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
 micheal65536.dyn.	300	IN	A	88.144.74.67
 momoka.dyn.		300	IN	A	181.110.7.225
-muellerlukas.dyn.	300	IN	A	77.2.0.226
-mulu-stick.dyn.		300	IN	A	77.2.0.226
+muellerlukas.dyn.	300	IN	A	77.2.97.248
+mulu-stick.dyn.		300	IN	A	77.2.97.248
 my.dyn.			300	IN	A	139.59.211.104
 neon.dyn.		300	IN	A	142.93.107.164
 nightshade.dyn.		300	IN	A	59.101.2.165
@@ -117,4 +117,4 @@ wildhorse.dyn.		300	IN	A	59.101.2.165
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	79.242.81.90
+zufriedenheit.dyn.	300	IN	A	46.88.34.128
