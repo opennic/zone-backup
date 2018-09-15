@@ -87,8 +87,8 @@ root.oss.		86400	IN	A	173.160.58.202
 scalehost.oss.		86400	IN	NS	ns1.scalehost.eu.
 scalehost.oss.		86400	IN	NS	ns2.scalehost.eu.
 search.oss.		86400	IN	A	50.116.17.96
-secure.oss.		86400	IN	AAAA	2a00:d0c0:200:0:b9:1a:9c23:285
 secure.oss.		86400	IN	A	185.26.156.35
+secure.oss.		86400	IN	AAAA	2a00:d0c0:200:0:b9:1a:9c23:285
 soft.oss.		86400	IN	A	31.207.72.12
 spikestradale.oss.	86400	IN	A	59.101.2.165
 succ.oss.		86400	IN	A	163.172.185.51
