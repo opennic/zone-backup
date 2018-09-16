@@ -44,7 +44,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.144.75.2
+micheal65536.dyn.	300	IN	A	79.64.29.120
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	84.152.127.35
 mulu-stick.dyn.		300	IN	A	84.152.127.35
@@ -80,7 +80,7 @@ skynet.dyn.		300	IN	A	203.219.252.188
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.2.165
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	78.134.54.232
+stemby.dyn.		300	IN	A	78.134.78.134
 subnet.dyn.		300	IN	A	79.255.33.222
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
