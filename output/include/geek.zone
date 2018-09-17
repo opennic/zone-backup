@@ -235,3 +235,7 @@ waytt.geek.		86400	IN	A	194.143.137.144
 wildhorse.geek.		86400	IN	A	59.101.2.165
 www.geek.		86400	IN	A	161.97.219.84
 www.geek.		86400	IN	AAAA	2001:470:4212:1::254
+yourtilde.geek.		86400	IN	NS	b.ns.buddyns.com.
+yourtilde.geek.		86400	IN	NS	g.ns.buddyns.com.
+yourtilde.geek.		86400	IN	NS	ns1.retryhost.com.
+yourtilde.geek.		86400	IN	NS	ns2.retryhost.com.
