@@ -73,7 +73,7 @@ register.dyn.		300	IN	A	173.160.58.202
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.2.165
-rt-srb.dyn.		300	IN	A	184.6.245.198
+rt-srb.dyn.		300	IN	A	71.209.95.30
 sin.dyn.		300	IN	A	85.21.190.231
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	203.219.252.188
