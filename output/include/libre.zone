@@ -62,6 +62,7 @@ go.libre.		0	IN	A	161.97.219.84
 go.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 go.libre.		0	IN	AAAA	2001:470:4212:1::254
 google.libre.		0	IN	A	45.55.110.124
+greymatter.libre.	0	IN	A	185.199.108.153
 host.libre.		0	IN	A	149.56.98.147
 host.libre.		0	IN	AAAA	2607:5300:201:3100::1a8a
 ns1.host.libre.		0	IN	NS	host.libre.
