@@ -1,4 +1,6 @@
 1337.pirate.		86400	IN	A	77.244.245.120
+1dsad.pirate.		86400	IN	A	127.0.0.1
+1dsad.pirate.		86400	IN	TXT	"HelloThere"
 www.admin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 ae6bcb8d-4606-4295-8461-b853f63bc519.pirate. 86400 IN A	204.48.19.85
 ae6bcb8d-4606-4295-8461-b853f63bc519.pirate. 86400 IN TXT "07d832f3-3853-4d77-993a-07ff94ce6c00"

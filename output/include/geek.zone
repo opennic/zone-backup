@@ -210,6 +210,8 @@ sdf.geek.		86400	IN	A	205.166.94.15
 search.geek.		86400	IN	A	69.197.155.38
 sha.geek.		86400	IN	TXT	"dnslink=" "/ipfs/QmYCvbfNbCwFR45HiNP45rwJgvatpiW38D961L5qAhUM5Y"
 social.geek.		86400	IN	A	69.197.155.38
+somedomainname.geek.	86400	IN	A	127.0.0.1
+dns.somedomainname.geek. 86400	IN	A	8.8.8.8
 spikestradale.geek.	86400	IN	A	59.101.10.207
 succ.geek.		86400	IN	A	163.172.185.51
 talk.geek.		86400	IN	A	216.17.244.224
