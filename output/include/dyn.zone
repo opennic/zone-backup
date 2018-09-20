@@ -12,6 +12,7 @@ chadnet.dyn.		300	IN	A	59.101.2.165
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	87.222.130.201
+cosanostra.dyn.		300	IN	A	93.243.56.145
 creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
@@ -74,7 +75,6 @@ register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.2.165
 rt-srb.dyn.		300	IN	A	71.209.95.30
-sin.dyn.		300	IN	A	85.21.190.231
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	61.68.41.152
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
