@@ -175,6 +175,7 @@ syncedonline.libre.	0	IN	A	74.91.125.124
 www.syncedonline.libre.	0	IN	A	74.91.125.124
 tbpchan.libre.		0	IN	A	70.174.49.129
 tbpchan.libre.		0	IN	AAAA	2600:8805:4200:196:5926:b34b:c8e7:65ad
+termux.libre.		0	IN	A	13.59.181.183
 test.libre.		0	IN	A	104.131.78.30
 unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
