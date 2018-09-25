@@ -74,6 +74,7 @@ marmat.pirate.		86400	IN	AAAA	2001:41d0:302:2000::1647
 www.marmat.pirate.	86400	IN	A	51.254.211.71
 www.marmat.pirate.	86400	IN	AAAA	2001:41d0:302:2000::1647
 mci.pirate.		86400	IN	A	92.205.100.55
+media.pirate.		86400	IN	A	173.212.242.20
 mgtow.pirate.		86400	IN	NS	ns1.mgtowmirror.ru.
 mgtow.pirate.		86400	IN	NS	ns1.mgtowmirror.611.to.
 mgtow-mirror.pirate.	86400	IN	NS	ns1.mgtowmirror.ru.
