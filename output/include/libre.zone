@@ -27,6 +27,7 @@ cert.libre.		0	IN	A	149.56.97.161
 cert.libre.		0	IN	AAAA	2607:5300:201:3100::1a86
 www.cert.libre.		0	IN	CNAME	cert.libre.
 chatjs.libre.		0	IN	A	50.116.17.96
+checkbook.libre.	0	IN	A	50.116.17.96
 chema.libre.		0	IN	NS	ns.lisper.es.
 civdev.libre.		0	IN	A	77.246.157.26
 www.civdev.libre.	0	IN	A	77.246.157.26
