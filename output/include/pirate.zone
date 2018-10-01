@@ -18,6 +18,8 @@ www.ask.pirate.		86400	IN	NS	ns1.site4now.net.
 www.ask.pirate.		86400	IN	NS	ns2.site4now.net.
 www.ask.pirate.		86400	IN	NS	ns3.site4now.net.
 bay.pirate.		86400	IN	A	139.59.211.104
+bit2.pirate.		86400	IN	A	185.183.96.157
+bit2.pirate.		86400	IN	A	185.243.112.240
 blahdns.pirate.		86400	IN	A	202.182.120.110
 www.bsd.pirate.		86400	IN	CNAME	www.remoteshaman.com.
 www.bsdzone.pirate.	86400	IN	CNAME	www.remoteshaman.com.
