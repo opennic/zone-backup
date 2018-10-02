@@ -76,8 +76,8 @@ geofb.geek.		86400	IN	NS	ns1.geofb.eu.
 geofb.geek.		86400	IN	NS	ns2.geofb.eu.
 giatu1.geek.		86400	IN	NS	ns01.000webhost.com.
 giatu1.geek.		86400	IN	NS	ns02.000webhost.com.
-grep.geek.		86400	IN	AAAA	2001:470:4212:1::254
 grep.geek.		86400	IN	A	161.97.219.84
+grep.geek.		86400	IN	AAAA	2001:470:4212:1::254
 hack13.geek.		86400	IN	NS	pns101.cloudns.net.
 hack13.geek.		86400	IN	NS	pns102.cloudns.net.
 hack13.geek.		86400	IN	NS	pns103.cloudns.net.
