@@ -100,6 +100,7 @@ www.itadmin.geek.	86400	IN	CNAME	www.remoteshaman.com.
 www.itmag.geek.		86400	IN	CNAME	www.remoteshaman.com.
 www.itshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
 ivan.geek.		86400	IN	A	139.59.211.104
+iwact.geek.		86400	IN	A	91.160.152.192
 janssen.geek.		86400	IN	NS	upc.nouwen.name.
 janssen.geek.		86400	IN	NS	gejanssen.nouwen.name.
 jeditemple.geek.	86400	IN	A	109.201.140.97
