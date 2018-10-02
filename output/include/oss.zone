@@ -96,7 +96,7 @@ ns1.unplug.oss.unplug.oss. 86400 IN	A	46.149.19.98
 utzon.oss.		86400	IN	A	84.209.2.104
 vps.oss.		86400	IN	A	185.22.153.39
 waytt.oss.		86400	IN	A	194.143.137.144
-webmail.oss.		86400	IN	A	73.11.11.6
+webmail.oss.		86400	IN	A	1.1.1.1
 www.wgboome.oss.	86400	IN	CNAME	www0.wgboome.org.
 whitedwarf.oss.		86400	IN	A	67.249.202.109
 whitedwarf.oss.		86400	IN	AAAA	2001:470:1f07:2b9:e812:447d:428:7ca0
