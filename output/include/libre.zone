@@ -92,6 +92,7 @@ www.irc.libre.		0	IN	CNAME	hub01.irc.libre.
 znc.irc.libre.		0	IN	CNAME	leaf01.irc.libre.
 www.itadmin.libre.	0	IN	CNAME	www.remoteshaman.com.
 www.itshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
+iwact.libre.		0	IN	A	91.160.152.192
 www.krainachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 kyodev.libre.		0	IN	A	144.76.206.44
 kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
@@ -145,8 +146,8 @@ repo.parabola.libre.	0	IN	CNAME	repo.parabola.nu.
 wiki.parabola.libre.	0	IN	A	190.160.6.92
 winstone.parabola.libre. 0	IN	CNAME	winstone.parabola.nu.
 www.parabola.libre.	0	IN	CNAME	www.parabola.nu.
-pcy.libre.		0	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
 pcy.libre.		0	IN	A	193.190.253.234
+pcy.libre.		0	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
 phundrak.libre.		0	IN	A	82.226.82.83
 phundrak.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
 pizza.libre.		0	IN	A	46.22.223.253
