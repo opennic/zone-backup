@@ -127,6 +127,7 @@ billing.null.libre.	0	IN	A	50.116.17.96
 game.null.libre.	0	IN	A	73.11.11.6
 host.null.libre.	0	IN	A	73.11.11.6
 info.null.libre.	0	IN	A	50.116.17.96
+luna.null.libre.	0	IN	NS	ns1.null.libre.
 media.null.libre.	0	IN	A	73.11.11.6
 www.null.libre.		0	IN	A	73.11.11.6
 nuracing.libre.		0	IN	A	59.101.10.207
