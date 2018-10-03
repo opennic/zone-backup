@@ -39,7 +39,6 @@ ns2.danq.libre.		0	IN	A	209.200.238.4
 den.libre.		0	IN	A	178.76.232.222
 dimitrov.libre.		0	IN	A	87.118.159.27
 dimitrov.libre.		0	IN	RP	87.118.159.27.libre. .
-djuber.libre.		0	IN	NS	igor.cloudlfare.com.
 docbit.libre.		0	IN	A	50.116.17.96
 drakpa.libre.		0	IN	A	82.226.82.83
 drakpa.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
