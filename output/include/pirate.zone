@@ -81,6 +81,7 @@ mgtow-mirror.pirate.	86400	IN	NS	ns1.mgtowmirror.ru.
 mgtow-mirror.pirate.	86400	IN	NS	ns1.mgtowmirror.611.to.
 mgtowmirror.pirate.	86400	IN	NS	ns1.mgtowmirror.ru.
 mgtowmirror.pirate.	86400	IN	NS	ns1.mgtowmirror.611.to.
+monkey.pirate.		86400	IN	A	62.73.84.53
 www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
@@ -154,8 +155,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zio.pirate.		86400	IN	A	2.35.150.84
+zio.pirate.		86400	IN	TXT	"2.35.150.84"
 www.zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
