@@ -46,8 +46,6 @@ galaxy.pirate.		86400	IN	A	51.38.235.192
 gender.pirate.		86400	IN	A	78.94.228.62
 gml.pirate.		86400	IN	A	50.116.17.96
 gnien.pirate.		86400	IN	A	88.89.254.98
-gongo.pirate.		86400	IN	A	88.99.57.117
-www.gongo.pirate.	86400	IN	A	88.99.57.117
 gylle.pirate.		86400	IN	A	84.209.2.104
 hacky.pirate.		86400	IN	A	98.19.250.101
 hansen.pirate.		86400	IN	A	84.209.2.104
@@ -156,8 +154,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	A	2.35.150.84
 zio.pirate.		86400	IN	TXT	"2.35.150.84"
+zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
