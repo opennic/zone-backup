@@ -39,8 +39,6 @@ jolly.oss.		86400	IN	A	72.14.186.246
 kennethdev.oss.		86400	IN	A	149.56.42.97
 lexo.oss.		86400	IN	A	66.70.189.98
 vpn.lexo.oss.		86400	IN	A	66.70.189.98
-likeab.oss.		86400	IN	NS	beta.harukigrande.co.uk.
-likeab.oss.		86400	IN	NS	alpha.harukigrande.co.uk.
 livechat.oss.		86400	IN	A	50.116.17.96
 localhost.oss.		86400	IN	A	127.0.0.1
 mail.oss.		86400	IN	A	173.160.58.202
@@ -55,8 +53,8 @@ nokeh.oss.		86400	IN	NS	ns5.geoscaling.com.
 nol.oss.		86400	IN	A	138.201.159.27
 opennic.oss.		86400	IN	A	161.97.219.84
 opennic.oss.		86400	IN	AAAA	2001:470:4212:1::254
-code.opennic.oss.	86400	IN	A	161.97.219.84
 code.opennic.oss.	86400	IN	AAAA	2001:470:4212:1::254
+code.opennic.oss.	86400	IN	A	161.97.219.84
 mail.opennic.oss.	86400	IN	A	161.97.219.84
 mail.opennic.oss.	86400	IN	AAAA	2001:470:4212:1::254
 reg.opennic.oss.	86400	IN	A	161.97.219.84
