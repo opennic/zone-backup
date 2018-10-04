@@ -14,6 +14,8 @@ bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 *.bea.libre.		0	IN	AAAA	2a01:430:17:1::ffff:1056
 blog.libre.		0	IN	A	167.114.108.157
 *.blog.libre.		0	IN	CNAME	blog.libre.
+box.libre.		0	IN	A	185.248.151.33
+box.libre.		0	IN	AAAA	2a02:8070:e29c:4cf0:5054:ff:fe99:2810
 brickhouse.libre.	0	IN	A	50.116.17.96
 budget.libre.		0	IN	A	1.1.1.1
 ca.libre.		0	IN	A	149.56.97.161
