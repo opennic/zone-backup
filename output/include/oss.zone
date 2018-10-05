@@ -51,8 +51,8 @@ nokeh.oss.		86400	IN	NS	ns3.geoscaling.com.
 nokeh.oss.		86400	IN	NS	ns4.geoscaling.com.
 nokeh.oss.		86400	IN	NS	ns5.geoscaling.com.
 nol.oss.		86400	IN	A	138.201.159.27
-opennic.oss.		86400	IN	A	161.97.219.84
 opennic.oss.		86400	IN	AAAA	2001:470:4212:1::254
+opennic.oss.		86400	IN	A	161.97.219.84
 code.opennic.oss.	86400	IN	A	161.97.219.84
 code.opennic.oss.	86400	IN	AAAA	2001:470:4212:1::254
 mail.opennic.oss.	86400	IN	A	161.97.219.84
