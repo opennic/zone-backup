@@ -60,8 +60,7 @@ obsceneshoes.dyn.	300	IN	A	59.101.10.207
 opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
-pala.dyn.		300	IN	A	81.174.162.197
-pheralcus.dyn.		300	IN	A	89.0.237.129
+pheralcus.dyn.		300	IN	A	87.78.206.202
 posei.dyn.		300	IN	A	172.138.5.21
 profismart.dyn.		300	IN	A	145.255.2.196
 rage.dyn.		300	IN	A	47.195.233.160
@@ -78,7 +77,7 @@ skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.10.207
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	78.134.70.223
+stemby.dyn.		300	IN	A	5.157.104.98
 subnet.dyn.		300	IN	A	79.255.33.11
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
@@ -108,7 +107,7 @@ utzon.dyn.		300	IN	A	84.209.2.104
 uwe-cosanostra.dyn.	300	IN	A	93.243.56.145
 valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-vektorweg.dyn.		300	IN	A	46.246.63.174
+vektorweg.dyn.		300	IN	A	46.246.40.31
 vovanium.dyn.		300	IN	A	95.165.139.85
 whitedwarf.dyn.		300	IN	A	67.249.202.109
 whitedwarf.dyn.		300	IN	AAAA	2001:470:1f07:2b9:e812:447d:428:7ca0
@@ -116,4 +115,4 @@ wildhorse.dyn.		300	IN	A	59.101.10.207
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	46.88.42.38
+zufriedenheit.dyn.	300	IN	A	46.88.33.181
