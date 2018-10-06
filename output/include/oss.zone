@@ -2,7 +2,6 @@ archlinux32.oss.	86400	IN	A	83.212.119.33
 archlinux32.oss.	86400	IN	AAAA	2001:648:2ffc:1225:a800:8ff:fe2a:925
 mirror.archlinux32.oss.	86400	IN	CNAME	jeti100.ioq.uni-jena.de.
 arttek.oss.		86400	IN	A	31.207.72.12
-bigb.oss.		86400	IN	A	69.12.67.26
 bird-lg.oss.		86400	IN	NS	ns.subnets.ru.
 bird-lg.oss.		86400	IN	NS	ns3.subnets.ru.
 blahdns.oss.		86400	IN	A	202.182.120.110
