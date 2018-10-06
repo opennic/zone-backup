@@ -117,7 +117,7 @@ mmo.libre.		0	IN	NS	ns6530.hostgator.com.
 movies.libre.		0	IN	A	173.212.246.189
 mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
-nightshade.libre.	0	IN	A	59.101.10.207
+nightshade.libre.	0	IN	A	210.10.128.176
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns3.geoscaling.com.
@@ -131,8 +131,8 @@ info.null.libre.	0	IN	A	50.116.17.96
 luna.null.libre.	0	IN	NS	ns1.null.libre.
 media.null.libre.	0	IN	A	73.11.11.6
 www.null.libre.		0	IN	A	73.11.11.6
-nuracing.libre.		0	IN	A	59.101.10.207
-obsceneshoes.libre.	0	IN	A	59.101.10.207
+nuracing.libre.		0	IN	A	210.10.128.176
+obsceneshoes.libre.	0	IN	A	210.10.128.176
 office.libre.		0	IN	A	139.59.211.104
 opennic.libre.		0	IN	A	161.97.219.84
 opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
