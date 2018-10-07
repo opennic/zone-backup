@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	207.237.207.250
+albuic.dyn.		300	IN	A	208.59.153.12
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -12,8 +12,8 @@ co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	188.76.45.182
 cosanostra.dyn.		300	IN	A	93.243.56.146
-creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
+creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	75.100.179.59
 darkcodi.dyn.		300	IN	A	139.59.211.104
@@ -76,7 +76,7 @@ soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	210.10.128.176
 startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	5.157.104.98
-subnet.dyn.		300	IN	A	79.255.33.11
+subnet.dyn.		300	IN	A	91.40.219.15
 sxiii.dyn.		300	IN	A	178.76.232.222
 test.dyn.		300	IN	A	104.131.78.30
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
