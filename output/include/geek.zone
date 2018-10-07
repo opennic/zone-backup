@@ -236,6 +236,7 @@ timothyvyper.geek.	86400	IN	NS	pns104.cloudns.net.
 trebuchet.geek.		86400	IN	NS	ns1.sourpuss.net.
 trebuchet.geek.		86400	IN	NS	ns2.sourpuss.net.
 uly.geek.		86400	IN	A	173.212.246.189
+unascribed.geek.	86400	IN	A	216.158.237.58
 www.unix.geek.		86400	IN	CNAME	www.remoteshaman.com.
 vovanium.geek.		86400	IN	A	95.165.139.85
 vpn.geek.		86400	IN	NS	ns1.digitalocean.com.
