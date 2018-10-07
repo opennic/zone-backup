@@ -12,8 +12,8 @@ co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	188.76.45.182
 cosanostra.dyn.		300	IN	A	93.243.56.146
-creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
+creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	75.100.179.59
 darkcodi.dyn.		300	IN	A	139.59.211.104
@@ -32,8 +32,6 @@ francoismelchior.dyn.	300	IN	A	109.236.142.240
 gmarquez.dyn.		300	IN	A	192.168.0.13
 gylle.dyn.		300	IN	A	84.209.2.104
 herman.dyn.		300	IN	A	82.73.159.243
-i4c.dyn.		300	IN	NS	ns1.internet4catan.com.
-i4c.dyn.		300	IN	NS	ns2.internet4catan.com.
 inquiries.dyn.		300	IN	A	148.75.237.47
 jor.dyn.		300	IN	A	172.168.12.13
 kf4nvx.dyn.		300	IN	A	68.235.230.84
@@ -94,8 +92,8 @@ tick.dyn.		300	IN	NS	ns4.linode.com.
 tick.dyn.		300	IN	NS	ns5.linode.com.
 uf.dyn.			300	IN	A	45.33.65.68
 uf.dyn.			300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-uflour.dyn.		300	IN	A	45.33.65.68
 uflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+uflour.dyn.		300	IN	A	45.33.65.68
 un.dyn.			300	IN	NS	free.ssl.libre.
 union.dyn.		300	IN	A	45.33.65.68
 union.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
