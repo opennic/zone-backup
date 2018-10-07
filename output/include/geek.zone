@@ -238,9 +238,6 @@ trebuchet.geek.		86400	IN	NS	ns2.sourpuss.net.
 uly.geek.		86400	IN	A	173.212.246.189
 www.unix.geek.		86400	IN	CNAME	www.remoteshaman.com.
 vovanium.geek.		86400	IN	A	95.165.139.85
-vpn.geek.		86400	IN	NS	ns1.digitalocean.com.
-vpn.geek.		86400	IN	NS	ns2.digitalocean.com.
-vpn.geek.		86400	IN	NS	ns3.digitalocean.com.
 vsta.geek.		86400	IN	A	212.47.245.167
 waytt.geek.		86400	IN	A	194.143.137.144
 wildhorse.geek.		86400	IN	A	210.10.128.176
