@@ -57,7 +57,7 @@ obsceneshoes.dyn.	300	IN	A	210.10.128.176
 opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
-pheralcus.dyn.		300	IN	A	87.79.185.180
+pheralcus.dyn.		300	IN	A	89.0.100.84
 posei.dyn.		300	IN	A	172.138.5.21
 powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13f4:5100:4849:43ff:fe49:79d7
 profismart.dyn.		300	IN	A	145.255.2.196
@@ -69,7 +69,7 @@ register.dyn.		300	IN	A	173.160.58.202
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	210.10.128.176
-rt-srb.dyn.		300	IN	A	71.209.95.30
+rt-srb.dyn.		300	IN	A	184.5.62.184
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
