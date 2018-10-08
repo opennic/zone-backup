@@ -14,8 +14,6 @@ obsceneshoes.indy.	86400	IN	A	210.10.128.176
 opennic.indy.		86400	IN	A	161.97.219.84
 opennic.indy.		86400	IN	AAAA	2001:470:4212:1::254
 orbitalfox.indy.	86400	IN	A	95.172.232.202
-prorussian.indy.	86400	IN	A	109.195.19.160
-prorussian.indy.	86400	IN	TXT	"v=spf1" "redirect=_spf.yandex.net"
 reg.indy.		86400	IN	A	161.97.219.84
 reg.indy.		86400	IN	AAAA	2001:470:4212:1::254
 register.indy.		86400	IN	A	161.97.219.84
