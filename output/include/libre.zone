@@ -177,6 +177,8 @@ singlemr.libre.		0	IN	NS	ns2.opennic.glue.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
 spatium.libre.		0	IN	NS	ns2.mb.os.vu.
 spikestradale.libre.	0	IN	A	210.10.128.176
+stateless.libre.	0	IN	A	93.204.59.61
+www.stateless.libre.	0	IN	A	93.204.59.61
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 succ.libre.		0	IN	A	163.172.185.51
 syncedonline.libre.	0	IN	A	74.91.125.124

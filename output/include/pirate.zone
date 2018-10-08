@@ -23,6 +23,9 @@ bit2.pirate.		86400	IN	A	185.243.112.240
 blahdns.pirate.		86400	IN	A	202.182.120.110
 www.bsd.pirate.		86400	IN	CNAME	www.remoteshaman.com.
 www.bsdzone.pirate.	86400	IN	CNAME	www.remoteshaman.com.
+calicojack.pirate.	86400	IN	A	93.204.59.61
+redir.calicojack.pirate. 86400	IN	CNAME	heise.de.
+www.calicojack.pirate.	86400	IN	A	93.204.59.61
 cat.pirate.		86400	IN	A	155.254.35.135
 celine.pirate.		86400	IN	NS	ns1.afraid.org.
 celine.pirate.		86400	IN	NS	ns2.afraid.org.
