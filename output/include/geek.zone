@@ -167,8 +167,8 @@ opensource.geek.	86400	IN	NS	ns1.afraid.org.
 opensource.geek.	86400	IN	NS	ns2.afraid.org.
 opensource.geek.	86400	IN	NS	ns3.afraid.org.
 opensource.geek.	86400	IN	NS	ns4.afraid.org.
-p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p4bl0.geek.		86400	IN	A	91.121.16.67
+p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
 p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
 peerz.geek.		86400	IN	A	24.137.85.135
