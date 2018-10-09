@@ -80,8 +80,6 @@ inan.libre.		0	IN	NS	dns3.p04.nsone.net.
 inan.libre.		0	IN	NS	dns4.p04.nsone.net.
 inventory.libre.	0	IN	A	149.202.175.252
 iptv.libre.		0	IN	NS	facebook.de.
-iqido.libre.		0	IN	A	10.216.60.21
-www.iqido.libre.	0	IN	A	10.216.60.21
 irc.libre.		0	IN	A	167.114.108.154
 irc.libre.		0	IN	A	167.114.108.155
 anope.irc.libre.	0	IN	CNAME	hub01.irc.libre.
