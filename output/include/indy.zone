@@ -20,7 +20,6 @@ register.indy.		86400	IN	A	161.97.219.84
 register.indy.		86400	IN	AAAA	2001:470:4212:1::254
 root.indy.		86400	IN	A	127.0.0.1
 spikestradale.indy.	86400	IN	A	210.10.129.67
-succ.indy.		86400	IN	A	163.172.185.51
 test.indy.		86400	IN	A	104.131.78.30
 unfettered.indy.	86400	IN	A	144.172.70.181
 www.unfettered.indy.	86400	IN	A	144.172.70.181
