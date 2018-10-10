@@ -4,7 +4,7 @@ mirror.archlinux32.oss.	86400	IN	CNAME	jeti100.ioq.uni-jena.de.
 arttek.oss.		86400	IN	A	31.207.72.12
 bird-lg.oss.		86400	IN	NS	ns.subnets.ru.
 bird-lg.oss.		86400	IN	NS	ns3.subnets.ru.
-blahdns.oss.		86400	IN	A	202.182.120.110
+blahdns.oss.		86400	IN	A	78.47.113.218
 box.oss.		86400	IN	A	145.239.233.78
 code.oss.		86400	IN	A	161.97.219.84
 code.oss.		86400	IN	AAAA	2001:470:4212:1::254
@@ -88,5 +88,5 @@ waytt.oss.		86400	IN	A	194.143.137.144
 www.wgboome.oss.	86400	IN	CNAME	www0.wgboome.org.
 whitedwarf.oss.		86400	IN	A	67.249.202.109
 whitedwarf.oss.		86400	IN	AAAA	2001:470:1f07:2b9:e812:447d:428:7ca0
-wizardamigos.oss.	86400	IN	A	202.182.120.110
+wizardamigos.oss.	86400	IN	A	78.47.113.218
 www.oss.		86400	IN	A	161.97.219.84

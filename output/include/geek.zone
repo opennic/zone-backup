@@ -141,10 +141,10 @@ mymail.geek.		86400	IN	NS	ns24.cloudns.net.
 ns1.nameservers.geek.	86400	IN	A	67.221.146.229
 natrinicle.geek.	86400	IN	A	136.60.193.37
 natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
-diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
 diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
-wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
+diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
+wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
 nemanja.geek.		86400	IN	A	104.31.78.59
 nightshade.geek.	86400	IN	A	210.10.129.67
 nir.geek.		86400	IN	A	192.30.252.153
