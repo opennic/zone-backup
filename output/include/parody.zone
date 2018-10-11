@@ -19,6 +19,5 @@ reg.parody.		86400	IN	NS	ns2.sourpuss.net.
 register.parody.	86400	IN	A	161.97.219.84
 register.parody.	86400	IN	AAAA	2001:470:4212:1::254
 root.parody.		86400	IN	A	173.160.58.202
-succ.parody.		86400	IN	A	163.172.185.51
 test.parody.		86400	IN	A	104.131.78.30
 www.parody.		86400	IN	A	161.97.219.84
