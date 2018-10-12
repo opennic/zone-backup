@@ -51,8 +51,9 @@ debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
 dhinakg.geek.		86400	IN	A	1.1.1.1
 www.dhinakg.geek.	86400	IN	A	1.1.1.1
-dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
 dhoomketu.geek.		86400	IN	A	141.255.162.213
+dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+direma1.geek.		86400	IN	AAAA	2003:c3:1717:c15:4cf2:d9cf:b68e:56d0
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
