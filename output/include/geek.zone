@@ -51,8 +51,8 @@ debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
 dhinakg.geek.		86400	IN	A	1.1.1.1
 www.dhinakg.geek.	86400	IN	A	1.1.1.1
-dhoomketu.geek.		86400	IN	A	141.255.162.213
 dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+dhoomketu.geek.		86400	IN	A	141.255.162.213
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
@@ -84,8 +84,8 @@ horrible.geek.		86400	IN	A	104.198.14.52
 http-web.geek.		86400	IN	A	50.116.17.96
 huesken.geek.		86400	IN	A	88.159.139.160
 iam.geek.		86400	IN	A	94.156.142.136
-ima.geek.		86400	IN	A	172.217.9.129
 ima.geek.		86400	IN	TXT	"bruce-lab.blogspot.om"
+ima.geek.		86400	IN	A	172.217.9.129
 info.geek.		86400	IN	NS	ns1.afraid.org.
 info.geek.		86400	IN	NS	ns2.afraid.org.
 info.geek.		86400	IN	NS	ns3.afraid.org.
@@ -171,6 +171,7 @@ p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
 p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
 patate.geek.		86400	IN	A	176.153.86.212
+jg.patate.geek.		86400	IN	CNAME	schpountznas.myqnapcloud.com.
 peerz.geek.		86400	IN	A	24.137.85.135
 web.peerz.geek.		86400	IN	A	24.137.85.135
 miner.penguinator.geek.	86400	IN	A	91.77.164.245
