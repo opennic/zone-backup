@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1539248942 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1539446401 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -137,6 +137,7 @@ opennic.cyb.		86400	IN	A	79.124.7.81
 opennic.cyb.		86400	IN	MX	0 a.zm.is.
 www.opennic.cyb.	86400	IN	AAAA	2a01:8740:1:ff13::ae67
 www.opennic.cyb.	86400	IN	A	79.124.7.81
+patate.cyb.		86400	IN	CNAME	schpountznas.myqnapcloud.com.
 police.cyb.		86400	IN	A	5.9.155.75
 pool33.cyb.		86400	IN	A	98.117.34.105
 registry.cyb.		86400	IN	A	198.100.149.191

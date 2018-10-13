@@ -146,7 +146,8 @@ repo.parabola.libre.	0	IN	CNAME	repo.parabola.nu.
 wiki.parabola.libre.	0	IN	A	190.160.6.92
 winstone.parabola.libre. 0	IN	CNAME	winstone.parabola.nu.
 www.parabola.libre.	0	IN	CNAME	www.parabola.nu.
-patate.libre.		0	IN	A	176.153.86.212
+patate.libre.		0	IN	NS	ns1.lom.it.
+patate.libre.		0	IN	NS	ns2.lom.it.
 pcy.libre.		0	IN	A	193.190.253.234
 pcy.libre.		0	IN	TXT	"OPENPGPKEY" "=" "D90A5850F019571221E04D446A38DA954AA08519"
 phundrak.libre.		0	IN	A	82.226.82.83
