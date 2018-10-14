@@ -130,7 +130,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	88.144.72.252
+micheal65536.geek.	86400	IN	A	79.64.31.147
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 mymail.geek.		86400	IN	NS	ns21.cloudns.net.
@@ -239,6 +239,7 @@ uly.geek.		86400	IN	A	173.212.246.189
 www.unix.geek.		86400	IN	CNAME	www.remoteshaman.com.
 vovanium.geek.		86400	IN	A	95.165.139.85
 vsta.geek.		86400	IN	A	212.47.245.167
+was.geek.		86400	IN	A	62.210.170.131
 waytt.geek.		86400	IN	A	194.143.137.144
 wildhorse.geek.		86400	IN	A	210.10.129.67
 www.geek.		86400	IN	A	161.97.219.84
