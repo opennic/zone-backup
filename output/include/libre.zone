@@ -35,6 +35,10 @@ civdev.libre.		0	IN	A	77.246.157.26
 www.civdev.libre.	0	IN	A	77.246.157.26
 cloud.libre.		0	IN	A	50.116.17.96
 crumax.libre.		0	IN	A	127.0.0.1
+danapatow.libre.	0	IN	NS	ns1.freewha.com.
+danapatow.libre.	0	IN	NS	ns2.freewha.com.
+test.danapatow.libre.	0	IN	NS	ns1.freewha.com.
+test.danapatow.libre.	0	IN	NS	ns2.freewha.com.
 danq.libre.		0	IN	NS	ns1.lunarservers.com.
 danq.libre.		0	IN	NS	ns2.lunarservers.com.
 ns1.danq.libre.		0	IN	A	209.200.237.4
