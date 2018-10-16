@@ -37,6 +37,7 @@ cloud.libre.		0	IN	A	50.116.17.96
 crumax.libre.		0	IN	A	127.0.0.1
 danapatow.libre.	0	IN	NS	ns1.freewha.com.
 danapatow.libre.	0	IN	NS	ns2.freewha.com.
+blog.danapatow.libre.	0	IN	CNAME	test.danapatow.libre.
 red.danapatow.libre.	0	IN	CNAME	test.danapatow.libre.
 test.danapatow.libre.	0	IN	NS	ns1.freewha.com.
 test.danapatow.libre.	0	IN	NS	ns2.freewha.com.
@@ -181,8 +182,8 @@ www.stateless.libre.	0	IN	A	93.204.59.61
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 syncedonline.libre.	0	IN	A	74.91.125.124
 www.syncedonline.libre.	0	IN	A	74.91.125.124
-tbpchan.libre.		0	IN	AAAA	2600:8805:4200:196:5926:b34b:c8e7:65ad
 tbpchan.libre.		0	IN	A	70.174.49.129
+tbpchan.libre.		0	IN	AAAA	2600:8805:4200:196:5926:b34b:c8e7:65ad
 test.libre.		0	IN	A	104.131.78.30
 unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
