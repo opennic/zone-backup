@@ -40,7 +40,7 @@ livechat.oss.		86400	IN	A	50.116.17.96
 localhost.oss.		86400	IN	A	127.0.0.1
 mail.oss.		86400	IN	A	173.160.58.202
 martin.oss.		86400	IN	NS	cyberblast.dyndns.org.
-nightshade.oss.		86400	IN	A	210.10.129.67
+nightshade.oss.		86400	IN	A	59.101.5.30
 nob.oss.		86400	IN	A	185.224.137.66
 nokeh.oss.		86400	IN	NS	ns1.geoscaling.com.
 nokeh.oss.		86400	IN	NS	ns2.geoscaling.com.
@@ -73,7 +73,7 @@ scalehost.oss.		86400	IN	NS	ns1.scalehost.eu.
 scalehost.oss.		86400	IN	NS	ns2.scalehost.eu.
 search.oss.		86400	IN	A	50.116.17.96
 soft.oss.		86400	IN	A	31.207.72.12
-spikestradale.oss.	86400	IN	A	210.10.129.67
+spikestradale.oss.	86400	IN	A	59.101.5.30
 syntazia.oss.		86400	IN	A	89.64.17.214
 repo.syntazia.oss.	86400	IN	A	89.64.17.214
 test.oss.		86400	IN	A	104.131.78.30

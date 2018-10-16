@@ -51,8 +51,8 @@ debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
 dhinakg.geek.		86400	IN	A	1.1.1.1
 www.dhinakg.geek.	86400	IN	A	1.1.1.1
-dhoomketu.geek.		86400	IN	A	141.255.162.213
 dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+dhoomketu.geek.		86400	IN	A	141.255.162.213
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
@@ -145,7 +145,7 @@ diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
 wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
 nemanja.geek.		86400	IN	A	104.31.78.59
-nightshade.geek.	86400	IN	A	210.10.129.67
+nightshade.geek.	86400	IN	A	59.101.5.30
 nir.geek.		86400	IN	A	192.30.252.153
 noettore.geek.		86400	IN	NS	server1.dreucci.it.
 noettore.geek.		86400	IN	NS	server2.dreucci.it.
@@ -153,7 +153,7 @@ null.geek.		86400	IN	A	138.201.159.27
 dev.null.geek.		86400	IN	A	138.201.159.27
 nuxware.geek.		86400	IN	NS	ns1.x10hosting.com.
 nuxware.geek.		86400	IN	NS	ns2.x10hosting.com.
-obsceneshoes.geek.	86400	IN	A	210.10.129.67
+obsceneshoes.geek.	86400	IN	A	59.101.5.30
 one.geek.		86400	IN	A	192.243.126.209
 opennic.geek.		86400	IN	A	161.97.219.84
 opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
@@ -183,9 +183,9 @@ peter.geek.		86400	IN	A	185.199.108.153
 peter.geek.		86400	IN	A	185.199.109.153
 peter.geek.		86400	IN	A	185.199.110.153
 peter.geek.		86400	IN	A	185.199.111.153
-phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
 phundrak.geek.		86400	IN	A	82.226.82.83
 phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
+phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
 poppop.geek.		86400	IN	A	81.187.19.191
 profilib.geek.		86400	IN	NS	ns1.profismart.net.
 profilib.geek.		86400	IN	NS	ns2.profismart.net.
@@ -216,7 +216,7 @@ sdf.geek.		86400	IN	A	205.166.94.15
 search.geek.		86400	IN	A	69.197.155.38
 sha.geek.		86400	IN	TXT	"dnslink=" "/ipfs/QmYCvbfNbCwFR45HiNP45rwJgvatpiW38D961L5qAhUM5Y"
 social.geek.		86400	IN	A	69.197.155.38
-spikestradale.geek.	86400	IN	A	210.10.129.67
+spikestradale.geek.	86400	IN	A	59.101.5.30
 srvme.geek.		86400	IN	A	127.0.0.1
 talk.geek.		86400	IN	A	216.17.244.224
 cdn.talk.geek.		86400	IN	CNAME	cdn.publicmirrors.org.
@@ -240,7 +240,7 @@ vovanium.geek.		86400	IN	A	95.165.139.85
 vsta.geek.		86400	IN	A	212.47.245.167
 was.geek.		86400	IN	A	62.210.170.131
 waytt.geek.		86400	IN	A	194.143.137.144
-wildhorse.geek.		86400	IN	A	210.10.129.67
+wildhorse.geek.		86400	IN	A	59.101.5.30
 www.geek.		86400	IN	A	161.97.219.84
 www.geek.		86400	IN	AAAA	2001:470:4212:1::254
 yourtilde.geek.		86400	IN	NS	b.ns.buddyns.com.
