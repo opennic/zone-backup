@@ -138,8 +138,6 @@ obsceneshoes.libre.	0	IN	A	210.10.129.67
 office.libre.		0	IN	A	139.59.211.104
 opennic.libre.		0	IN	A	161.97.219.84
 opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
-opentube.libre.		0	IN	NS	beta.harukigrande.co.uk.
-opentube.libre.		0	IN	NS	alpha.harukigrande.co.uk.
 parabola.libre.		0	IN	A	190.160.6.92
 git.parabola.libre.	0	IN	A	190.160.6.92
 labs.parabola.libre.	0	IN	A	190.160.6.92
@@ -161,8 +159,8 @@ radio.libre.		0	IN	NS	ns1.sourpuss.net.
 radio.libre.		0	IN	NS	ns2.sourpuss.net.
 rajabi.libre.		0	IN	A	66.18.246.131
 www.rajabi.libre.	0	IN	A	66.18.246.131
-reg.libre.		0	IN	AAAA	2001:470:4212:1::254
 reg.libre.		0	IN	A	161.97.219.84
+reg.libre.		0	IN	AAAA	2001:470:4212:1::254
 register.libre.		0	IN	A	161.97.219.84
 register.libre.		0	IN	AAAA	2001:470:4212:1::254
 remoteshaman.libre.	0	IN	A	93.170.128.114
