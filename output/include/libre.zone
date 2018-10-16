@@ -98,8 +98,8 @@ www.itadmin.libre.	0	IN	CNAME	www.remoteshaman.com.
 www.itshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 iwact.libre.		0	IN	A	91.160.152.192
 www.krainachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
-kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 kyodev.libre.		0	IN	A	144.76.206.44
+kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 www.kyodev.libre.	0	IN	CNAME	kyodev.libre.
 lexo.libre.		0	IN	A	66.70.189.98
 lindon.libre.		0	IN	A	37.59.63.23
