@@ -51,8 +51,8 @@ debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
 dhinakg.geek.		86400	IN	A	1.1.1.1
 www.dhinakg.geek.	86400	IN	A	1.1.1.1
-dhoomketu.geek.		86400	IN	A	141.255.162.213
 dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+dhoomketu.geek.		86400	IN	A	141.255.162.213
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
@@ -171,7 +171,7 @@ p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
 p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
 patate.geek.		86400	IN	A	176.153.86.212
-jg.patate.geek.		86400	IN	CNAME	schpountznas.myqnapcloud.com.
+patate.geek.		86400	IN	TXT	"google-site-verification=rtdu2T8i_Q62ArfwtTv8B-WhJCPfb9ee4yAS0XQ9vQw"
 peerz.geek.		86400	IN	A	24.137.85.135
 web.peerz.geek.		86400	IN	A	24.137.85.135
 miner.penguinator.geek.	86400	IN	A	91.77.164.245
@@ -183,9 +183,9 @@ peter.geek.		86400	IN	A	185.199.108.153
 peter.geek.		86400	IN	A	185.199.109.153
 peter.geek.		86400	IN	A	185.199.110.153
 peter.geek.		86400	IN	A	185.199.111.153
+phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
 phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
 phundrak.geek.		86400	IN	A	82.226.82.83
-phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
 poppop.geek.		86400	IN	A	81.187.19.191
 profilib.geek.		86400	IN	NS	ns1.profismart.net.
 profilib.geek.		86400	IN	NS	ns2.profismart.net.
