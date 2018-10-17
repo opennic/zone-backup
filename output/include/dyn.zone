@@ -42,7 +42,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	79.64.31.4
+micheal65536.dyn.	300	IN	A	88.145.84.138
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	84.152.126.143
 mulu-stick.dyn.		300	IN	A	84.152.126.143
@@ -110,8 +110,8 @@ valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.40.31
 vovanium.dyn.		300	IN	A	95.165.139.85
-whitedwarf.dyn.		300	IN	A	67.249.202.109
 whitedwarf.dyn.		300	IN	AAAA	2001:470:1f07:2b9:e812:447d:428:7ca0
+whitedwarf.dyn.		300	IN	A	67.249.202.109
 wildhorse.dyn.		300	IN	A	59.101.5.30
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
