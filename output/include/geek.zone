@@ -183,9 +183,9 @@ peter.geek.		86400	IN	A	185.199.108.153
 peter.geek.		86400	IN	A	185.199.109.153
 peter.geek.		86400	IN	A	185.199.110.153
 peter.geek.		86400	IN	A	185.199.111.153
-phundrak.geek.		86400	IN	A	82.226.82.83
 phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
 phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
+phundrak.geek.		86400	IN	A	82.226.82.83
 poppop.geek.		86400	IN	A	81.187.19.191
 profilib.geek.		86400	IN	NS	ns1.profismart.net.
 profilib.geek.		86400	IN	NS	ns2.profismart.net.
