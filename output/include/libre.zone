@@ -99,8 +99,8 @@ www.itadmin.libre.	0	IN	CNAME	www.remoteshaman.com.
 www.itshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 iwact.libre.		0	IN	A	91.160.152.192
 www.krainachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
-kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 kyodev.libre.		0	IN	A	144.76.206.44
+kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 www.kyodev.libre.	0	IN	CNAME	kyodev.libre.
 lexo.libre.		0	IN	A	66.70.189.98
 lindon.libre.		0	IN	A	37.59.63.23
@@ -193,6 +193,7 @@ vercors.libre.		0	IN	NS	ns5.ikoula.com.
 vertige-moderne.libre.	0	IN	TXT	"gitlab-pages-verification-code=b07514aae9fcde4768a2384c629456bc"
 vps.libre.		0	IN	A	185.22.153.39
 waffle.libre.		0	IN	A	204.152.206.250
+web.libre.		0	IN	A	195.201.101.101
 webriq.libre.		0	IN	A	104.198.14.52
 www.wgboome.libre.	0	IN	CNAME	www5.wgboome.org.
 wiki.libre.		0	IN	A	158.69.160.165
