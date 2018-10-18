@@ -71,7 +71,6 @@ go.libre.		0	IN	A	161.97.219.84
 go.libre.		0	IN	RP	shdwdrgn.sourpuss.net. .
 go.libre.		0	IN	AAAA	2001:470:4212:1::254
 google.libre.		0	IN	A	45.55.110.124
-greymatter.libre.	0	IN	A	185.199.108.153
 host.libre.		0	IN	A	149.56.98.147
 host.libre.		0	IN	AAAA	2607:5300:201:3100::1a8a
 ns1.host.libre.		0	IN	NS	host.libre.
@@ -99,8 +98,8 @@ www.itadmin.libre.	0	IN	CNAME	www.remoteshaman.com.
 www.itshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 iwact.libre.		0	IN	A	91.160.152.192
 www.krainachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
-kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 kyodev.libre.		0	IN	A	144.76.206.44
+kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 www.kyodev.libre.	0	IN	CNAME	kyodev.libre.
 lexo.libre.		0	IN	A	66.70.189.98
 lindon.libre.		0	IN	A	37.59.63.23
@@ -163,8 +162,8 @@ rajabi.libre.		0	IN	A	66.18.246.131
 www.rajabi.libre.	0	IN	A	66.18.246.131
 reg.libre.		0	IN	A	161.97.219.84
 reg.libre.		0	IN	AAAA	2001:470:4212:1::254
-register.libre.		0	IN	A	161.97.219.84
 register.libre.		0	IN	AAAA	2001:470:4212:1::254
+register.libre.		0	IN	A	161.97.219.84
 remoteshaman.libre.	0	IN	A	93.170.128.114
 www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 rhieandjosh.libre.	0	IN	A	59.101.5.30
