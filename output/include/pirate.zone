@@ -117,9 +117,9 @@ sjong.pirate.		86400	IN	A	84.209.2.104
 soportered.pirate.	86400	IN	NS	soportered.dyndns.org.
 space.pirate.		86400	IN	NS	ns1.lyci.de.
 space.pirate.		86400	IN	NS	ns2.lyci.de.
+spectral.pirate.	86400	IN	A	80.67.181.129
 spectral.pirate.	86400	IN	TXT	"v=spf1 a mx ip4:80.67.181.129 ip6:2001:913:1fff:ffff::b:d12a -all"
 spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 spikestradale.pirate.	86400	IN	A	59.101.5.30
