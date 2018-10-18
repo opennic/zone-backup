@@ -51,8 +51,8 @@ debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
 dhinakg.geek.		86400	IN	A	1.1.1.1
 www.dhinakg.geek.	86400	IN	A	1.1.1.1
-dhoomketu.geek.		86400	IN	A	141.255.162.213
 dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+dhoomketu.geek.		86400	IN	A	141.255.162.213
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
@@ -179,10 +179,6 @@ vpshost1.penguinator.geek. 86400 IN	A	185.169.235.5
 vpshost1.penguinator.geek. 86400 IN	AAAA	2a04:92c7:16:31e::1
 vpshost2.penguinator.geek. 86400 IN	A	94.23.214.156
 vpshost2.penguinator.geek. 86400 IN	AAAA	2001:41d0:2:599c::1211:adaf
-peter.geek.		86400	IN	A	185.199.108.153
-peter.geek.		86400	IN	A	185.199.109.153
-peter.geek.		86400	IN	A	185.199.110.153
-peter.geek.		86400	IN	A	185.199.111.153
 phundrak.geek.		86400	IN	A	82.226.82.83
 phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
 phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
