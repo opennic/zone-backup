@@ -160,10 +160,10 @@ radio.libre.		0	IN	NS	ns1.sourpuss.net.
 radio.libre.		0	IN	NS	ns2.sourpuss.net.
 rajabi.libre.		0	IN	A	66.18.246.131
 www.rajabi.libre.	0	IN	A	66.18.246.131
-reg.libre.		0	IN	A	161.97.219.84
 reg.libre.		0	IN	AAAA	2001:470:4212:1::254
-register.libre.		0	IN	AAAA	2001:470:4212:1::254
+reg.libre.		0	IN	A	161.97.219.84
 register.libre.		0	IN	A	161.97.219.84
+register.libre.		0	IN	AAAA	2001:470:4212:1::254
 remoteshaman.libre.	0	IN	A	93.170.128.114
 www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 rhieandjosh.libre.	0	IN	A	59.101.5.30
@@ -181,8 +181,8 @@ www.stateless.libre.	0	IN	A	93.204.59.61
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 syncedonline.libre.	0	IN	A	74.91.125.124
 www.syncedonline.libre.	0	IN	A	74.91.125.124
-tbpchan.libre.		0	IN	A	70.174.49.129
 tbpchan.libre.		0	IN	AAAA	2600:8805:4200:196:5926:b34b:c8e7:65ad
+tbpchan.libre.		0	IN	A	70.174.49.129
 test.libre.		0	IN	A	104.131.78.30
 unfettered.libre.	0	IN	A	144.172.70.181
 www.unfettered.libre.	0	IN	A	144.172.70.181
