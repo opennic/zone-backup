@@ -17,11 +17,11 @@ appmaker.geek.		86400	IN	NS	ns-cloud-b3.googledomains.com.
 appmaker.geek.		86400	IN	NS	ns-cloud-b4.googledomains.com.
 arttek.geek.		86400	IN	A	31.207.72.12
 asa-is-a.geek.		86400	IN	A	163.172.185.51
-bad-minds.geek.		86400	IN	A	35.227.103.26
+bad-minds.geek.		86400	IN	A	78.46.69.149
 beardsell.geek.		86400	IN	A	85.10.194.147
 greenpark.beardsell.geek. 86400	IN	A	88.97.37.155
 www.beardsell.geek.	86400	IN	CNAME	beardsell.geek.
-bodi-office.geek.	86400	IN	A	35.227.103.26
+bodi-office.geek.	86400	IN	A	78.46.69.149
 brain.geek.		86400	IN	A	185.121.177.177
 brain.geek.		86400	IN	AAAA	2a05:dfc7:5::53
 breclove.geek.		86400	IN	A	5.39.20.236
@@ -29,7 +29,7 @@ www.breclove.geek.	86400	IN	CNAME	breclove.geek.
 byte.geek.		86400	IN	A	138.201.159.27
 cccp.geek.		86400	IN	A	212.24.103.221
 chrisg.geek.		86400	IN	A	150.101.112.36
-combook.geek.		86400	IN	A	35.227.103.26
+combook.geek.		86400	IN	A	78.46.69.149
 comfix.geek.		86400	IN	A	213.239.213.45
 coredump.geek.		86400	IN	NS	ns1.lunarservers.com.
 coredump.geek.		86400	IN	NS	ns2.lunarservers.com.
@@ -51,8 +51,8 @@ debian.geek.		86400	IN	NS	bing.com.
 den.geek.		86400	IN	A	178.76.232.222
 dhinakg.geek.		86400	IN	A	1.1.1.1
 www.dhinakg.geek.	86400	IN	A	1.1.1.1
-dhoomketu.geek.		86400	IN	A	141.255.162.213
 dhoomketu.geek.		86400	IN	AAAA	2a02:29b8:508::9e64:7d5
+dhoomketu.geek.		86400	IN	A	141.255.162.213
 dns.geek.		86400	IN	A	127.0.0.1
 www.durdom.geek.	86400	IN	CNAME	durdomawilnbtbai.onion.
 elliot.geek.		86400	IN	A	54.88.50.14
