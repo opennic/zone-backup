@@ -40,7 +40,10 @@ cls2.cyb.		86400	IN	A	46.105.114.9
 cls2.cyb.		86400	IN	NS	socle2.c-l.io.
 ns1.cls2.cyb.		86400	IN	A	46.105.114.9
 ns2.cls2.cyb.		86400	IN	A	46.105.114.9
+codevoid.cyb.		86400	IN	A	176.9.40.102
 cosa.cyb.		86400	IN	CNAME	cosarara.me.
+cyber.cyb.		86400	IN	A	176.9.40.102
+cyber.cyber.cyb.	86400	IN	A	176.9.40.102
 d3p74.cyb.		86400	IN	A	66.226.74.35
 deangelisalex.cyb.	86400	IN	CNAME	deangelisalex.me.
 dekadenz.cyb.		86400	IN	A	134.249.152.4
