@@ -19,8 +19,8 @@ cryptoforliberty.dyn.	300	IN	A	75.100.179.59
 darkcodi.dyn.		300	IN	A	139.59.211.104
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+digitalfarms.dyn.	300	IN	A	45.33.65.68
 diz.dyn.		300	IN	A	45.30.159.243
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
@@ -35,7 +35,7 @@ herman.dyn.		300	IN	A	82.73.159.243
 inquiries.dyn.		300	IN	A	148.75.237.47
 ip4.dyn.		300	IN	A	195.201.101.101
 jor.dyn.		300	IN	A	172.168.12.13
-josh.dyn.		300	IN	A	85.1.14.151
+josh.dyn.		300	IN	A	85.5.43.143
 kf4nvx.dyn.		300	IN	A	68.235.230.84
 kf4nvx.dyn.		300	IN	AAAA	2600:1700:5f90:9930::16
 libre.dyn.		300	IN	A	189.155.77.63
@@ -117,4 +117,4 @@ wildhorse.dyn.		300	IN	A	59.101.5.30
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	46.88.45.196
+zufriedenheit.dyn.	300	IN	A	79.242.94.40
