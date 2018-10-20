@@ -118,8 +118,8 @@ www.marmat.libre.	0	IN	AAAA	2001:41d0:302:2000::1647
 mmo.libre.		0	IN	NS	ns6529.hostgator.com.
 mmo.libre.		0	IN	NS	ns6530.hostgator.com.
 movies.libre.		0	IN	A	173.212.246.189
-mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
+mycelium.libre.		0	IN	A	51.254.211.71
 nightshade.libre.	0	IN	A	59.101.5.30
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
@@ -156,6 +156,7 @@ pizza.libre.		0	IN	A	46.22.223.253
 pnp.libre.		0	IN	A	217.25.226.215
 www.polechudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
 presentpal.libre.	0	IN	A	59.101.5.30
+purist.libre.		0	IN	TXT	"7777"
 radio.libre.		0	IN	NS	ns1.sourpuss.net.
 radio.libre.		0	IN	NS	ns2.sourpuss.net.
 rajabi.libre.		0	IN	A	66.18.246.131
