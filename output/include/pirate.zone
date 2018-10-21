@@ -111,6 +111,9 @@ rouben.pirate.		86400	IN	NS	ns3.lunanode.net.
 sandbox.pirate.		86400	IN	NS	ns1.newalive.net.
 sandbox.pirate.		86400	IN	NS	ns2.newalive.net.
 sandbox.pirate.		86400	IN	NS	ns3.newalive.net.
+see.pirate.		86400	IN	NS	ns1.afraid.org.
+see.pirate.		86400	IN	NS	ns2.afraid.org.
+see.pirate.		86400	IN	NS	ns3.afraid.org.
 sjong.pirate.		86400	IN	A	84.209.2.104
 soportered.pirate.	86400	IN	NS	soportered.dyndns.org.
 space.pirate.		86400	IN	NS	ns1.lyci.de.
@@ -148,8 +151,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zio.pirate.		86400	IN	A	2.35.150.84
+zio.pirate.		86400	IN	TXT	"2.35.150.84"
 www.zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
