@@ -215,6 +215,5 @@ yannik.libre.		0	IN	NS	ns1.xlookup.de.
 yannik.libre.		0	IN	NS	ns2.xlookup.de.
 yonailo.libre.		0	IN	NS	ns.yonailo.libre.
 ns.yonailo.libre.	0	IN	A	94.23.201.80
-www.yonailo.libre.	0	IN	CNAME	tuxe.es.
 zio.libre.		0	IN	A	2.35.150.84
 zxz.libre.		0	IN	A	195.181.218.219
