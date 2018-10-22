@@ -204,8 +204,8 @@ wiki.libre.		0	IN	A	158.69.160.165
 wildhorse.libre.	0	IN	A	59.101.5.30
 wolvespackonline.libre.	0	IN	A	127.0.0.1
 public.wolvespackonline.libre. 0 IN	A	67.189.101.107
-www.libre.		0	IN	A	161.97.219.84
 www.libre.		0	IN	AAAA	2001:470:4212:1::254
+www.libre.		0	IN	A	161.97.219.84
 xspline.libre.		0	IN	NS	dns1.yandex.net.
 xspline.libre.		0	IN	NS	dns2.yandex.net.
 yamail-b55b00386a2e.xspline.libre. 0 IN	CNAME	mail.yandex.ru.
