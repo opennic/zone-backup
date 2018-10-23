@@ -11,9 +11,6 @@ gwar.indy.		86400	IN	NS	ns1.gwar.indy.
 ns1.gwar.indy.		86400	IN	A	95.79.31.188
 localhost.indy.		86400	IN	A	127.0.0.1
 nightshade.indy.	86400	IN	A	59.101.5.30
-nisankh.indy.		86400	IN	NS	ns5.awardspace.com.
-nisankh.indy.		86400	IN	NS	ns6.awardspace.com.
-www.nisankh.indy.	86400	IN	CNAME	nisankhacharjya.me.
 obsceneshoes.indy.	86400	IN	A	59.101.5.30
 opennic.indy.		86400	IN	A	161.97.219.84
 opennic.indy.		86400	IN	AAAA	2001:470:4212:1::254
