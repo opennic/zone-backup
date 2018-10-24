@@ -1,10 +1,10 @@
 .			86400	IN	NS	ns2.opennic.glue.
+.			86400	IN	NS	ns10.opennic.glue.
 .			86400	IN	NS	ns5.opennic.glue.
-.			86400	IN	NS	ns9.opennic.glue.
 .			86400	IN	NS	ns4.opennic.glue.
+.			86400	IN	NS	ns9.opennic.glue.
 .			86400	IN	NS	ns8.opennic.glue.
 .			86400	IN	NS	ns6.opennic.glue.
-.			86400	IN	NS	ns10.opennic.glue.
 ns2.opennic.glue.	7200	IN	A	161.97.219.84
 ns2.opennic.glue.	7200	IN	AAAA	2001:470:4212:10:0:100:53:10
 ns4.opennic.glue.	7200	IN	A	163.172.168.171
