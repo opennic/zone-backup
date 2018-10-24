@@ -19,6 +19,8 @@ bellamy.pirate.		86400	IN	TXT	"9999"
 bit2.pirate.		86400	IN	A	185.183.96.157
 bit2.pirate.		86400	IN	A	185.243.112.240
 blahdns.pirate.		86400	IN	A	78.47.113.218
+brasil.pirate.		86400	IN	A	186.207.68.18
+www.brasil.pirate.	86400	IN	A	186.207.68.18
 www.bsd.pirate.		86400	IN	CNAME	www.remoteshaman.com.
 www.bsdzone.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 calicojack.pirate.	86400	IN	A	93.204.59.61
