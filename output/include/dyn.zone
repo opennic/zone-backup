@@ -19,8 +19,8 @@ cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 darkcodi.dyn.		300	IN	A	139.59.211.104
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+digitalfarms.dyn.	300	IN	A	45.33.65.68
 diz.dyn.		300	IN	A	45.30.159.243
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
@@ -107,8 +107,8 @@ unionflour.dyn.		300	IN	A	45.33.65.68
 unionflour.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 utzon.dyn.		300	IN	A	84.209.2.104
 uwe-cosanostra.dyn.	300	IN	A	93.243.56.145
-valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 valleys.dyn.		300	IN	A	45.33.65.68
+valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.42.210
 vovanium.dyn.		300	IN	A	95.165.139.85
 whitedwarf.dyn.		300	IN	A	67.249.202.109
