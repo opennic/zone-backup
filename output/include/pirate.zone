@@ -31,8 +31,6 @@ den.pirate.		86400	IN	A	64.137.170.29
 www.durdom.pirate.	86400	IN	CNAME	durdomawilnbtbai.onion.
 eddie.pirate.		86400	IN	AAAA	2a03:b0c0:3:d0::b61:1
 edo.pirate.		86400	IN	A	5.100.231.23
-ethereum.pirate.	86400	IN	NS	ns.publicservers.net.
-ethereum.pirate.	86400	IN	NS	ns2.publicservers.net.
 example.pirate.		86400	IN	A	127.0.0.1
 flowmail.pirate.	86400	IN	A	138.201.159.27
 free.pirate.		86400	IN	NS	ns6529.hostgator.com.
@@ -119,9 +117,9 @@ sjong.pirate.		86400	IN	A	84.209.2.104
 soportered.pirate.	86400	IN	NS	soportered.dyndns.org.
 space.pirate.		86400	IN	NS	ns1.lyci.de.
 space.pirate.		86400	IN	NS	ns2.lyci.de.
+spectral.pirate.	86400	IN	A	80.67.181.129
 spectral.pirate.	86400	IN	TXT	"v=spf1 a mx ip4:80.67.181.129 ip6:2001:913:1fff:ffff::b:d12a -all"
 spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 spikestradale.pirate.	86400	IN	A	59.101.5.30
@@ -152,8 +150,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zio.pirate.		86400	IN	A	2.35.150.84
+zio.pirate.		86400	IN	TXT	"2.35.150.84"
 www.zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
