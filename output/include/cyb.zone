@@ -1,5 +1,6 @@
 0h.cyb.			86400	IN	A	185.52.0.82
 www.0h.cyb.		86400	IN	A	185.52.0.82
+0x00.cyb.		86400	IN	CNAME	642e07d43fac.sn.mynetname.net.
 2f30.cyb.		86400	IN	A	51.15.7.208
 irc.2f30.cyb.		86400	IN	CNAME	irc.cyb.
 a.cyb.			86400	IN	A	192.30.252.153

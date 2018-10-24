@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540390081 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540395961 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -12,6 +12,7 @@ cyb.			86400	IN	A	108.61.175.237
 cyb.			86400	IN	AAAA	2001:19f0:7402:dc9::1
 0h.cyb.			86400	IN	A	185.52.0.82
 www.0h.cyb.		86400	IN	A	185.52.0.82
+0x00.cyb.		86400	IN	CNAME	642e07d43fac.sn.mynetname.net.
 2f30.cyb.		86400	IN	A	51.15.7.208
 irc.2f30.cyb.		86400	IN	CNAME	irc.cyb.
 a.cyb.			86400	IN	A	192.30.252.153
