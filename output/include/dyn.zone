@@ -19,8 +19,8 @@ cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 darkcodi.dyn.		300	IN	A	139.59.211.104
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 digitalfarms.dyn.	300	IN	A	45.33.65.68
+digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 diz.dyn.		300	IN	A	45.30.159.243
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
@@ -63,7 +63,6 @@ pheralcus.dyn.		300	IN	A	81.173.141.131
 posei.dyn.		300	IN	A	172.138.5.21
 powo01-router.dyn.	300	IN	AAAA	2a00:6020:1000:3:0:9f17:acd9:9f4b
 powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13f4:5100:4849:43ff:fe49:79d7
-profismart.dyn.		300	IN	A	145.255.2.196
 rage.dyn.		300	IN	A	47.195.233.160
 recor.dyn.		300	IN	A	84.3.10.87
 reg.dyn.		300	IN	A	173.160.58.202
