@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540076582 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540353181 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -121,6 +121,7 @@ list.cyb.		86400	IN	A	1.1.1.1
 list.cyb.		86400	IN	A	1.0.0.1
 list.cyb.		86400	IN	AAAA	2606:4700:4700::1111
 list.cyb.		86400	IN	AAAA	2606:4700:4700::1001
+www.luso.cyb.		86400	IN	A	186.207.68.18
 m.cyb.			86400	IN	NS	ns1.moderntld.com.
 m.cyb.			86400	IN	NS	ns2.moderntld.com.
 matrix.cyb.		86400	IN	A	198.100.149.191
