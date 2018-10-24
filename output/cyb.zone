@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540353181 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540361581 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -31,6 +31,7 @@ www.apason.cyb.		86400	IN	CNAME	apason.cyb.
 aragon.cyb.		86400	IN	A	198.100.149.191
 b.cyb.			86400	IN	A	80.211.213.11
 www.b.cyb.		86400	IN	A	80.211.213.11
+www.b2w.cyb.		86400	IN	A	186.207.68.18
 test.b3nsn0w.cyb.	86400	IN	CNAME	sotetjovo.blog.hu.
 barash.cyb.		86400	IN	A	80.211.213.113
 www.barash.cyb.		86400	IN	A	80.211.213.113
@@ -85,6 +86,7 @@ www.fheutest.cyb.	86400	IN	A	185.176.43.84
 fiber.cyb.		86400	IN	A	149.56.156.92
 www.fiber.cyb.		86400	IN	CNAME	fiber.cyb.
 flewkey.cyb.		86400	IN	A	184.71.141.170
+www.g1.cyb.		86400	IN	A	186.207.68.18
 gz.cyb.			86400	IN	NS	aiden.ns.cloudflare.com.
 gz.cyb.			86400	IN	NS	ruth.ns.cloudflare.com.
 heropunch.cyb.		86400	IN	A	88.99.105.98
