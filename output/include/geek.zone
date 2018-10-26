@@ -32,8 +32,8 @@ coredump.geek.		86400	IN	NS	ns1.lunarservers.com.
 coredump.geek.		86400	IN	NS	ns2.lunarservers.com.
 coredumpcentral.geek.	86400	IN	NS	ns1.lunarservers.com.
 coredumpcentral.geek.	86400	IN	NS	ns2.lunarservers.com.
-corrin.geek.		86400	IN	A	87.222.130.201
-www.corrin.geek.	86400	IN	A	87.222.130.201
+corrin.geek.		86400	IN	A	188.76.45.173
+www.corrin.geek.	86400	IN	A	188.76.45.173
 cortana.geek.		86400	IN	A	109.201.140.97
 www.cortana.geek.	86400	IN	A	109.201.140.97
 crossroads.geek.	86400	IN	NS	ns1.newalive.net.
