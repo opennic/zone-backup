@@ -19,8 +19,8 @@ cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 darkcodi.dyn.		300	IN	A	139.59.211.104
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 digitalfarms.dyn.	300	IN	A	45.33.65.68
+digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 diz.dyn.		300	IN	A	45.30.159.243
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
@@ -35,7 +35,7 @@ herman.dyn.		300	IN	A	82.73.159.243
 inquiries.dyn.		300	IN	A	148.75.237.47
 ip4.dyn.		300	IN	A	195.201.101.101
 jor.dyn.		300	IN	A	172.168.12.13
-josh.dyn.		300	IN	A	85.5.43.143
+josh.dyn.		300	IN	A	188.62.16.178
 kf4nvx.dyn.		300	IN	A	68.235.230.84
 kf4nvx.dyn.		300	IN	AAAA	2600:1700:5f90:9930::16
 libre.dyn.		300	IN	A	189.155.77.63
@@ -43,7 +43,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.144.74.120
+micheal65536.dyn.	300	IN	A	88.145.84.190
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.165.170
 mulu-stick.dyn.		300	IN	A	46.95.165.170
