@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	67.133.97.99
+albuic.dyn.		300	IN	A	67.133.97.101
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -116,4 +116,4 @@ wildhorse.dyn.		300	IN	A	59.101.5.30
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	79.242.90.160
+zufriedenheit.dyn.	300	IN	A	46.88.36.191
