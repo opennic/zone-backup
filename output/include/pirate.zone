@@ -80,7 +80,7 @@ monkey.pirate.		86400	IN	A	62.73.84.53
 www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
-nightshade.pirate.	86400	IN	A	59.101.5.30
+nightshade.pirate.	86400	IN	A	210.10.129.142
 nil.pirate.		86400	IN	A	155.254.33.249
 nnm-club.pirate.	86400	IN	A	81.17.30.22
 nudelkurre.pirate.	86400	IN	A	176.10.159.74
@@ -117,12 +117,12 @@ sjong.pirate.		86400	IN	A	84.209.2.104
 soportered.pirate.	86400	IN	NS	soportered.dyndns.org.
 space.pirate.		86400	IN	NS	ns1.lyci.de.
 space.pirate.		86400	IN	NS	ns2.lyci.de.
+spectral.pirate.	86400	IN	A	80.67.181.129
 spectral.pirate.	86400	IN	TXT	"v=spf1 a mx ip4:80.67.181.129 ip6:2001:913:1fff:ffff::b:d12a -all"
 spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-spectral.pirate.	86400	IN	A	80.67.181.129
-*.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-spikestradale.pirate.	86400	IN	A	59.101.5.30
+*.spectral.pirate.	86400	IN	A	80.67.181.129
+spikestradale.pirate.	86400	IN	A	210.10.129.142
 test.pirate.		86400	IN	A	127.0.0.1
 torr.pirate.		86400	IN	A	173.212.234.232
 torr.pirate.		86400	IN	AAAA	2a02:c207:2014:4260::1
