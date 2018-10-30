@@ -16,7 +16,6 @@ creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	64.83.180.242
-darkcodi.dyn.		300	IN	A	139.59.211.104
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
 digitalfarms.dyn.	300	IN	A	45.33.65.68
@@ -42,7 +41,7 @@ localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.144.75.83
+micheal65536.dyn.	300	IN	A	88.144.72.83
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.163.17
 mulu-stick.dyn.		300	IN	A	46.95.163.17
