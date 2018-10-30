@@ -172,8 +172,6 @@ www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 rhieandjosh.libre.	0	IN	A	210.10.129.142
 rhiekipedia.libre.	0	IN	A	210.10.129.142
 rhikipedia.libre.	0	IN	A	210.10.129.142
-rizoma.libre.		0	IN	A	185.183.96.157
-rizoma.libre.		0	IN	A	185.243.112.240
 secretum.libre.		0	IN	A	23.236.62.147
 singlemr.libre.		0	IN	NS	ns2.opennic.glue.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
