@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540414501 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1540954081 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -22,6 +22,8 @@ abraham.cyb.		86400	IN	A	5.39.20.236
 www.abraham.cyb.	86400	IN	CNAME	abraham.cyb.
 abysmal.cyb.		86400	IN	A	162.243.149.95
 adler.cyb.		86400	IN	AAAA	2001:470:70:a2f::2
+adrien.cyb.		86400	IN	A	192.168.1.1
+local.adrien.cyb.	86400	IN	A	192.168.1.1
 albino.cyb.		86400	IN	A	192.30.252.153
 albino.cyb.		86400	IN	A	192.30.252.154
 www.albino.cyb.		86400	IN	CNAME	albino.cyb.
