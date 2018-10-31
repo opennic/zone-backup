@@ -140,7 +140,6 @@ www.whereisthe.pirate.	86400	IN	A	51.15.195.2
 www.windowsadmin.pirate. 86400	IN	CNAME	www.remoteshaman.com.
 xn--wxa.pirate.		86400	IN	A	37.59.68.48
 xn--wxa.pirate.		86400	IN	AAAA	2001:41d0:1:891b::2
-you-are-a.pirate.	86400	IN	A	163.172.185.51
 youarea.pirate.		86400	IN	A	195.201.101.101
 www.youarea.pirate.	86400	IN	A	195.201.101.101
 yuanjiazhao.pirate.	86400	IN	NS	ns1.geoscaling.com.
