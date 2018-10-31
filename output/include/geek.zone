@@ -91,7 +91,6 @@ ipfs.geek.		86400	IN	A	5.132.191.104
 www.itadmin.geek.	86400	IN	CNAME	www.remoteshaman.com.
 www.itmag.geek.		86400	IN	CNAME	www.remoteshaman.com.
 www.itshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
-ivan.geek.		86400	IN	A	139.59.211.104
 iwact.geek.		86400	IN	A	91.160.152.192
 janssen.geek.		86400	IN	NS	upc.nouwen.name.
 janssen.geek.		86400	IN	NS	gejanssen.nouwen.name.
@@ -127,7 +126,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	88.144.74.201
+micheal65536.geek.	86400	IN	A	88.144.72.189
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 mymail.geek.		86400	IN	NS	ns21.cloudns.net.
