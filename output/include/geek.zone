@@ -80,8 +80,8 @@ horrible.geek.		86400	IN	A	104.198.14.52
 http-web.geek.		86400	IN	A	50.116.17.96
 huesken.geek.		86400	IN	A	88.159.139.160
 iam.geek.		86400	IN	A	94.156.142.136
-ima.geek.		86400	IN	A	172.217.9.129
 ima.geek.		86400	IN	TXT	"bruce-lab.blogspot.om"
+ima.geek.		86400	IN	A	172.217.9.129
 info.geek.		86400	IN	NS	ns1.afraid.org.
 info.geek.		86400	IN	NS	ns2.afraid.org.
 info.geek.		86400	IN	NS	ns3.afraid.org.
@@ -125,7 +125,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	88.144.72.189
+micheal65536.geek.	86400	IN	A	88.144.75.146
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 mymail.geek.		86400	IN	NS	ns21.cloudns.net.
