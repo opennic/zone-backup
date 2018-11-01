@@ -7,7 +7,7 @@ azziez-remote.dyn.	300	IN	A	104.137.80.102
 bristow.dyn.		300	IN	A	79.116.200.89
 bristow.dyn.		300	IN	AAAA	2a02:2f0e:d46f:ffff::bc18:b410
 cdn.dyn.		300	IN	A	114.4.216.59
-chadnet.dyn.		300	IN	A	59.101.10.114
+chadnet.dyn.		300	IN	A	59.101.3.1
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	188.76.45.173
@@ -45,14 +45,14 @@ micheal65536.dyn.	300	IN	A	88.144.72.189
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.163.17
 mulu-stick.dyn.		300	IN	A	46.95.163.17
-nightshade.dyn.		300	IN	A	59.101.10.114
+nightshade.dyn.		300	IN	A	59.101.3.1
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns2.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns3.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns4.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns5.geoscaling.com.
-nuracing.dyn.		300	IN	A	59.101.10.114
-obsceneshoes.dyn.	300	IN	A	59.101.10.114
+nuracing.dyn.		300	IN	A	59.101.8.59
+obsceneshoes.dyn.	300	IN	A	59.101.8.59
 opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
@@ -66,13 +66,13 @@ reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	A	173.160.58.202
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
-rhieandjosh.dyn.	300	IN	A	59.101.10.114
+rhieandjosh.dyn.	300	IN	A	59.101.8.59
 rt-srb.dyn.		300	IN	A	184.5.62.184
 schpountz.dyn.		300	IN	A	176.153.86.212
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
-spikestradale.dyn.	300	IN	A	59.101.10.114
+spikestradale.dyn.	300	IN	A	59.101.8.59
 startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	81.174.50.145
 subnet.dyn.		300	IN	A	91.40.220.149
@@ -112,4 +112,4 @@ wildhorse.dyn.		300	IN	A	59.101.2.70
 www.dyn.		300	IN	A	173.160.58.202
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	79.242.91.14
+zufriedenheit.dyn.	300	IN	A	79.242.91.235
