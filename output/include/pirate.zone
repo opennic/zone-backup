@@ -71,11 +71,10 @@ mgtow-mirror.pirate.	86400	IN	NS	ns1.mgtowmirror.ru.
 mgtow-mirror.pirate.	86400	IN	NS	ns1.mgtowmirror.611.to.
 mgtowmirror.pirate.	86400	IN	NS	ns1.mgtowmirror.ru.
 mgtowmirror.pirate.	86400	IN	NS	ns1.mgtowmirror.611.to.
-monkey.pirate.		86400	IN	A	62.73.84.53
 www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
-nightshade.pirate.	86400	IN	A	59.101.1.206
+nightshade.pirate.	86400	IN	A	210.10.128.175
 nil.pirate.		86400	IN	A	155.254.33.249
 nnm-club.pirate.	86400	IN	A	81.17.30.22
 nudelkurre.pirate.	86400	IN	A	176.10.159.74
@@ -117,7 +116,7 @@ spectral.pirate.	86400	IN	TXT	"v=spf1 a mx ip4:80.67.181.129 ip6:2001:913:1fff:f
 spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 *.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-spikestradale.pirate.	86400	IN	A	59.101.1.206
+spikestradale.pirate.	86400	IN	A	210.10.128.175
 test.pirate.		86400	IN	A	127.0.0.1
 torr.pirate.		86400	IN	A	173.212.234.232
 torr.pirate.		86400	IN	AAAA	2a02:c207:2014:4260::1

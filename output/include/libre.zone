@@ -168,14 +168,14 @@ register.libre.		0	IN	A	161.97.219.84
 register.libre.		0	IN	AAAA	2001:470:4212:1::254
 remoteshaman.libre.	0	IN	A	93.170.128.114
 www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
-rhieandjosh.libre.	0	IN	A	59.101.1.206
-rhiekipedia.libre.	0	IN	A	59.101.1.206
-rhikipedia.libre.	0	IN	A	59.101.1.206
+rhieandjosh.libre.	0	IN	A	210.10.128.175
+rhiekipedia.libre.	0	IN	A	210.10.128.175
+rhikipedia.libre.	0	IN	A	210.10.128.175
 secretum.libre.		0	IN	A	23.236.62.147
 singlemr.libre.		0	IN	NS	ns2.opennic.glue.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
 spatium.libre.		0	IN	NS	ns2.mb.os.vu.
-spikestradale.libre.	0	IN	A	59.101.1.206
+spikestradale.libre.	0	IN	A	210.10.128.175
 stateless.libre.	0	IN	A	93.204.59.61
 www.stateless.libre.	0	IN	A	93.204.59.61
 www.stranachudes.libre.	0	IN	CNAME	durdomawilnbtbai.onion.
@@ -200,7 +200,7 @@ webriq.libre.		0	IN	A	104.198.14.52
 www.wgboome.libre.	0	IN	CNAME	www5.wgboome.org.
 wiki.libre.		0	IN	A	158.69.160.165
 *.wiki.libre.		0	IN	CNAME	wiki.libre.
-wildhorse.libre.	0	IN	A	59.101.1.206
+wildhorse.libre.	0	IN	A	210.10.128.175
 wolvespackonline.libre.	0	IN	A	127.0.0.1
 public.wolvespackonline.libre. 0 IN	A	67.189.101.107
 www.libre.		0	IN	A	161.97.219.84
