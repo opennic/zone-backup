@@ -87,6 +87,8 @@ soft.oss.		86400	IN	A	31.207.72.12
 spikestradale.oss.	86400	IN	A	210.10.128.175
 syntazia.oss.		86400	IN	A	89.64.17.214
 repo.syntazia.oss.	86400	IN	A	89.64.17.214
+tamilrockers.oss.	86400	IN	NS	clay.ns.cloudflare.com.
+tamilrockers.oss.	86400	IN	NS	lily.ns.cloudflare.com.
 test.oss.		86400	IN	A	104.131.78.30
 errors.turtlecoin.oss.	86400	IN	A	104.37.195.165
 unplug.oss.		86400	IN	NS	ns1.servers.dbatley.com.

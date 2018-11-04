@@ -1,4 +1,4 @@
-albuic.dyn.		300	IN	A	216.9.110.7
+albuic.dyn.		300	IN	A	67.133.97.99
 albuic.dyn.		300	IN	AAAA	::19ff:9c82:9bf5:b587
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -78,6 +78,8 @@ startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	5.157.111.56
 subnet.dyn.		300	IN	A	91.40.218.83
 sxiii.dyn.		300	IN	A	178.76.232.222
+tamilrockers.dyn.	300	IN	NS	clay.ns.cloudflare.com.
+tamilrockers.dyn.	300	IN	NS	lily.ns.cloudflare.com.
 test.dyn.		300	IN	A	104.131.78.30
 thecreativegardens.dyn.	300	IN	A	45.33.65.68
 thecreativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
