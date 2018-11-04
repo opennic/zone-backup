@@ -92,6 +92,7 @@ errors.turtlecoin.oss.	86400	IN	A	104.37.195.165
 unplug.oss.		86400	IN	NS	ns1.servers.dbatley.com.
 unplug.oss.		86400	IN	NS	ns2.servers.dbatley.com.
 ns1.unplug.oss.unplug.oss. 86400 IN	A	46.149.19.98
+update.oss.		86400	IN	A	185.209.160.30
 utzon.oss.		86400	IN	A	84.209.2.104
 vps.oss.		86400	IN	A	185.22.153.39
 waytt.oss.		86400	IN	A	194.143.137.144
