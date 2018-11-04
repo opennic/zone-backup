@@ -1,6 +1,8 @@
 2ef42.libre.		0	IN	A	87.122.153.100
 aglaea.libre.		0	IN	A	155.94.234.2
 www.aglaea.libre.	0	IN	CNAME	aglaea.libre.
+aki.libre.		0	IN	A	35.234.127.79
+www.aki.libre.		0	IN	A	35.234.127.79
 ankit.libre.		0	IN	A	45.55.110.124
 argca.libre.		0	IN	A	172.104.59.190
 argca.libre.		0	IN	AAAA	2400:8901::f03c:91ff:fe36:7e3c
