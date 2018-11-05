@@ -10,8 +10,8 @@ example.indy.		86400	IN	A	127.0.0.1
 gwar.indy.		86400	IN	NS	ns1.gwar.indy.
 ns1.gwar.indy.		86400	IN	A	95.79.31.188
 localhost.indy.		86400	IN	A	127.0.0.1
-nightshade.indy.	86400	IN	A	210.10.129.219
-obsceneshoes.indy.	86400	IN	A	210.10.129.219
+nightshade.indy.	86400	IN	A	59.101.9.111
+obsceneshoes.indy.	86400	IN	A	59.101.9.111
 opennic.indy.		86400	IN	A	161.97.219.84
 opennic.indy.		86400	IN	AAAA	2001:470:4212:1::254
 orbitalfox.indy.	86400	IN	A	95.172.232.202
@@ -20,10 +20,10 @@ reg.indy.		86400	IN	AAAA	2001:470:4212:1::254
 register.indy.		86400	IN	A	161.97.219.84
 register.indy.		86400	IN	AAAA	2001:470:4212:1::254
 root.indy.		86400	IN	A	127.0.0.1
-spikestradale.indy.	86400	IN	A	210.10.129.219
+spikestradale.indy.	86400	IN	A	59.101.9.111
 test.indy.		86400	IN	A	104.131.78.30
 unfettered.indy.	86400	IN	A	144.172.70.181
 www.unfettered.indy.	86400	IN	A	144.172.70.181
-wildhorse.indy.		86400	IN	A	210.10.129.219
+wildhorse.indy.		86400	IN	A	59.101.9.111
 wildhorse.indy.		86400	IN	AAAA	2001:8003:2405:8c00:f427:bd08:e58b:938
 www.indy.		86400	IN	A	161.97.219.84
