@@ -103,6 +103,8 @@ kyodev.libre.		0	IN	A	144.76.206.44
 kyodev.libre.		0	IN	TXT	"_gitlab-pages-verification-code.kyodev.libre" "TXT" "gitlab-pages-verification-code=16311f889db3cca5b0af4c4ec77ac2ba"
 www.kyodev.libre.	0	IN	CNAME	kyodev.libre.
 lexo.libre.		0	IN	A	66.70.189.98
+page.library.libre.	0	IN	NS	ns1.freewha.com.
+page.library.libre.	0	IN	NS	ns2.freewha.com.
 lindon.libre.		0	IN	A	37.59.63.23
 linux.libre.		0	IN	A	186.207.68.18
 www.linux.libre.	0	IN	A	186.207.68.18
@@ -177,7 +179,6 @@ www.remoteshaman.libre.	0	IN	CNAME	www.remoteshaman.com.
 rhieandjosh.libre.	0	IN	A	59.101.3.50
 rhiekipedia.libre.	0	IN	A	59.101.3.50
 rhikipedia.libre.	0	IN	A	59.101.3.50
-rozen.libre.		0	IN	A	51.255.78.24
 secretum.libre.		0	IN	A	23.236.62.147
 singlemr.libre.		0	IN	NS	ns2.opennic.glue.
 spatium.libre.		0	IN	NS	ns1.mb.os.vu.
