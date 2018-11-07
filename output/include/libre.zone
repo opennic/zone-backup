@@ -51,8 +51,8 @@ den.libre.		0	IN	A	178.76.232.222
 dimitrov.libre.		0	IN	A	87.118.159.27
 dimitrov.libre.		0	IN	RP	87.118.159.27.libre. .
 docbit.libre.		0	IN	A	50.116.17.96
-drakpa.libre.		0	IN	A	82.226.82.83
 drakpa.libre.		0	IN	AAAA	2a01:e35:2e25:2530::1
+drakpa.libre.		0	IN	A	82.226.82.83
 edo.libre.		0	IN	A	5.100.231.23
 example.libre.		0	IN	A	127.0.0.1
 fibre.libre.		0	IN	NS	ns1.mb.os.vu.
