@@ -100,9 +100,6 @@ register.pirate.	86400	IN	A	127.0.0.1
 www.remoteadmin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 www.remotehelp.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 www.remoteshaman.pirate. 86400	IN	CNAME	www.remoteshaman.com.
-sandbox.pirate.		86400	IN	NS	ns1.newalive.net.
-sandbox.pirate.		86400	IN	NS	ns2.newalive.net.
-sandbox.pirate.		86400	IN	NS	ns3.newalive.net.
 see.pirate.		86400	IN	NS	ns1.afraid.org.
 see.pirate.		86400	IN	NS	ns2.afraid.org.
 see.pirate.		86400	IN	NS	ns3.afraid.org.
