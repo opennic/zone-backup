@@ -126,10 +126,6 @@ movies.libre.		0	IN	A	173.212.246.189
 mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 nightshade.libre.	0	IN	A	59.101.3.50
-nly.libre.		0	IN	NS	ns1.afraid.org.
-nly.libre.		0	IN	NS	ns2.afraid.org.
-nly.libre.		0	IN	NS	ns3.afraid.org.
-nly.libre.		0	IN	NS	ns4.afraid.org.
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns3.geoscaling.com.
