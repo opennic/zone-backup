@@ -204,6 +204,8 @@ sha.geek.		86400	IN	TXT	"dnslink=" "/ipfs/QmYCvbfNbCwFR45HiNP45rwJgvatpiW38D961L
 social.geek.		86400	IN	A	69.197.155.38
 spikestradale.geek.	86400	IN	A	59.101.3.50
 srvme.geek.		86400	IN	A	127.0.0.1
+stlsnk.geek.		86400	IN	A	217.182.76.62
+www.stlsnk.geek.	86400	IN	A	217.182.76.62
 talk.geek.		86400	IN	A	216.17.244.224
 cdn.talk.geek.		86400	IN	CNAME	cdn.publicmirrors.org.
 www.talk.geek.		86400	IN	CNAME	talk.geek.
