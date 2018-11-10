@@ -20,7 +20,6 @@ datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
 digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-diz.dyn.		300	IN	A	45.30.159.243
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
 enter.dyn.		300	IN	A	127.0.0.10
@@ -39,7 +38,6 @@ kf4nvx.dyn.		300	IN	AAAA	2600:1700:5f90:9930::16
 libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
-mcb.dyn.		300	IN	A	91.97.115.33
 me.dyn.			300	IN	A	86.124.246.114
 micheal65536.dyn.	300	IN	A	79.64.31.171
 momoka.dyn.		300	IN	A	181.110.7.225
