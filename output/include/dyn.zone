@@ -18,8 +18,8 @@ crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+digitalfarms.dyn.	300	IN	A	45.33.65.68
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.3.10.87
 enter.dyn.		300	IN	A	127.0.0.10
