@@ -39,7 +39,7 @@ libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.144.73.110
+micheal65536.dyn.	300	IN	A	88.144.73.60
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.163.17
 mulu-stick.dyn.		300	IN	A	46.95.163.17
@@ -67,7 +67,6 @@ register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
 rhieandjosh.dyn.	300	IN	A	59.101.3.50
 rt-srb.dyn.		300	IN	A	184.5.62.184
-schpountz.dyn.		300	IN	A	176.153.86.212
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
