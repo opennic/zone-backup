@@ -10,6 +10,8 @@ abraham.cyb.		86400	IN	A	5.39.20.236
 www.abraham.cyb.	86400	IN	CNAME	abraham.cyb.
 abysmal.cyb.		86400	IN	A	162.243.149.95
 adler.cyb.		86400	IN	AAAA	2001:470:70:a2f::2
+admin.cyb.		86400	IN	A	173.82.152.104
+www.admin.cyb.		86400	IN	CNAME	admin.cyb.
 adrien.cyb.		86400	IN	A	192.168.1.61
 albino.cyb.		86400	IN	A	192.30.252.153
 albino.cyb.		86400	IN	A	192.30.252.154
@@ -23,6 +25,8 @@ b.cyb.			86400	IN	A	80.211.213.11
 www.b.cyb.		86400	IN	A	80.211.213.11
 www.b2w.cyb.		86400	IN	A	186.207.68.18
 test.b3nsn0w.cyb.	86400	IN	CNAME	sotetjovo.blog.hu.
+baidu.cyb.		86400	IN	A	103.201.27.10
+www.baidu.cyb.		86400	IN	CNAME	baidu.cyb.
 barash.cyb.		86400	IN	A	80.211.213.113
 www.barash.cyb.		86400	IN	A	80.211.213.113
 bl.cyb.			86400	IN	A	5.9.155.75
@@ -62,6 +66,7 @@ dra.cyb.		86400	IN	A	192.30.252.153
 dra.cyb.		86400	IN	A	192.30.252.154
 driveplay.cyb.		86400	IN	CNAME	driveplayus.herokuapp.com.
 www.driveplay.cyb.	86400	IN	CNAME	driveplayus.herokuapp.com.
+edu.cyb.		86400	IN	A	103.201.27.10
 erethon.cyb.		86400	IN	A	163.172.24.171
 escabox.cyb.		86400	IN	NS	ns1.freewha.com.
 escabox.cyb.		86400	IN	NS	ns2.freewha.com.
