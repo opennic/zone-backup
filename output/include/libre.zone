@@ -195,8 +195,6 @@ www.unixzone.libre.	0	IN	CNAME	www.remoteshaman.com.
 vaterland.libre.	0	IN	A	96.126.106.203
 vaterland.libre.	0	IN	TXT	"Die Erweiterung"
 www.vaterland.libre.	0	IN	A	96.126.106.203
-vercors.libre.		0	IN	NS	ns4.ikoula.com.
-vercors.libre.		0	IN	NS	ns5.ikoula.com.
 vertige-moderne.libre.	0	IN	TXT	"gitlab-pages-verification-code=b07514aae9fcde4768a2384c629456bc"
 vps.libre.		0	IN	A	185.22.153.39
 waffle.libre.		0	IN	A	204.152.206.250
