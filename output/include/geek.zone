@@ -19,8 +19,8 @@ beardsell.geek.		86400	IN	A	85.10.194.147
 greenpark.beardsell.geek. 86400	IN	A	88.97.37.155
 www.beardsell.geek.	86400	IN	CNAME	beardsell.geek.
 bodi-office.geek.	86400	IN	A	78.46.69.149
-brain.geek.		86400	IN	A	185.121.177.177
 brain.geek.		86400	IN	AAAA	2a05:dfc7:5::53
+brain.geek.		86400	IN	A	185.121.177.177
 breclove.geek.		86400	IN	A	5.39.20.236
 www.breclove.geek.	86400	IN	CNAME	breclove.geek.
 test.byaeger.geek.	86400	IN	A	8.8.8.8
@@ -126,7 +126,7 @@ vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 maescool.geek.		86400	IN	NS	ns1.ophidian.be.
 maescool.geek.		86400	IN	NS	ns2.ophidian.be.
 maescool.geek.		86400	IN	NS	ns3.ophidian.be.
-micheal65536.geek.	86400	IN	A	88.145.85.18
+micheal65536.geek.	86400	IN	A	79.64.29.229
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 mymail.geek.		86400	IN	NS	ns21.cloudns.net.
@@ -168,8 +168,6 @@ p4bl0.geek.		86400	IN	A	91.121.16.67
 p4bl0.geek.		86400	IN	AAAA	2001:41d0:1:6343::cafe
 p5n.geek.		86400	IN	NS	ns1.p5n.pp.ru.
 p5n.geek.		86400	IN	NS	ns2.p5n.pp.ru.
-patate.geek.		86400	IN	A	176.153.86.212
-patate.geek.		86400	IN	TXT	"google-site-verification=rtdu2T8i_Q62ArfwtTv8B-WhJCPfb9ee4yAS0XQ9vQw"
 peerz.geek.		86400	IN	A	24.137.85.135
 web.peerz.geek.		86400	IN	A	24.137.85.135
 miner.penguinator.geek.	86400	IN	A	91.77.164.245
@@ -183,8 +181,8 @@ phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
 poppop.geek.		86400	IN	A	81.187.19.191
 radio.geek.		86400	IN	NS	ns1.sourpuss.net.
 radio.geek.		86400	IN	NS	ns2.sourpuss.net.
-reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
 reg.geek.		86400	IN	A	161.97.219.84
+reg.geek.		86400	IN	AAAA	2001:470:4212:1::254
 register.geek.		86400	IN	A	161.97.219.84
 register.geek.		86400	IN	AAAA	2001:470:4212:1::254
 www.remoteshaman.geek.	86400	IN	CNAME	www.remoteshaman.com.
