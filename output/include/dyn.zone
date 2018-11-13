@@ -1,5 +1,5 @@
-albuic.dyn.		300	IN	A	208.59.153.12
-albuic.dyn.		300	IN	AAAA	2620:f3:8000:500d::f35
+albuic.dyn.		300	IN	A	104.194.97.5
+albuic.dyn.		300	IN	AAAA	2620:f3:8000:500d::735
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
 athome.dyn.		300	IN	A	77.56.251.145
@@ -21,7 +21,7 @@ ddns.dyn.		300	IN	A	161.97.219.84
 digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 dns.dyn.		300	IN	A	161.97.219.84
-enco.dyn.		300	IN	A	84.3.10.87
+enco.dyn.		300	IN	A	84.0.40.53
 enter.dyn.		300	IN	A	127.0.0.10
 example.dyn.		300	IN	A	127.0.0.1
 flour.dyn.		300	IN	A	45.33.65.68
@@ -60,7 +60,7 @@ pheralcus.dyn.		300	IN	A	78.35.223.232
 powo01-router.dyn.	300	IN	AAAA	2a00:6020:1000:3:0:9f17:acd9:9f4b
 powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13f4:5100:4849:43ff:fe49:79d7
 rage.dyn.		300	IN	A	47.195.233.160
-recor.dyn.		300	IN	A	84.3.10.87
+recor.dyn.		300	IN	A	84.0.40.53
 reg.dyn.		300	IN	A	173.160.58.202
 reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	A	173.160.58.202
