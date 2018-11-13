@@ -73,7 +73,7 @@ skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.8.67
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	88.149.235.200
+stemby.dyn.		300	IN	A	146.241.209.50
 subnet.dyn.		300	IN	A	46.85.16.32
 sxiii.dyn.		300	IN	A	178.76.232.222
 tamilrockers.dyn.	300	IN	NS	clay.ns.cloudflare.com.
