@@ -111,6 +111,7 @@ whitedwarf.dyn.		300	IN	A	67.249.202.109
 whitedwarf.dyn.		300	IN	AAAA	2001:470:1f07:2b9:e812:447d:428:7ca0
 wildhorse.dyn.		300	IN	A	59.101.2.162
 www.dyn.		300	IN	A	173.160.58.202
+yelnah.dyn.		300	IN	A	118.209.203.123
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
 zufriedenheit.dyn.	300	IN	A	79.242.90.161
