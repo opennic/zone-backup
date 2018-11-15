@@ -1,9 +1,5 @@
 crumax.indy.		86400	IN	A	127.0.0.1
 den.indy.		86400	IN	A	178.76.232.222
-directoriosur.indy.	86400	IN	NS	ns1.unaux.com.
-directoriosur.indy.	86400	IN	NS	ns2.unaux.com.
-dir.directoriosur.indy.	86400	IN	NS	ns1.unaux.com.
-dir.directoriosur.indy.	86400	IN	NS	ns2.unaux.com.
 www.durdom.indy.	86400	IN	CNAME	durdomawilnbtbai.onion.
 eddie.indy.		86400	IN	AAAA	2a03:b0c0:3:d0::b61:1
 example.indy.		86400	IN	A	127.0.0.1
@@ -24,6 +20,6 @@ spikestradale.indy.	86400	IN	A	59.101.2.162
 test.indy.		86400	IN	A	104.131.78.30
 unfettered.indy.	86400	IN	A	144.172.70.181
 www.unfettered.indy.	86400	IN	A	144.172.70.181
-wildhorse.indy.		86400	IN	A	59.101.2.162
 wildhorse.indy.		86400	IN	AAAA	2001:8003:2405:8c00:f427:bd08:e58b:938
+wildhorse.indy.		86400	IN	A	59.101.2.162
 www.indy.		86400	IN	A	161.97.219.84
