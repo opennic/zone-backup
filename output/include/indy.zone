@@ -20,6 +20,6 @@ spikestradale.indy.	86400	IN	A	59.101.2.162
 test.indy.		86400	IN	A	104.131.78.30
 unfettered.indy.	86400	IN	A	144.172.70.181
 www.unfettered.indy.	86400	IN	A	144.172.70.181
-wildhorse.indy.		86400	IN	A	59.101.2.162
 wildhorse.indy.		86400	IN	AAAA	2001:8003:2405:8c00:f427:bd08:e58b:938
+wildhorse.indy.		86400	IN	A	59.101.2.162
 www.indy.		86400	IN	A	161.97.219.84
