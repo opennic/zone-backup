@@ -118,8 +118,8 @@ spikestradale.pirate.	86400	IN	A	59.101.2.162
 tamilrockers.pirate.	86400	IN	NS	clay.ns.cloudflare.com.
 tamilrockers.pirate.	86400	IN	NS	lily.ns.cloudflare.com.
 test.pirate.		86400	IN	A	127.0.0.1
-torr.pirate.		86400	IN	A	173.212.234.232
 torr.pirate.		86400	IN	AAAA	2a02:c207:2014:4260::1
+torr.pirate.		86400	IN	A	173.212.234.232
 torrent.pirate.		86400	IN	NS	ns1.host.geek.
 torrent.pirate.		86400	IN	NS	ns2.host.geek.
 www.unix.pirate.	86400	IN	CNAME	www.remoteshaman.com.
