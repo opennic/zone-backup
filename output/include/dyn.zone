@@ -18,8 +18,8 @@ crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
-digitalfarms.dyn.	300	IN	A	45.33.65.68
 digitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+digitalfarms.dyn.	300	IN	A	45.33.65.68
 dns.dyn.		300	IN	A	161.97.219.84
 enco.dyn.		300	IN	A	84.0.40.53
 enter.dyn.		300	IN	A	127.0.0.10
@@ -73,7 +73,7 @@ skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.2.162
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	78.134.11.138
+stemby.dyn.		300	IN	A	146.241.166.193
 subnet.dyn.		300	IN	A	46.85.16.32
 sxiii.dyn.		300	IN	A	178.76.232.222
 tamilrockers.dyn.	300	IN	NS	clay.ns.cloudflare.com.
