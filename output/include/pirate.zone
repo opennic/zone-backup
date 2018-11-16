@@ -75,6 +75,7 @@ mgtowmirror.pirate.	86400	IN	NS	ns1.mgtowmirror.611.to.
 www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
+nemo.pirate.		86400	IN	A	84.211.226.1
 nightshade.pirate.	86400	IN	A	59.101.2.162
 nil.pirate.		86400	IN	A	155.254.33.249
 nnm-club.pirate.	86400	IN	A	81.17.30.22

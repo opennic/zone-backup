@@ -129,6 +129,7 @@ mps.libre.		0	IN	NS	ns3.afraid.org.
 mps.libre.		0	IN	NS	ns4.afraid.org.
 mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
+nemo.libre.		0	IN	A	84.211.226.1
 nightshade.libre.	0	IN	A	59.101.2.162
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
