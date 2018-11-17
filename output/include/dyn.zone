@@ -39,7 +39,7 @@ libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.145.85.78
+micheal65536.dyn.	300	IN	A	88.145.87.195
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.163.17
 mulu-stick.dyn.		300	IN	A	46.95.163.17
@@ -74,7 +74,7 @@ skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
 spikestradale.dyn.	300	IN	A	59.101.2.162
 startstop.dyn.		300	IN	A	143.176.243.15
-stemby.dyn.		300	IN	A	212.124.167.67
+stemby.dyn.		300	IN	A	88.147.18.96
 subnet.dyn.		300	IN	A	46.85.16.32
 sxiii.dyn.		300	IN	A	178.76.232.222
 tamilrockers.dyn.	300	IN	NS	clay.ns.cloudflare.com.
