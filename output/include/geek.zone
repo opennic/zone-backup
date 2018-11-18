@@ -19,8 +19,8 @@ beardsell.geek.		86400	IN	A	85.10.194.147
 greenpark.beardsell.geek. 86400	IN	A	88.97.37.155
 www.beardsell.geek.	86400	IN	CNAME	beardsell.geek.
 bodi-office.geek.	86400	IN	A	78.46.69.149
-brain.geek.		86400	IN	A	185.121.177.177
 brain.geek.		86400	IN	AAAA	2a05:dfc7:5::53
+brain.geek.		86400	IN	A	185.121.177.177
 breclove.geek.		86400	IN	A	5.39.20.236
 www.breclove.geek.	86400	IN	CNAME	breclove.geek.
 test.byaeger.geek.	86400	IN	A	8.8.8.8
@@ -226,6 +226,7 @@ vsta.geek.		86400	IN	A	212.47.245.167
 was.geek.		86400	IN	A	62.210.170.131
 waytt.geek.		86400	IN	A	194.143.137.144
 wildhorse.geek.		86400	IN	A	59.101.2.162
+a.wonky.geek.		86400	IN	CNAME	rt.com.
 www.geek.		86400	IN	A	161.97.219.84
 www.geek.		86400	IN	AAAA	2001:470:4212:1::254
 yourtilde.geek.		86400	IN	NS	b.ns.buddyns.com.
