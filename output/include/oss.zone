@@ -102,6 +102,7 @@ ns1.unplug.oss.unplug.oss. 86400 IN	A	46.149.19.98
 update.oss.		86400	IN	A	185.209.160.30
 utzon.oss.		86400	IN	A	84.209.2.104
 vps.oss.		86400	IN	A	185.22.153.39
+antje.walr.oss.		86400	IN	TXT	"NDR"
 waytt.oss.		86400	IN	A	194.143.137.144
 www.wgboome.oss.	86400	IN	CNAME	www0.wgboome.org.
 wizardamigos.oss.	86400	IN	A	78.47.113.218

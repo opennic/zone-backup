@@ -1,3 +1,6 @@
+charts.indy.		86400	IN	TXT	"7777"
+india.charts.indy.	86400	IN	NS	pd9e2ff5b.dip0.t-ipconnect.de.
+music.charts.indy.	86400	IN	CNAME	rt.com.
 crumax.indy.		86400	IN	A	127.0.0.1
 den.indy.		86400	IN	A	178.76.232.222
 www.durdom.indy.	86400	IN	CNAME	durdomawilnbtbai.onion.
