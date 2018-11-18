@@ -130,6 +130,9 @@ mps.libre.		0	IN	NS	ns4.afraid.org.
 mycelium.libre.		0	IN	A	51.254.211.71
 mycelium.libre.		0	IN	AAAA	2001:41d0:302:2000::1647
 nemo.libre.		0	IN	A	84.211.226.1
+net.libre.		0	IN	TXT	"555"
+net.libre.		0	IN	TXT	"999"
+www.net.libre.		0	IN	TXT	"txt 999"
 nightshade.libre.	0	IN	A	59.101.2.162
 nokeh.libre.		0	IN	NS	ns1.geoscaling.com.
 nokeh.libre.		0	IN	NS	ns2.geoscaling.com.
@@ -146,8 +149,8 @@ media.null.libre.	0	IN	A	73.11.11.6
 www.null.libre.		0	IN	A	73.11.11.6
 nuracing.libre.		0	IN	A	59.101.2.162
 obsceneshoes.libre.	0	IN	A	59.101.2.162
-opennic.libre.		0	IN	A	161.97.219.84
 opennic.libre.		0	IN	AAAA	2001:470:4212:1::254
+opennic.libre.		0	IN	A	161.97.219.84
 parabola.libre.		0	IN	A	190.160.6.92
 git.parabola.libre.	0	IN	A	190.160.6.92
 labs.parabola.libre.	0	IN	A	190.160.6.92
