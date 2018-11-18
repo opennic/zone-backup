@@ -32,6 +32,7 @@ www.durdom.pirate.	86400	IN	CNAME	durdomawilnbtbai.onion.
 eddie.pirate.		86400	IN	AAAA	2a03:b0c0:3:d0::b61:1
 edo.pirate.		86400	IN	A	5.100.231.23
 example.pirate.		86400	IN	A	127.0.0.1
+www.eyeflap.pirate.	86400	IN	CNAME	rt.com.
 flowmail.pirate.	86400	IN	A	138.201.159.27
 free.pirate.		86400	IN	NS	ns6529.hostgator.com.
 free.pirate.		86400	IN	NS	ns6530.hostgator.com.
