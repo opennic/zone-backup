@@ -19,8 +19,8 @@ beardsell.geek.		86400	IN	A	85.10.194.147
 greenpark.beardsell.geek. 86400	IN	A	88.97.37.155
 www.beardsell.geek.	86400	IN	CNAME	beardsell.geek.
 bodi-office.geek.	86400	IN	A	78.46.69.149
-brain.geek.		86400	IN	A	185.121.177.177
 brain.geek.		86400	IN	AAAA	2a05:dfc7:5::53
+brain.geek.		86400	IN	A	185.121.177.177
 breclove.geek.		86400	IN	A	5.39.20.236
 www.breclove.geek.	86400	IN	CNAME	breclove.geek.
 test.byaeger.geek.	86400	IN	A	8.8.8.8
@@ -140,7 +140,7 @@ diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
 wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
 nemanja.geek.		86400	IN	A	104.31.78.59
-nightshade.geek.	86400	IN	A	59.101.4.170
+nightshade.geek.	86400	IN	A	59.101.3.67
 nir.geek.		86400	IN	A	192.30.252.153
 noettore.geek.		86400	IN	NS	server1.dreucci.it.
 noettore.geek.		86400	IN	NS	server2.dreucci.it.
@@ -148,7 +148,7 @@ null.geek.		86400	IN	A	138.201.159.27
 dev.null.geek.		86400	IN	A	138.201.159.27
 nuxware.geek.		86400	IN	NS	ns1.x10hosting.com.
 nuxware.geek.		86400	IN	NS	ns2.x10hosting.com.
-obsceneshoes.geek.	86400	IN	A	59.101.4.170
+obsceneshoes.geek.	86400	IN	A	59.101.3.67
 one.geek.		86400	IN	A	192.243.126.209
 opennic.geek.		86400	IN	A	161.97.219.84
 opennic.geek.		86400	IN	AAAA	2001:470:4212:1::254
@@ -199,7 +199,7 @@ sdf.geek.		86400	IN	A	205.166.94.15
 search.geek.		86400	IN	A	69.197.155.38
 sha.geek.		86400	IN	TXT	"dnslink=" "/ipfs/QmYCvbfNbCwFR45HiNP45rwJgvatpiW38D961L5qAhUM5Y"
 social.geek.		86400	IN	A	69.197.155.38
-spikestradale.geek.	86400	IN	A	59.101.4.170
+spikestradale.geek.	86400	IN	A	59.101.3.67
 srvme.geek.		86400	IN	A	127.0.0.1
 stlsnk.geek.		86400	IN	A	217.182.76.62
 www.stlsnk.geek.	86400	IN	A	217.182.76.62
@@ -225,7 +225,7 @@ vovanium.geek.		86400	IN	A	95.165.139.85
 vsta.geek.		86400	IN	A	212.47.245.167
 was.geek.		86400	IN	A	62.210.170.131
 waytt.geek.		86400	IN	A	194.143.137.144
-wildhorse.geek.		86400	IN	A	59.101.4.170
+wildhorse.geek.		86400	IN	A	59.101.3.67
 a.wonky.geek.		86400	IN	CNAME	rt.com.
 www.geek.		86400	IN	A	161.97.219.84
 www.geek.		86400	IN	AAAA	2001:470:4212:1::254
