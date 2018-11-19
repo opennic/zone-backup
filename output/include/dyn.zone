@@ -109,9 +109,9 @@ valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.61.14
 vovanium.dyn.		300	IN	A	95.165.139.85
+web.dyn.		300	IN	A	217.226.255.91
 web.dyn.		300	IN	TXT	"8888"
 web.dyn.		300	IN	RP	support.desk.on.holiday. .
-web.dyn.		300	IN	A	217.226.255.91
 wildhorse.dyn.		300	IN	A	59.101.2.162
 www.dyn.		300	IN	A	173.160.58.202
 yelnah.dyn.		300	IN	A	118.209.203.123
