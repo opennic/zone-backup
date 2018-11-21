@@ -96,8 +96,8 @@ janssen.geek.		86400	IN	NS	upc.nouwen.name.
 janssen.geek.		86400	IN	NS	gejanssen.nouwen.name.
 jeditemple.geek.	86400	IN	A	109.201.140.97
 www.jeditemple.geek.	86400	IN	A	109.201.140.97
-jolly.geek.		86400	IN	AAAA	fe80::fcfd:48ff:fe0e:baf6
 jolly.geek.		86400	IN	A	72.14.186.246
+jolly.geek.		86400	IN	AAAA	fe80::fcfd:48ff:fe0e:baf6
 jos.geek.		86400	IN	NS	us.nouwen.name.
 jos.geek.		86400	IN	NS	ns1.nouwen.name.
 josh.geek.		86400	IN	AAAA	2a02:1205:5074:8ce0:9f0e:f0d9:657b:2096
