@@ -83,7 +83,8 @@ fheutest.cyb.		86400	IN	A	185.176.43.84
 www.fheutest.cyb.	86400	IN	A	185.176.43.84
 fiber.cyb.		86400	IN	A	149.56.156.92
 www.fiber.cyb.		86400	IN	CNAME	fiber.cyb.
-flewkey.cyb.		86400	IN	A	184.71.141.170
+flewkey.cyb.		86400	IN	CNAME	2a03.party.
+www.flewkey.cyb.	86400	IN	CNAME	2a03.party.
 www.g1.cyb.		86400	IN	A	186.207.68.18
 gz.cyb.			86400	IN	NS	aiden.ns.cloudflare.com.
 gz.cyb.			86400	IN	NS	ruth.ns.cloudflare.com.
@@ -198,7 +199,5 @@ wf.cyb.			86400	IN	A	155.254.49.201
 www.wf.cyb.		86400	IN	CNAME	wf.cyb.
 whitedwarf.cyb.		86400	IN	A	67.249.202.109
 worstguyat.cyb.		86400	IN	CNAME	antoine.kallab.com.
-xn--h4h.cyb.		86400	IN	A	184.71.141.170
-www.xn--h4h.cyb.	86400	IN	A	184.71.141.170
 xn--hlrw28c.cyb.	86400	IN	A	198.55.114.189
 y0sh.cyb.		86400	IN	A	37.59.61.135
