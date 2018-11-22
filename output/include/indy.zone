@@ -21,6 +21,8 @@ register.indy.		86400	IN	AAAA	2001:470:4212:1::254
 root.indy.		86400	IN	A	127.0.0.1
 spikestradale.indy.	86400	IN	A	59.101.6.209
 test.indy.		86400	IN	A	104.131.78.30
+tevend.indy.		86400	IN	NS	dns1.freehostia.com.
+tevend.indy.		86400	IN	NS	dns2.freehostia.com.
 unfettered.indy.	86400	IN	A	144.172.70.181
 www.unfettered.indy.	86400	IN	A	144.172.70.181
 wildhorse.indy.		86400	IN	A	59.101.6.209
