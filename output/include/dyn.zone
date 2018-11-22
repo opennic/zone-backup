@@ -47,7 +47,7 @@ mulu-stick.dyn.		300	IN	A	77.2.31.194
 nemo.dyn.		300	IN	A	84.211.226.1
 neo.dyn.		300	IN	A	93.204.50.237
 neo.dyn.		300	IN	TXT	"888"
-nightshade.dyn.		300	IN	A	59.101.5.221
+nightshade.dyn.		300	IN	A	59.101.6.209
 nly.dyn.		300	IN	A	122.177.80.118
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns2.geoscaling.com.
@@ -55,8 +55,8 @@ nokeh.dyn.		300	IN	NS	ns3.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns4.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns5.geoscaling.com.
 noone.dyn.		300	IN	A	185.222.202.139
-nuracing.dyn.		300	IN	A	59.101.5.221
-obsceneshoes.dyn.	300	IN	A	59.101.5.221
+nuracing.dyn.		300	IN	A	59.101.6.209
+obsceneshoes.dyn.	300	IN	A	59.101.6.209
 opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
@@ -70,12 +70,12 @@ reg.dyn.		300	IN	AAAA	2001:470:f032:1::254
 register.dyn.		300	IN	A	173.160.58.202
 register.dyn.		300	IN	AAAA	2001:470:f032:1::254
 retailtherapy.dyn.	300	IN	A	70.183.225.17
-rhieandjosh.dyn.	300	IN	A	59.101.5.221
+rhieandjosh.dyn.	300	IN	A	59.101.6.209
 rt-srb.dyn.		300	IN	A	184.5.62.184
 sjvdan.dyn.		300	IN	A	24.152.144.151
 skynet.dyn.		300	IN	A	123.243.233.46
 soportered.dyn.		300	IN	NS	soportered.duckdns.org.
-spikestradale.dyn.	300	IN	A	59.101.5.221
+spikestradale.dyn.	300	IN	A	59.101.6.209
 startstop.dyn.		300	IN	A	143.176.243.15
 stemby.dyn.		300	IN	A	88.147.18.96
 subnet.dyn.		300	IN	A	91.40.213.158
@@ -114,7 +114,7 @@ vovanium.dyn.		300	IN	A	95.165.139.85
 web.dyn.		300	IN	A	93.204.50.237
 web.dyn.		300	IN	TXT	"8888"
 web.dyn.		300	IN	RP	support.desk.on.holiday. .
-wildhorse.dyn.		300	IN	A	59.101.5.221
+wildhorse.dyn.		300	IN	A	59.101.6.209
 www.dyn.		300	IN	A	173.160.58.202
 yelnah.dyn.		300	IN	A	118.209.115.151
 yujah.dyn.		300	IN	A	82.73.159.243
