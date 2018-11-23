@@ -13,8 +13,8 @@ co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	188.76.45.173
 cosanostra.dyn.		300	IN	A	93.243.125.5
-creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
+creativegardens.dyn.	300	IN	A	45.33.65.68
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
@@ -40,7 +40,7 @@ libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	79.64.29.86
+micheal65536.dyn.	300	IN	A	88.144.73.100
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	95.117.68.182
 mulu-stick.dyn.		300	IN	A	95.117.68.182
