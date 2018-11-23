@@ -1,5 +1,5 @@
-.			86400	IN	NS	ns2.opennic.glue.
 .			86400	IN	NS	ns5.opennic.glue.
+.			86400	IN	NS	ns2.opennic.glue.
 .			86400	IN	NS	ns4.opennic.glue.
 .			86400	IN	NS	ns10.opennic.glue.
 .			86400	IN	NS	ns6.opennic.glue.

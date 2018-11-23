@@ -13,8 +13,8 @@ co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	188.76.45.173
 cosanostra.dyn.		300	IN	A	93.243.125.5
-creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 creativegardens.dyn.	300	IN	A	45.33.65.68
+creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
 cryptoforliberty.dyn.	300	IN	A	64.83.180.242
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
@@ -119,4 +119,4 @@ www.dyn.		300	IN	A	173.160.58.202
 yelnah.dyn.		300	IN	A	118.209.115.151
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	79.242.90.178
+zufriedenheit.dyn.	300	IN	A	79.242.83.131
