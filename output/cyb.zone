@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1542916621 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1543000381 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -96,8 +96,6 @@ fheutest.cyb.		86400	IN	A	185.176.43.84
 www.fheutest.cyb.	86400	IN	A	185.176.43.84
 fiber.cyb.		86400	IN	A	149.56.156.92
 www.fiber.cyb.		86400	IN	CNAME	fiber.cyb.
-flewkey.cyb.		86400	IN	CNAME	2a03.party.
-www.flewkey.cyb.	86400	IN	CNAME	2a03.party.
 www.g1.cyb.		86400	IN	A	186.207.68.18
 gz.cyb.			86400	IN	NS	aiden.ns.cloudflare.com.
 gz.cyb.			86400	IN	NS	ruth.ns.cloudflare.com.
@@ -200,7 +198,6 @@ stavkray.cyb.		86400	IN	CNAME	stavkray.com.
 su.cyb.			86400	IN	A	5.9.155.75
 sy.cyb.			86400	IN	A	108.61.175.237
 sy.cyb.			86400	IN	AAAA	2001:19f0:7402:dc9::1
-nous.sympa.cyb.		86400	IN	A	92.163.38.213
 www.sympa.cyb.		86400	IN	A	92.163.38.213
 tenery.cyb.		86400	IN	A	94.158.47.194
 thewebsite.cyb.		86400	IN	A	192.71.144.235
