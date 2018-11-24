@@ -1,5 +1,5 @@
 accueil.dyn.		300	IN	A	92.163.38.213
-albuic.dyn.		300	IN	A	208.59.153.12
+albuic.dyn.		300	IN	A	207.237.205.12
 albuic.dyn.		300	IN	AAAA	2620:f3:8000:500d::735
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
@@ -34,7 +34,7 @@ herman.dyn.		300	IN	A	82.73.159.243
 inquiries.dyn.		300	IN	A	148.75.237.47
 ip4.dyn.		300	IN	A	195.201.101.101
 josh.dyn.		300	IN	A	188.62.16.178
-kf4nvx.dyn.		300	IN	A	64.150.149.67
+kf4nvx.dyn.		300	IN	A	107.190.148.181
 kf4nvx.dyn.		300	IN	AAAA	2600:1004:b033:9a9b:b50d:8e05:bb4a:d759
 libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
