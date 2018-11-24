@@ -5,7 +5,7 @@ andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
 athome.dyn.		300	IN	A	77.56.251.145
 azziez-remote.dyn.	300	IN	A	104.137.80.102
-bristow.dyn.		300	IN	A	188.27.43.214
+bristow.dyn.		300	IN	A	79.116.215.221
 bristow.dyn.		300	IN	AAAA	2a02:2f0e:d46f:ffff::bc18:b410
 cdn.dyn.		300	IN	A	114.4.216.59
 chadnet.dyn.		300	IN	A	59.101.6.209
@@ -40,7 +40,7 @@ libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	79.64.30.116
+micheal65536.dyn.	300	IN	A	79.64.31.203
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	77.9.68.220
 mulu-stick.dyn.		300	IN	A	77.9.68.220
