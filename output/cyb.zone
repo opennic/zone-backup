@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1543095721 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1543099381 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -200,7 +200,6 @@ sy.cyb.			86400	IN	A	108.61.175.237
 sy.cyb.			86400	IN	AAAA	2001:19f0:7402:dc9::1
 www.sympa.cyb.		86400	IN	A	92.163.38.213
 tenery.cyb.		86400	IN	A	94.158.47.194
-www.testdomain.cyb.	86400	IN	A	1.1.1.1
 thewebsite.cyb.		86400	IN	A	192.71.144.235
 toromino.cyb.		86400	IN	CNAME	toromino.de.
 social.toromino.cyb.	86400	IN	CNAME	social.toromino.de.
