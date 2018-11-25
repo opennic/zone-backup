@@ -117,6 +117,8 @@ spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 *.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 spikestradale.pirate.	86400	IN	A	59.101.6.209
+tahiry.pirate.		86400	IN	A	90.10.163.243
+h.tahiry.pirate.	86400	IN	CNAME	tahiry.pirate.
 tamilrockers.pirate.	86400	IN	NS	clay.ns.cloudflare.com.
 tamilrockers.pirate.	86400	IN	NS	lily.ns.cloudflare.com.
 test.pirate.		86400	IN	A	127.0.0.1
