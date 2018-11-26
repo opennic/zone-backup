@@ -42,7 +42,6 @@ gender.pirate.		86400	IN	A	78.94.228.62
 gml.pirate.		86400	IN	A	50.116.17.96
 gnien.pirate.		86400	IN	A	88.89.254.98
 gylle.pirate.		86400	IN	A	84.209.2.104
-hacky.pirate.		86400	IN	A	98.19.250.101
 hansen.pirate.		86400	IN	A	84.209.2.104
 iam.pirate.		86400	IN	A	94.156.142.136
 www.itadmin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
@@ -122,8 +121,8 @@ h.tahiry.pirate.	86400	IN	CNAME	tahiry.pirate.
 tamilrockers.pirate.	86400	IN	NS	clay.ns.cloudflare.com.
 tamilrockers.pirate.	86400	IN	NS	lily.ns.cloudflare.com.
 test.pirate.		86400	IN	A	127.0.0.1
-torr.pirate.		86400	IN	A	173.212.234.232
 torr.pirate.		86400	IN	AAAA	2a02:c207:2014:4260::1
+torr.pirate.		86400	IN	A	173.212.234.232
 torrent.pirate.		86400	IN	NS	ns1.host.geek.
 torrent.pirate.		86400	IN	NS	ns2.host.geek.
 www.unix.pirate.	86400	IN	CNAME	www.remoteshaman.com.
