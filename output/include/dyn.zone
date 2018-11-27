@@ -11,7 +11,7 @@ cdn.dyn.		300	IN	A	114.4.216.59
 chadnet.dyn.		300	IN	A	59.101.6.209
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
-corrin.dyn.		300	IN	A	188.76.45.173
+corrin.dyn.		300	IN	A	188.76.45.91
 cosanostra.dyn.		300	IN	A	93.243.125.5
 creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
