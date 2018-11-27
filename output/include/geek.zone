@@ -140,8 +140,8 @@ natrinicle.geek.	86400	IN	A	136.60.193.37
 natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
 diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
 diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
-wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
 wg.natrinicle.geek.	86400	IN	A	136.60.193.37
+wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
 nemanja.geek.		86400	IN	A	104.31.78.59
 nightshade.geek.	86400	IN	A	59.101.6.209
 nir.geek.		86400	IN	A	192.30.252.153
