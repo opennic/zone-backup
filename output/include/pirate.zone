@@ -130,8 +130,6 @@ www.unixadmin.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 www.unixzone.pirate.	86400	IN	CNAME	www.remoteshaman.com.
 utzon.pirate.		86400	IN	A	84.209.2.104
 viking94.pirate.	86400	IN	A	193.11.134.88
-votar.pirate.		86400	IN	A	178.37.40.131
-votar.pirate.		86400	IN	TXT	"YARR!"
 vps.pirate.		86400	IN	A	185.22.153.39
 whereisthe.pirate.	86400	IN	A	51.15.195.2
 whereisthe.pirate.	86400	IN	AAAA	2001:bc8:4400:2b00::21:703
@@ -146,8 +144,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	A	2.35.150.84
 zio.pirate.		86400	IN	TXT	"2.35.150.84"
+zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
