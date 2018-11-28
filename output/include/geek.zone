@@ -75,8 +75,8 @@ hack13.geek.		86400	IN	NS	pns101.cloudns.net.
 hack13.geek.		86400	IN	NS	pns102.cloudns.net.
 hack13.geek.		86400	IN	NS	pns103.cloudns.net.
 hack13.geek.		86400	IN	NS	pns104.cloudns.net.
-hani.geek.		86400	IN	TXT	"_redirect.hani.geek IN TXT Redirects to http://www.haniezz.com"
 hani.geek.		86400	IN	A	45.55.72.95
+hani.geek.		86400	IN	TXT	"_redirect.hani.geek IN TXT Redirects to http://www.haniezz.com"
 hckiang.geek.		86400	IN	A	45.33.87.201
 horrible.geek.		86400	IN	A	104.198.14.52
 http-web.geek.		86400	IN	A	50.116.17.96
@@ -129,7 +129,7 @@ macibuki.geek.		86400	IN	A	207.246.124.52
 macibuki.geek.		86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
 vpn.macibuki.geek.	86400	IN	A	207.246.124.52
 vpn.macibuki.geek.	86400	IN	AAAA	2001:19f0:5:247c:5400:1ff:fe7c:4b8c
-micheal65536.geek.	86400	IN	A	79.64.28.78
+micheal65536.geek.	86400	IN	A	88.145.85.74
 mikko.geek.		86400	IN	A	62.210.170.131
 mtv.geek.		86400	IN	NS	ns1.firstbytedns.com.
 mymail.geek.		86400	IN	NS	ns21.cloudns.net.
