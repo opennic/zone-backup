@@ -141,6 +141,7 @@ mt.cyb.			86400	IN	AAAA	2a00:1768:1006::eeef
 neo.cyb.		86400	IN	A	127.0.0.1
 neonbox.cyb.		86400	IN	A	52.15.194.28
 nexus.cyb.		86400	IN	A	108.2.166.111
+nils.cyb.		86400	IN	A	107.161.19.243
 niunn.cyb.		86400	IN	CNAME	niunn.gitlab.io.
 noderunner.cyb.		86400	IN	A	159.203.23.93
 noderunner.cyb.		86400	IN	AAAA	2604:a880:cad:d0::4fff:8001
