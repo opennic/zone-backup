@@ -17,7 +17,7 @@ albino.cyb.		86400	IN	A	192.30.252.153
 albino.cyb.		86400	IN	A	192.30.252.154
 www.albino.cyb.		86400	IN	CNAME	albino.cyb.
 alt.cyb.		86400	IN	A	192.168.0.69
-anime.cyb.		86400	IN	CNAME	archive.ishygddt.xyz.
+www.anime.cyb.		86400	IN	CNAME	archive.ishygddt.xyz.
 apason.cyb.		86400	IN	A	5.39.20.236
 www.apason.cyb.		86400	IN	CNAME	apason.cyb.
 aragon.cyb.		86400	IN	A	198.100.149.191
