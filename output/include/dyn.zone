@@ -5,7 +5,7 @@ andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
 athome.dyn.		300	IN	A	77.56.251.145
 azziez-remote.dyn.	300	IN	A	104.137.80.102
-bristow.dyn.		300	IN	A	188.24.187.172
+bristow.dyn.		300	IN	A	188.24.182.207
 bristow.dyn.		300	IN	AAAA	2a02:2f0e:d46f:ffff::bc18:b410
 cdn.dyn.		300	IN	A	114.4.216.59
 chadnet.dyn.		300	IN	A	59.101.6.209
@@ -115,7 +115,7 @@ web.dyn.		300	IN	TXT	"8888"
 web.dyn.		300	IN	RP	support.desk.on.holiday. .
 wildhorse.dyn.		300	IN	A	59.101.6.209
 www.dyn.		300	IN	A	173.160.58.202
-yelnah.dyn.		300	IN	A	118.209.78.204
+yelnah.dyn.		300	IN	A	118.209.75.80
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
 zufriedenheit.dyn.	300	IN	A	79.242.91.122
