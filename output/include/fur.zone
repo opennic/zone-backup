@@ -185,6 +185,8 @@ noumenon.fur.		300	IN	A	188.40.132.245
 www.noumenon.fur.	300	IN	A	188.40.132.245
 nyaan.fur.		300	IN	A	195.201.76.62
 www.nyaan.fur.		300	IN	A	195.201.76.62
+oklomsy.fur.		300	IN	CNAME	new.fur.
+www.oklomsy.fur.	300	IN	CNAME	www.new.fur.
 opennictest.fur.	300	IN	NS	ns2.ns.stejau.de.
 opennictest.fur.	300	IN	NS	ns4.ns.stejau.de.
 pamelaanderson.fur.	300	IN	NS	ns.kevinkatovic.pirate.
