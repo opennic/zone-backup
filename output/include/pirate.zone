@@ -144,8 +144,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	A	2.35.150.84
 zio.pirate.		86400	IN	TXT	"2.35.150.84"
-www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
+zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	A	2.35.150.84
+www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
