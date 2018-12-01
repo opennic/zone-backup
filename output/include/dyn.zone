@@ -39,7 +39,7 @@ libre.dyn.		300	IN	A	189.155.77.63
 localhost.dyn.		300	IN	A	127.0.0.1
 maistre.dyn.		300	IN	A	148.75.237.47
 me.dyn.			300	IN	A	86.124.246.114
-micheal65536.dyn.	300	IN	A	88.145.87.218
+micheal65536.dyn.	300	IN	A	79.64.30.146
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	77.4.107.172
 mulu-stick.dyn.		300	IN	A	77.4.107.172
@@ -108,7 +108,7 @@ utzon.dyn.		300	IN	A	84.209.2.104
 uwe-cosanostra.dyn.	300	IN	A	93.243.56.145
 valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-vektorweg.dyn.		300	IN	A	46.246.61.72
+vektorweg.dyn.		300	IN	A	46.246.61.17
 vovanium.dyn.		300	IN	A	95.165.139.85
 web.dyn.		300	IN	A	93.204.50.237
 web.dyn.		300	IN	TXT	"8888"
