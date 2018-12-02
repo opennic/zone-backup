@@ -7,21 +7,21 @@ www.16.chan.		86400	IN	A	163.172.150.128
 www.314.chan.		86400	IN	A	176.10.112.202
 32.chan.		86400	IN	A	159.203.189.255
 www.32.chan.		86400	IN	A	159.203.189.255
-420.chan.		86400	IN	TXT	"gay balls"
 420.chan.		86400	IN	A	104.254.24.3
+420.chan.		86400	IN	TXT	"gay balls"
 boards.420.chan.	86400	IN	A	104.254.24.3
 autism.chan.		86400	IN	A	104.238.229.158
 www.autism.chan.	86400	IN	A	104.238.229.158
 cloud.chan.		86400	IN	A	192.168.1.2
 www.cloud.chan.		86400	IN	A	192.168.1.2
-comfy.chan.		86400	IN	A	37.48.80.91
 comfy.chan.		86400	IN	TXT	"Taking it easy."
+comfy.chan.		86400	IN	A	37.48.80.91
 sekrit.comfy.chan.	86400	IN	A	37.48.80.91
 crypt0.chan.		86400	IN	A	52.6.165.135
 www.crypt0.chan.	86400	IN	A	52.55.36.151
-desu.chan.		86400	IN	TXT	"In DESU we trust"
 desu.chan.		86400	IN	NS	ns1.desu.chan.
 desu.chan.		86400	IN	NS	ns2.desu.chan.
+desu.chan.		86400	IN	TXT	"In DESU we trust"
 ns1.desu.chan.		86400	IN	A	106.185.27.51
 ns2.desu.chan.		86400	IN	A	158.255.208.94
 ebola.chan.		86400	IN	NS	ns1.ebola.chan.
@@ -38,16 +38,16 @@ ns1.fat.chan.		86400	IN	A	192.168.1.1
 ns2.fat.chan.		86400	IN	A	192.168.1.2
 free.chan.		86400	IN	A	185.121.170.105
 gorf.chan.		86400	IN	NS	ns1.gorf.chan.
-ns1.gorf.chan.		86400	IN	AAAA	2605:6400:2:fed5:22:dc41:8d2c:f0fc
 ns1.gorf.chan.		86400	IN	A	209.141.38.133
+ns1.gorf.chan.		86400	IN	AAAA	2605:6400:2:fed5:22:dc41:8d2c:f0fc
 ns2.gorf.chan.		86400	IN	AAAA	2605:6400:1:fed5:22:289c:1c43:7111
 hyak.chan.		900	IN	A	168.235.102.156
 fc.hyak.chan.		900	IN	AAAA	fcac:b8ab:190f:e2eb:4a2f:3cbe:9d98:ec88
-infinite.chan.		86400	IN	TXT	"wew"
 infinite.chan.		86400	IN	A	195.191.240.17
+infinite.chan.		86400	IN	TXT	"wew"
 www.infinite.chan.	86400	IN	A	195.191.240.17
-jackie.chan.		86400	IN	TXT	"dank memes"
 jackie.chan.		86400	IN	A	76.177.135.57
+jackie.chan.		86400	IN	TXT	"dank memes"
 karasu.chan.		86400	IN	A	37.228.132.152
 www.karasu.chan.	86400	IN	A	37.228.132.152
 koakuma.chan.		86400	IN	NS	ns1.koakuma.chan.
@@ -61,9 +61,9 @@ loli.chan.		86400	IN	A	69.76.19.19
 www.loli.chan.		86400	IN	A	69.76.19.19
 lynx.chan.		86400	IN	A	104.200.17.207
 www.lynx.chan.		86400	IN	A	104.200.17.207
+maiki.chan.		86400	IN	TXT	"yo"
 maiki.chan.		86400	IN	NS	ns1.maiki.chan.
 maiki.chan.		86400	IN	NS	ns2.maiki.chan.
-maiki.chan.		86400	IN	TXT	"yo"
 ns1.maiki.chan.		86400	IN	A	127.0.0.1
 ns2.maiki.chan.		86400	IN	A	127.0.0.1
 miku.chan.		86400	IN	NS	ns1.miku.chan.
@@ -72,40 +72,40 @@ ns1.miku.chan.		86400	IN	A	79.98.145.34
 ns2.miku.chan.		86400	IN	A	195.80.237.194
 next.chan.		86400	IN	A	163.172.150.128
 www.next.chan.		86400	IN	A	163.172.150.128
-nntp.chan.		86400	IN	A	45.55.166.68
 nntp.chan.		86400	IN	TXT	"nntpchan"
+nntp.chan.		86400	IN	A	45.55.166.68
 www.nntp.chan.		86400	IN	A	45.55.166.68
 onii.chan.		86400	IN	A	167.114.36.58
-opennic.chan.		86400	IN	TXT	".chan, the anonymous TLD"
-opennic.chan.		86400	IN	MX	5 mx0.opennic.chan.
 opennic.chan.		86400	IN	A	94.103.153.176
+opennic.chan.		86400	IN	MX	5 mx0.opennic.chan.
+opennic.chan.		86400	IN	TXT	".chan, the anonymous TLD"
 dkim._domainkey.opennic.chan. 86400 IN	TXT	"v=DKIM1; k=rsa; " "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7H3/SwA1JqsXYX3d/xQqM8U/Vxk/MrR0be2eMCYeXRFKqn28BDYElvF16iTUo1BNs/VOfueb2RF0M9zYLL21gYoaTuY5KsNEq+0cMQsq7Gp7ImVAi37OxafJgleIo/Okqd+Q/dSgTmmDgzrtb6IHDrArIThliP7gp0PnIgnyA4QIDAQAB"
 mail.opennic.chan.	86400	IN	CNAME	mx0.opennic.chan.
-mx0.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
-mx0.opennic.chan.	86400	IN	RP	postmaster.opennic.chan. opennic.chan.
 mx0.opennic.chan.	86400	IN	A	94.103.153.176
-ns0.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
-ns0.opennic.chan.	86400	IN	RP	hostmaster.opennic.chan. opennic.chan.
+mx0.opennic.chan.	86400	IN	RP	postmaster.opennic.chan. opennic.chan.
+mx0.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
 ns0.opennic.chan.	86400	IN	A	94.103.153.176
-ns1.opennic.chan.	86400	IN	RP	hostmaster.opennic.chan. opennic.chan.
+ns0.opennic.chan.	86400	IN	RP	hostmaster.opennic.chan. opennic.chan.
+ns0.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
 ns1.opennic.chan.	86400	IN	A	94.103.153.176
-register.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
+ns1.opennic.chan.	86400	IN	RP	hostmaster.opennic.chan. opennic.chan.
 register.opennic.chan.	86400	IN	A	94.103.153.176
-ww2.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:2
-ww2.opennic.chan.	86400	IN	RP	webmaster.opennic.chan. opennic.chan.
+register.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
 ww2.opennic.chan.	86400	IN	A	94.103.153.175
-www.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
-www.opennic.chan.	86400	IN	RP	webmaster.opennic.chan. opennic.chan.
+ww2.opennic.chan.	86400	IN	RP	webmaster.opennic.chan. opennic.chan.
+ww2.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:2
 www.opennic.chan.	86400	IN	A	94.103.153.176
+www.opennic.chan.	86400	IN	RP	webmaster.opennic.chan. opennic.chan.
+www.opennic.chan.	86400	IN	AAAA	2a02:990:219:1:ba:1337:cafe:3
 pro.chan.		86400	IN	A	202.9.68.34
 www.pro.chan.		86400	IN	A	202.9.68.34
-skipe.chan.		86400	IN	TXT	"skipe"
 skipe.chan.		86400	IN	A	68.34.100.140
+skipe.chan.		86400	IN	TXT	"skipe"
 skye.chan.		86400	IN	A	23.239.23.240
 spess.chan.		86400	IN	A	47.54.191.114
 www.spess.chan.		86400	IN	A	47.54.191.114
-upload.chan.		86400	IN	TXT	"wew"
 upload.chan.		86400	IN	A	195.191.240.17
+upload.chan.		86400	IN	TXT	"wew"
 a.upload.chan.		86400	IN	A	195.191.240.17
 usagi.chan.		86400	IN	NS	ns1.usagi.chan.
 usagi.chan.		86400	IN	NS	ns2.usagi.chan.
