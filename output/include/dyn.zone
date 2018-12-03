@@ -16,7 +16,7 @@ cosanostra.dyn.		300	IN	A	93.242.183.213
 creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
-cryptoforliberty.dyn.	300	IN	A	64.83.180.242
+cryptoforliberty.dyn.	300	IN	A	64.83.183.160
 datahoarder.dyn.	300	IN	NS	neil.ns.cloudflare.com.
 ddns.dyn.		300	IN	A	161.97.219.84
 digitalfarms.dyn.	300	IN	A	45.33.65.68
