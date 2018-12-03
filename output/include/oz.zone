@@ -239,6 +239,8 @@ home.oz.		86400	IN	NS	ns19.nl.dns.opennic.glue.
 hop.oz.			86400	IN	NS	ns1.sa.au.dns.opennic.glue.
 hop.oz.			86400	IN	NS	ns2.sa.au.dns.opennic.glue.
 hopper.oz.		86400	IN	NS	ns1.mywebhost.com.
+horizon.oz.		86400	IN	NS	anna.ns.cloudflare.com.
+horizon.oz.		86400	IN	NS	jonah.ns.cloudflare.com.
 hosting.oz.		86400	IN	NS	ns1.hosting.oz.
 hosting.oz.		86400	IN	NS	ns2.hosting.oz.
 ns1.hosting.oz.		86400	IN	A	210.50.9.151
