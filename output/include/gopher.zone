@@ -8,8 +8,8 @@ mail.gopher.		86400	IN	A	127.0.0.1
 opennic.gopher.		86400	IN	A	127.0.0.1
 orbitalfox.gopher.	86400	IN	A	95.172.232.202
 pongonova.gopher.	86400	IN	A	52.24.18.83
-reg.gopher.		86400	IN	A	161.97.219.84
 reg.gopher.		86400	IN	AAAA	2001:470:4212:1::254
+reg.gopher.		86400	IN	A	161.97.219.84
 www.reg.gopher.		86400	IN	A	173.160.58.202
 register.gopher.	86400	IN	A	161.97.219.84
 register.gopher.	86400	IN	AAAA	2001:470:4212:1::254
