@@ -133,6 +133,11 @@ matrix.cyb.		86400	IN	A	198.100.149.191
 megumin.cyb.		86400	IN	A	185.199.109.154
 megumin.cyb.		86400	IN	A	185.199.109.153
 www.megumin.cyb.	86400	IN	CNAME	megumin.cyb.
+metalyr.cyb.		86400	IN	NS	ns1.he.net.
+metalyr.cyb.		86400	IN	NS	ns2.he.net.
+metalyr.cyb.		86400	IN	NS	ns3.he.net.
+metalyr.cyb.		86400	IN	NS	ns4.he.net.
+metalyr.cyb.		86400	IN	NS	ns5.he.net.
 moderntld.cyb.		86400	IN	A	198.100.149.191
 moderntld.cyb.		86400	IN	A	8.8.8.8
 mrdetonia.cyb.		86400	IN	A	188.165.212.152
