@@ -13471,8 +13471,8 @@ sg.			172800	IN	NS	sg-ns.anycast.pch.net.
 sg.			172800	IN	NS	dsany2.sgnic.sg.
 sg.			172800	IN	NS	dsany3.sgnic.sg.
 sg.			86400	IN	DS	34234 8 2 FEACAA03AFE4D8842DA3AF03C94AEDF104D99ACB5729572B1F202AB1 744681E1
-dsany.sgnic.sg.		172800	IN	A	194.0.11.106
-dsany.sgnic.sg.		172800	IN	AAAA	2001:678:e:106::53
+dsany.sgnic.sg.		172800	IN	A	120.29.253.11
+dsany.sgnic.sg.		172800	IN	AAAA	2001:dcd:7::11
 dsany2.sgnic.sg.	172800	IN	A	185.159.197.170
 dsany2.sgnic.sg.	172800	IN	AAAA	2620:10a:80aa::170
 dsany3.sgnic.sg.	172800	IN	A	185.159.198.170
