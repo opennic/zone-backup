@@ -16875,7 +16875,7 @@ xn--czru2d.		172800	IN	NS	f.zdnscloud.com.
 xn--czru2d.		172800	IN	NS	g.zdnscloud.com.
 xn--czru2d.		172800	IN	NS	i.zdnscloud.com.
 xn--czru2d.		172800	IN	NS	j.zdnscloud.com.
-xn--czru2d.		86400	IN	DS	17617 8 2 4870D540B9FC8A817448AFF4B3956967C0C40B32A1569D96CF7A52F6 FA468FBA
+xn--czru2d.		86400	IN	DS	995 8 2 C37DB96801455F34FC09B824107A81B4DF13F273E00D1EF24B73986D F0EDA81C
 xn--d1acj3b.		172800	IN	NS	a.dns.ripn.net.
 xn--d1acj3b.		172800	IN	NS	b.dns.ripn.net.
 xn--d1acj3b.		172800	IN	NS	d.dns.ripn.net.
@@ -17158,7 +17158,7 @@ xn--hxt814e.		172800	IN	NS	f.zdnscloud.com.
 xn--hxt814e.		172800	IN	NS	g.zdnscloud.com.
 xn--hxt814e.		172800	IN	NS	i.zdnscloud.com.
 xn--hxt814e.		172800	IN	NS	j.zdnscloud.com.
-xn--hxt814e.		86400	IN	DS	62434 8 2 D5980D6000EBA79C19B9D62F99C41C26ACA3CBE8064D8C3105FFF705 44128AFA
+xn--hxt814e.		86400	IN	DS	36091 8 2 D5BC5CF399DEADCE2782F1D21051A13787822441EA5850F691899609 74C9EB95
 xn--i1b6b1a6a2e.	172800	IN	NS	a0.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.	172800	IN	NS	a2.nic.xn--i1b6b1a6a2e.
 xn--i1b6b1a6a2e.	172800	IN	NS	b0.nic.xn--i1b6b1a6a2e.
