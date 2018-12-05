@@ -43,8 +43,8 @@ media.dyn.		300	IN	A	103.82.146.187
 metalyr.dyn.		300	IN	AAAA	2a02:810d:400:f5a:f8af:bd22:8b29:6d16
 micheal65536.dyn.	300	IN	A	79.64.31.137
 momoka.dyn.		300	IN	A	181.110.7.225
-muellerlukas.dyn.	300	IN	A	95.115.71.117
-mulu-stick.dyn.		300	IN	A	95.115.71.117
+muellerlukas.dyn.	300	IN	A	77.7.77.42
+mulu-stick.dyn.		300	IN	A	77.7.77.42
 nemo.dyn.		300	IN	A	84.211.226.1
 neo.dyn.		300	IN	A	93.204.50.237
 neo.dyn.		300	IN	TXT	"888"
