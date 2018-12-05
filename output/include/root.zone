@@ -15954,7 +15954,7 @@ wang.			172800	IN	NS	f.zdnscloud.com.
 wang.			172800	IN	NS	g.zdnscloud.com.
 wang.			172800	IN	NS	i.zdnscloud.com.
 wang.			172800	IN	NS	j.zdnscloud.com.
-wang.			86400	IN	DS	11696 8 2 D4B3A9B842B76A1D44E12569FE89300302BF76FDF5697F1B82D859A9 21763C99
+wang.			86400	IN	DS	20969 8 2 E686EB5367B243E5DFD5C5FAADB23B0A52172B9CF5C72B28836BE2AF 9402DADD
 wanggou.		172800	IN	NS	ns1.dns.nic.wanggou.
 wanggou.		172800	IN	NS	ns2.dns.nic.wanggou.
 wanggou.		172800	IN	NS	ns3.dns.nic.wanggou.
@@ -16587,7 +16587,7 @@ xn--45q11c.		172800	IN	NS	f.zdnscloud.com.
 xn--45q11c.		172800	IN	NS	g.zdnscloud.com.
 xn--45q11c.		172800	IN	NS	i.zdnscloud.com.
 xn--45q11c.		172800	IN	NS	j.zdnscloud.com.
-xn--45q11c.		86400	IN	DS	37387 8 2 8B8BA48AD335306E9180F9DAE373EE605B7BBC72F0E00DF004BDC8E8 08FD6860
+xn--45q11c.		86400	IN	DS	46399 8 2 65907E5274D504536003BC4C24AC8D4907D0A7018996FFDA5B7F46E8 BD9825BA
 xn--4gbrim.		172800	IN	NS	a0.nic.xn--4gbrim.
 xn--4gbrim.		172800	IN	NS	a2.nic.xn--4gbrim.
 xn--4gbrim.		172800	IN	NS	b0.nic.xn--4gbrim.

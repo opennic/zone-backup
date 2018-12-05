@@ -121,8 +121,8 @@ h.tahiry.pirate.	86400	IN	CNAME	tahiry.pirate.
 tamilrockers.pirate.	86400	IN	NS	clay.ns.cloudflare.com.
 tamilrockers.pirate.	86400	IN	NS	lily.ns.cloudflare.com.
 test.pirate.		86400	IN	A	127.0.0.1
-torr.pirate.		86400	IN	A	173.212.234.232
 torr.pirate.		86400	IN	AAAA	2a02:c207:2014:4260::1
+torr.pirate.		86400	IN	A	173.212.234.232
 torrent.pirate.		86400	IN	NS	ns1.host.geek.
 torrent.pirate.		86400	IN	NS	ns2.host.geek.
 www.unix.pirate.	86400	IN	CNAME	www.remoteshaman.com.
@@ -144,8 +144,8 @@ yuanjiazhao.pirate.	86400	IN	NS	ns2.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns3.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
-zio.pirate.		86400	IN	A	2.35.150.84
 zio.pirate.		86400	IN	TXT	"2.35.150.84"
-www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
+zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	A	2.35.150.84
+www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
 zoo.pirate.		86400	IN	A	172.98.197.42
