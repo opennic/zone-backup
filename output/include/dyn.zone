@@ -5,6 +5,7 @@ andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
 athome.dyn.		300	IN	A	77.56.251.145
 azziez-remote.dyn.	300	IN	A	104.137.80.102
+be.dyn.			300	IN	A	103.82.146.187
 bristow.dyn.		300	IN	A	86.122.19.5
 bristow.dyn.		300	IN	AAAA	2a02:2f0e:d46f:ffff::bc18:b410
 cdn.dyn.		300	IN	A	114.4.216.59
@@ -46,8 +47,8 @@ momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	77.7.77.42
 mulu-stick.dyn.		300	IN	A	77.7.77.42
 nemo.dyn.		300	IN	A	84.211.226.1
-neo.dyn.		300	IN	A	93.204.50.237
 neo.dyn.		300	IN	TXT	"888"
+neo.dyn.		300	IN	A	93.204.50.237
 nightshade.dyn.		300	IN	A	59.101.6.209
 nly.dyn.		300	IN	A	122.177.80.118
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
@@ -88,8 +89,8 @@ thecreativegardens.dyn.	300	IN	A	45.33.65.68
 thecreativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thedigitalfarms.dyn.	300	IN	A	45.33.65.68
 thedigitalfarms.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
-thevalleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 thevalleys.dyn.		300	IN	A	45.33.65.68
+thevalleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 tick.dyn.		300	IN	NS	ns1.linode.com.
 tick.dyn.		300	IN	NS	ns2.linode.com.
 tick.dyn.		300	IN	NS	ns3.linode.com.
@@ -112,9 +113,9 @@ valleys.dyn.		300	IN	A	45.33.65.68
 valleys.dyn.		300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 vektorweg.dyn.		300	IN	A	46.246.61.104
 vovanium.dyn.		300	IN	A	95.165.139.85
-web.dyn.		300	IN	RP	support.desk.on.holiday. .
 web.dyn.		300	IN	A	93.204.50.237
 web.dyn.		300	IN	TXT	"8888"
+web.dyn.		300	IN	RP	support.desk.on.holiday. .
 wildhorse.dyn.		300	IN	A	59.101.6.209
 www.dyn.		300	IN	A	173.160.58.202
 yelnah.dyn.		300	IN	A	203.217.76.171
