@@ -13,7 +13,7 @@ chadnet.dyn.		300	IN	A	59.101.6.209
 co.dyn.			300	IN	A	71.224.193.162
 co.dyn.			300	IN	AAAA	2001:558:6027:6a:b1db:f6d0:b924:e338
 corrin.dyn.		300	IN	A	188.76.45.91
-cosanostra.dyn.		300	IN	A	93.242.68.198
+cosanostra.dyn.		300	IN	A	93.243.98.152
 creativegardens.dyn.	300	IN	A	45.33.65.68
 creativegardens.dyn.	300	IN	AAAA	2600:3c03::f03c:91ff:fe37:6461
 crumax.dyn.		300	IN	A	127.0.0.1
@@ -47,8 +47,8 @@ momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	77.9.97.140
 mulu-stick.dyn.		300	IN	A	77.9.97.140
 nemo.dyn.		300	IN	A	84.211.226.1
-neo.dyn.		300	IN	A	93.204.50.237
 neo.dyn.		300	IN	TXT	"888"
+neo.dyn.		300	IN	A	93.204.50.237
 nightshade.dyn.		300	IN	A	59.101.6.209
 nly.dyn.		300	IN	A	122.177.80.118
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
