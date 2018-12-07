@@ -47,8 +47,8 @@ momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	77.9.97.140
 mulu-stick.dyn.		300	IN	A	77.9.97.140
 nemo.dyn.		300	IN	A	84.211.226.1
-neo.dyn.		300	IN	A	93.204.50.237
 neo.dyn.		300	IN	TXT	"888"
+neo.dyn.		300	IN	A	93.204.50.237
 nightshade.dyn.		300	IN	A	59.101.6.209
 nly.dyn.		300	IN	A	122.177.80.118
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
@@ -121,4 +121,4 @@ www.dyn.		300	IN	A	173.160.58.202
 yelnah.dyn.		300	IN	A	203.217.76.171
 yujah.dyn.		300	IN	A	82.73.159.243
 zod.dyn.		300	IN	TXT	"[ for private use only ]"
-zufriedenheit.dyn.	300	IN	A	79.242.87.7
+zufriedenheit.dyn.	300	IN	A	79.242.92.59
