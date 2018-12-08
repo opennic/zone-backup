@@ -47,8 +47,8 @@ momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	77.7.75.249
 mulu-stick.dyn.		300	IN	A	77.7.75.249
 nemo.dyn.		300	IN	A	84.211.226.1
-neo.dyn.		300	IN	TXT	"888"
 neo.dyn.		300	IN	A	93.204.50.237
+neo.dyn.		300	IN	TXT	"888"
 nightshade.dyn.		300	IN	A	59.101.6.209
 nly.dyn.		300	IN	A	122.177.80.118
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
@@ -62,7 +62,7 @@ obsceneshoes.dyn.	300	IN	A	59.101.6.209
 opennic.dyn.		300	IN	A	173.160.58.202
 www.opennic.dyn.	300	IN	A	173.160.58.202
 oxro.dyn.		300	IN	AAAA	2a03:b0c0:3:d0::b61:1
-pheralcus.dyn.		300	IN	A	78.35.253.143
+pheralcus.dyn.		300	IN	A	87.78.159.97
 powo01-router.dyn.	300	IN	AAAA	2a00:6020:1000:3:b41c:1f17:acd9:9f4b
 powo01-ssh.dyn.		300	IN	AAAA	2a00:6020:13f4:5100:4849:43ff:fe49:79d7
 rage.dyn.		300	IN	A	47.195.233.160
