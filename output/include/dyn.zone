@@ -56,7 +56,6 @@ nokeh.dyn.		300	IN	NS	ns2.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns3.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns4.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns5.geoscaling.com.
-noone.dyn.		300	IN	A	185.222.202.139
 nuracing.dyn.		300	IN	A	59.101.6.209
 obsceneshoes.dyn.	300	IN	A	59.101.6.209
 opennic.dyn.		300	IN	A	173.160.58.202
