@@ -1,4 +1,5 @@
 0-0.oss.		86400	IN	A	87.97.33.195
+a-sila.oss.		86400	IN	A	85.255.10.192
 archit.oss.		86400	IN	NS	ns1.digitalocean.com.
 archit.oss.		86400	IN	NS	ns2.digitalocean.com.
 archit.oss.		86400	IN	NS	ns3.digitalocean.com.

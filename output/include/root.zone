@@ -15276,8 +15276,8 @@ ns.anycast.co.tz.	172800	IN	AAAA	2001:500:14:6015:ad::1
 ns2.tznic.or.tz.	172800	IN	A	196.216.162.67
 ns2.tznic.or.tz.	172800	IN	AAAA	2001:43f8:e0:1::67
 ua.			172800	IN	NS	cd1.ns.ua.
-ua.			172800	IN	NS	he1.ns.ua.
 ua.			172800	IN	NS	ho1.ns.ua.
+ua.			172800	IN	NS	in1.ns.ua.
 ua.			172800	IN	NS	pch.ns.ua.
 ua.			172800	IN	NS	sns-pb.isc.org.
 ua.			86400	IN	DS	56514 10 2 BDD7A310534F76B2B6B25C94F816F9B9F260A2E35F526A9287E3307F B2CD16D8
@@ -15288,10 +15288,10 @@ ge.hostmaster.ua.	172800	IN	AAAA	2001:67c:258::18
 tier1.num.net.ua.	172800	IN	A	193.110.163.134
 cd1.ns.ua.		172800	IN	A	194.0.1.9
 cd1.ns.ua.		172800	IN	AAAA	2001:678:4::9
-he1.ns.ua.		172800	IN	A	216.218.215.27
-he1.ns.ua.		172800	IN	AAAA	2001:470:2e:1::27
 ho1.ns.ua.		172800	IN	A	195.47.253.1
 ho1.ns.ua.		172800	IN	AAAA	2001:67c:258::1
+in1.ns.ua.		172800	IN	A	74.123.224.40
+in1.ns.ua.		172800	IN	AAAA	2604:ee00:0:101::40
 pch.ns.ua.		172800	IN	A	204.61.216.12
 pch.ns.ua.		172800	IN	AAAA	2001:500:14:6012:ad::1
 ubank.			172800	IN	NS	ac1.nstld.com.

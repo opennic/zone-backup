@@ -12,6 +12,7 @@ abysmal.cyb.		86400	IN	A	162.243.149.95
 adler.cyb.		86400	IN	AAAA	2001:470:70:a2f::2
 admin.cyb.		86400	IN	A	107.174.39.244
 www.admin.cyb.		86400	IN	CNAME	admin.cyb.
+admov.cyb.		86400	IN	A	85.255.10.192
 adrien.cyb.		86400	IN	A	192.168.1.61
 albino.cyb.		86400	IN	A	192.30.252.153
 albino.cyb.		86400	IN	A	192.30.252.154
