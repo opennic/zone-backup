@@ -4,7 +4,7 @@ albuic.dyn.		300	IN	AAAA	2620:f3:8000:500d::735
 andrew.dyn.		300	IN	AAAA	2601:2c6:4b80:8250:950:5487:befd:ddb2
 arttek.dyn.		300	IN	A	171.25.193.77
 athome.dyn.		300	IN	A	77.56.251.145
-azziez-remote.dyn.	300	IN	A	104.137.80.102
+azziez-remote.dyn.	300	IN	A	65.34.48.27
 be.dyn.			300	IN	A	103.82.146.187
 bristow.dyn.		300	IN	A	188.24.142.18
 bristow.dyn.		300	IN	AAAA	2a02:2f0e:d46f:ffff::bc18:b410
@@ -34,7 +34,7 @@ herman.dyn.		300	IN	A	82.73.159.243
 iceviolet.dyn.		300	IN	A	147.30.85.121
 inquiries.dyn.		300	IN	A	148.75.237.47
 ip4.dyn.		300	IN	A	195.201.101.101
-josh.dyn.		300	IN	A	188.63.34.83
+josh.dyn.		300	IN	A	85.5.178.223
 kf4nvx.dyn.		300	IN	A	68.235.230.84
 kf4nvx.dyn.		300	IN	AAAA	2600:1004:b033:9a9b:b50d:8e05:bb4a:d759
 libre.dyn.		300	IN	A	189.155.77.63
@@ -48,8 +48,8 @@ momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.167.107
 mulu-stick.dyn.		300	IN	A	46.95.167.107
 nemo.dyn.		300	IN	A	84.211.226.1
-neo.dyn.		300	IN	TXT	"888"
 neo.dyn.		300	IN	A	93.204.50.237
+neo.dyn.		300	IN	TXT	"888"
 nightshade.dyn.		300	IN	A	59.101.6.209
 nly.dyn.		300	IN	A	122.177.80.118
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
