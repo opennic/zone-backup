@@ -18,8 +18,8 @@ root.gopher.		86400	IN	A	127.0.0.1
 sdf.gopher.		86400	IN	A	205.166.94.15
 simple.gopher.		86400	IN	A	24.8.113.78
 simple.gopher.		86400	IN	AAAA	2601:285:500:30a:e291:f5ff:fe95:c091
-stjohn.gopher.		86400	IN	A	74.207.243.202
 stjohn.gopher.		86400	IN	AAAA	2600:3c01::f03c:91ff:fe24:69e8
+stjohn.gopher.		86400	IN	A	74.207.243.202
 test.gopher.		86400	IN	A	127.0.0.1
 volution.gopher.	86400	IN	NS	dns-1.services.volution.ro.
 vsta.gopher.		86400	IN	A	212.47.245.167
