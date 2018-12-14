@@ -16503,7 +16503,7 @@ xn--30rr7y.		172800	IN	NS	f.zdnscloud.com.
 xn--30rr7y.		172800	IN	NS	g.zdnscloud.com.
 xn--30rr7y.		172800	IN	NS	i.zdnscloud.com.
 xn--30rr7y.		172800	IN	NS	j.zdnscloud.com.
-xn--30rr7y.		86400	IN	DS	8170 8 2 90B0DFACCC60DE23948FC26A38149CC61B709AD79BDD276D5FAE0F25 CC79FB17
+xn--30rr7y.		86400	IN	DS	42247 8 2 339254F4939C992790A50B1D257EA5C50BF4FC30F9D7B55A0FE87588 5AF8BB7A
 xn--3bst00m.		172800	IN	NS	a.zdnscloud.com.
 xn--3bst00m.		172800	IN	NS	b.zdnscloud.com.
 xn--3bst00m.		172800	IN	NS	c.zdnscloud.com.
@@ -16512,7 +16512,7 @@ xn--3bst00m.		172800	IN	NS	f.zdnscloud.com.
 xn--3bst00m.		172800	IN	NS	g.zdnscloud.com.
 xn--3bst00m.		172800	IN	NS	i.zdnscloud.com.
 xn--3bst00m.		172800	IN	NS	j.zdnscloud.com.
-xn--3bst00m.		86400	IN	DS	8644 8 2 EBA31C9DABB157CFDF1F6C612985C135313D833FE1A90FB5A77C932D 617371E1
+xn--3bst00m.		86400	IN	DS	11479 8 2 7881A662F41E0D4B2133E66229672677147A22A8ECA1D1D02DB93ECD B127D895
 xn--3ds443g.		172800	IN	NS	ns1.teleinfo.cn.
 xn--3ds443g.		172800	IN	NS	ns2.teleinfoo.com.
 xn--3ds443g.		172800	IN	NS	ns3.teleinfo.cn.
@@ -16658,7 +16658,7 @@ xn--6qq986b3xl.		172800	IN	NS	f.zdnscloud.com.
 xn--6qq986b3xl.		172800	IN	NS	g.zdnscloud.com.
 xn--6qq986b3xl.		172800	IN	NS	i.zdnscloud.com.
 xn--6qq986b3xl.		172800	IN	NS	j.zdnscloud.com.
-xn--6qq986b3xl.		86400	IN	DS	46526 8 2 48C33D585A33AB39A96A574D9CF5A6AE23EB335841A629AF18EE7F7E D1E57B57
+xn--6qq986b3xl.		86400	IN	DS	30406 8 2 A9B0F70F49B9E0819D93E5E98D1A24499ED86DC201C15D77EAF1ECBB F7C6D2AE
 xn--80adxhks.		172800	IN	NS	a.dns.flexireg.ru.
 xn--80adxhks.		172800	IN	NS	b.dns.flexireg.net.
 xn--80adxhks.		172800	IN	NS	c.dns.flexireg.org.
@@ -16744,7 +16744,7 @@ xn--9et52u.		172800	IN	NS	f.zdnscloud.com.
 xn--9et52u.		172800	IN	NS	g.zdnscloud.com.
 xn--9et52u.		172800	IN	NS	i.zdnscloud.com.
 xn--9et52u.		172800	IN	NS	j.zdnscloud.com.
-xn--9et52u.		86400	IN	DS	14822 8 2 4F5839D89D82500DE6813FEC7611450F8671453E073A34B8175035E0 8CB7593C
+xn--9et52u.		86400	IN	DS	769 8 2 2BAE7BA36EA94541B8BC12188EB1AA933B5081CC281909CC5874AF2E BEEBAE96
 xn--9krt00a.		172800	IN	NS	a0.nic.xn--9krt00a.
 xn--9krt00a.		172800	IN	NS	a2.nic.xn--9krt00a.
 xn--9krt00a.		172800	IN	NS	b0.nic.xn--9krt00a.
@@ -16924,7 +16924,7 @@ xn--efvy88h.		172800	IN	NS	f.zdnscloud.com.
 xn--efvy88h.		172800	IN	NS	g.zdnscloud.com.
 xn--efvy88h.		172800	IN	NS	i.zdnscloud.com.
 xn--efvy88h.		172800	IN	NS	j.zdnscloud.com.
-xn--efvy88h.		86400	IN	DS	56027 8 2 FC0C177E79948C3E9A5480EF96CE5F52C65906ECAF3915FAFB893AD5 23306136
+xn--efvy88h.		86400	IN	DS	16702 8 2 3DC3633898AEF4CF395E3B558DDDB6B02111ABC6BC31BE55346BB44C B7778E74
 xn--estv75g.		172800	IN	NS	a0.nic.xn--estv75g.
 xn--estv75g.		172800	IN	NS	a2.nic.xn--estv75g.
 xn--estv75g.		172800	IN	NS	b0.nic.xn--estv75g.
