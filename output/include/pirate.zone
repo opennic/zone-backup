@@ -15,6 +15,8 @@ www.ask.pirate.		86400	IN	NS	ns1.site4now.net.
 www.ask.pirate.		86400	IN	NS	ns2.site4now.net.
 www.ask.pirate.		86400	IN	NS	ns3.site4now.net.
 bellamy.pirate.		86400	IN	TXT	"9999"
+bible.pirate.		86400	IN	A	80.211.222.62
+www.bible.pirate.	86400	IN	CNAME	bible.pirate.
 blahdns.pirate.		86400	IN	A	78.47.113.218
 blahdns.pirate.		86400	IN	AAAA	2a01:4f8:1c0c:465f::1
 brasil.pirate.		86400	IN	A	186.207.68.18
@@ -114,8 +116,8 @@ space.pirate.		86400	IN	NS	ns2.lyci.de.
 spectral.pirate.	86400	IN	A	80.67.181.129
 spectral.pirate.	86400	IN	TXT	"v=spf1 a mx ip4:80.67.181.129 ip6:2001:913:1fff:ffff::b:d12a -all"
 spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-*.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
+*.spectral.pirate.	86400	IN	A	80.67.181.129
 spikestradale.pirate.	86400	IN	A	59.101.6.209
 tahiry.pirate.		86400	IN	A	90.10.163.243
 h.tahiry.pirate.	86400	IN	CNAME	tahiry.pirate.
@@ -147,6 +149,6 @@ yuanjiazhao.pirate.	86400	IN	NS	ns4.geoscaling.com.
 yuanjiazhao.pirate.	86400	IN	NS	ns5.geoscaling.com.
 zio.pirate.		86400	IN	A	2.35.150.84
 zio.pirate.		86400	IN	TXT	"2.35.150.84"
-www.zio.pirate.		86400	IN	A	2.35.150.84
 www.zio.pirate.		86400	IN	TXT	"2.35.150.84"
+www.zio.pirate.		86400	IN	A	2.35.150.84
 zoo.pirate.		86400	IN	A	172.98.197.42
