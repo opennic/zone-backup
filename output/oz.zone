@@ -1,4 +1,4 @@
-oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018121550 3600 7200 604800 86400
+oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018121559 3600 7200 604800 86400
 oz.			86400	IN	NS	ns2.opennic.glue.
 oz.			86400	IN	NS	ns3.opennic.glue.
 oz.			86400	IN	NS	ns4.opennic.glue.
@@ -330,6 +330,8 @@ manual.oz.		86400	IN	NS	ns1.mediatemple.net.
 manual.oz.		86400	IN	NS	ns2.mediatemple.net.
 mario.oz.		86400	IN	NS	ns1.bambusoft.mx.
 mario.oz.		86400	IN	NS	ns3.bambusoft.mx.
+marvelous.oz.		86400	IN	NS	ns1.biz.nf.
+marvelous.oz.		86400	IN	NS	ns2.biz.nf.
 max.oz.			86400	IN	NS	www.baidu.com.
 mcbf.oz.		86400	IN	NS	ns21.cloudns.net.
 mcbf.oz.		86400	IN	NS	ns22.cloudns.net.
