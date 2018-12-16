@@ -158,7 +158,7 @@ opennic.cyb.		86400	IN	MX	0 a.zm.is.
 www.opennic.cyb.	86400	IN	AAAA	2a01:8740:1:ff13::ae67
 www.opennic.cyb.	86400	IN	A	79.124.7.81
 pat.own.cyb.		86400	IN	NS	ns.pat.own.cyb.
-ns.pat.own.cyb.		86400	IN	A	92.163.27.85
+ns.pat.own.cyb.		86400	IN	A	92.163.35.75
 patate.cyb.		86400	IN	NS	ns1.infomaniak.ch.
 patate.cyb.		86400	IN	NS	ns2.infomaniak.ch.
 police.cyb.		86400	IN	A	5.9.155.75
@@ -194,8 +194,8 @@ stavkray.cyb.		86400	IN	CNAME	stavkray.com.
 su.cyb.			86400	IN	A	5.9.155.75
 sy.cyb.			86400	IN	A	108.61.175.237
 sy.cyb.			86400	IN	AAAA	2001:19f0:7402:dc9::1
-pat.sympa.cyb.		86400	IN	A	92.163.27.85
-www.sympa.cyb.		86400	IN	A	92.163.27.85
+pat.sympa.cyb.		86400	IN	A	92.163.35.75
+www.sympa.cyb.		86400	IN	A	92.163.35.75
 tenery.cyb.		86400	IN	A	94.158.47.194
 thewebsite.cyb.		86400	IN	A	192.71.144.235
 toromino.cyb.		86400	IN	CNAME	toromino.de.
