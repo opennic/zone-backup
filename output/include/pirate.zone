@@ -79,7 +79,7 @@ www.muc.pirate.		86400	IN	NS	ns1.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns2.site4now.net.
 www.muc.pirate.		86400	IN	NS	ns3.site4now.net.
 nemo.pirate.		86400	IN	A	84.211.226.1
-nightshade.pirate.	86400	IN	A	59.101.6.209
+nightshade.pirate.	86400	IN	A	59.101.9.188
 nil.pirate.		86400	IN	A	155.254.33.249
 nnm-club.pirate.	86400	IN	A	81.17.30.22
 nudelkurre.pirate.	86400	IN	A	176.10.159.74
@@ -117,7 +117,7 @@ spectral.pirate.	86400	IN	TXT	"v=spf1 a mx ip4:80.67.181.129 ip6:2001:913:1fff:f
 spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
 *.spectral.pirate.	86400	IN	A	80.67.181.129
 *.spectral.pirate.	86400	IN	AAAA	2001:913:1fff:ffff::b:d12a
-spikestradale.pirate.	86400	IN	A	59.101.6.209
+spikestradale.pirate.	86400	IN	A	59.101.9.188
 tahiry.pirate.		86400	IN	A	90.10.163.243
 h.tahiry.pirate.	86400	IN	CNAME	tahiry.pirate.
 tamilrockers.pirate.	86400	IN	NS	clay.ns.cloudflare.com.
