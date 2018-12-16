@@ -81,7 +81,6 @@ p2p.oss.		86400	IN	A	78.47.113.218
 p2p.oss.		86400	IN	AAAA	2a01:4f8:1c0c:465f::1
 pnp.oss.		86400	IN	A	217.25.226.215
 povlsgaard.oss.		86400	IN	A	84.209.2.104
-pypper.oss.		86400	IN	TXT	"keybase-site-verification=dlST-xnSVeOpbINs_fl7LOyRUs96rZb4yASfPc_aJDs"
 reg.oss.		86400	IN	NS	ns1.sourpuss.net.
 reg.oss.		86400	IN	NS	ns2.sourpuss.net.
 register.oss.		86400	IN	A	161.97.219.84
