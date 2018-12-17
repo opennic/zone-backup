@@ -1,4 +1,4 @@
-oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018121730 3600 7200 604800 86400
+oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2018121736 3600 7200 604800 86400
 oz.			86400	IN	NS	ns2.opennic.glue.
 oz.			86400	IN	NS	ns3.opennic.glue.
 oz.			86400	IN	NS	ns4.opennic.glue.
@@ -438,6 +438,8 @@ ns1.paypal.oz.		86400	IN	A	127.0.0.1
 ns2.paypal.oz.		86400	IN	A	127.0.0.1
 pimpomboys.oz.		86400	IN	NS	ns01.000webhost.com.
 pimpomboys.oz.		86400	IN	NS	ns02.000webhost.com.
+piratbit.oz.		86400	IN	NS	ns110.inhostedns.com.
+piratbit.oz.		86400	IN	NS	ns310.inhostedns.org.
 playfortuna.oz.		86400	IN	NS	ns1.elencasino.name.
 playfortuna.oz.		86400	IN	NS	ns2.elencasino.name.
 plush.oz.		86400	IN	NS	ns11.cloudns.net.

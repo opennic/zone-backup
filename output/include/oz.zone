@@ -423,6 +423,8 @@ ns1.paypal.oz.		86400	IN	A	127.0.0.1
 ns2.paypal.oz.		86400	IN	A	127.0.0.1
 pimpomboys.oz.		86400	IN	NS	ns01.000webhost.com.
 pimpomboys.oz.		86400	IN	NS	ns02.000webhost.com.
+piratbit.oz.		86400	IN	NS	ns110.inhostedns.com.
+piratbit.oz.		86400	IN	NS	ns310.inhostedns.org.
 playfortuna.oz.		86400	IN	NS	ns1.elencasino.name.
 playfortuna.oz.		86400	IN	NS	ns2.elencasino.name.
 plush.oz.		86400	IN	NS	ns11.cloudns.net.
