@@ -43,7 +43,7 @@ maistre.dyn.		300	IN	A	148.75.237.47
 me.dyn.			300	IN	A	86.124.246.114
 media.dyn.		300	IN	A	103.82.146.187
 metalyr.dyn.		300	IN	AAAA	2a02:810d:400:f5a:f8af:bd22:8b29:6d16
-micheal65536.dyn.	300	IN	A	88.144.73.122
+micheal65536.dyn.	300	IN	A	88.144.73.255
 momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	46.95.167.107
 mulu-stick.dyn.		300	IN	A	46.95.167.107
