@@ -144,8 +144,8 @@ natrinicle.geek.	86400	IN	A	136.60.193.37
 natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::1
 diaspora.natrinicle.geek. 86400	IN	A	136.60.193.37
 diaspora.natrinicle.geek. 86400	IN	AAAA	2001:470:4b:5b6:aa:aa:aa:46
-wg.natrinicle.geek.	86400	IN	A	136.60.193.37
 wg.natrinicle.geek.	86400	IN	AAAA	2001:470:4b:5b6::25
+wg.natrinicle.geek.	86400	IN	A	136.60.193.37
 nemanja.geek.		86400	IN	A	104.31.78.59
 nightshade.geek.	86400	IN	A	59.101.9.188
 nir.geek.		86400	IN	A	192.30.252.153
@@ -181,9 +181,9 @@ vpshost1.penguinator.geek. 86400 IN	A	185.169.235.5
 vpshost1.penguinator.geek. 86400 IN	AAAA	2a04:92c7:16:31e::1
 vpshost2.penguinator.geek. 86400 IN	A	94.23.214.156
 vpshost2.penguinator.geek. 86400 IN	AAAA	2001:41d0:2:599c::1211:adaf
-phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
 phundrak.geek.		86400	IN	A	82.226.82.83
 phundrak.geek.		86400	IN	TXT	"shorthand for books.drakpa.fr"
+phundrak.geek.		86400	IN	AAAA	2a01:e35:2e25:2530::1
 poppop.geek.		86400	IN	A	81.187.19.191
 radio.geek.		86400	IN	NS	ns1.sourpuss.net.
 radio.geek.		86400	IN	NS	ns2.sourpuss.net.
