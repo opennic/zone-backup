@@ -1,4 +1,4 @@
-cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1544956262 1800 15 604800 3600
+cyb.			86400	IN	SOA	ns12.opennic.glue. hostmaster.opennic.cyb. 1545063181 1800 15 604800 3600
 cyb.			86400	IN	NS	ns2.opennic.glue.
 cyb.			86400	IN	NS	ns3.opennic.glue.
 cyb.			86400	IN	NS	ns4.opennic.glue.
@@ -174,6 +174,8 @@ pat.own.cyb.		86400	IN	NS	ns.pat.own.cyb.
 ns.pat.own.cyb.		86400	IN	A	92.163.35.75
 patate.cyb.		86400	IN	NS	ns1.infomaniak.ch.
 patate.cyb.		86400	IN	NS	ns2.infomaniak.ch.
+pic.piratbit.cyb.	86400	IN	A	78.46.45.120
+test.piratbit.cyb.	86400	IN	CNAME	piratbit.org.
 police.cyb.		86400	IN	A	5.9.155.75
 pool33.cyb.		86400	IN	A	98.117.34.105
 registry.cyb.		86400	IN	A	198.100.149.191
