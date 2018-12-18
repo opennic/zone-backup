@@ -16,8 +16,8 @@ register.gopher.	86400	IN	AAAA	2001:470:4212:1::254
 www.register.gopher.	86400	IN	A	173.160.58.202
 root.gopher.		86400	IN	A	127.0.0.1
 sdf.gopher.		86400	IN	A	205.166.94.15
-simple.gopher.		86400	IN	A	24.8.113.78
 simple.gopher.		86400	IN	AAAA	2601:285:500:30a:e291:f5ff:fe95:c091
+simple.gopher.		86400	IN	A	24.8.113.78
 stjohn.gopher.		86400	IN	A	74.207.243.202
 stjohn.gopher.		86400	IN	AAAA	2600:3c01::f03c:91ff:fe24:69e8
 test.gopher.		86400	IN	A	127.0.0.1

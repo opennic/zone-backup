@@ -18,8 +18,8 @@ opennic.indy.		86400	IN	AAAA	2001:470:4212:1::254
 orbitalfox.indy.	86400	IN	A	95.172.232.202
 reg.indy.		86400	IN	A	161.97.219.84
 reg.indy.		86400	IN	AAAA	2001:470:4212:1::254
-register.indy.		86400	IN	A	161.97.219.84
 register.indy.		86400	IN	AAAA	2001:470:4212:1::254
+register.indy.		86400	IN	A	161.97.219.84
 root.indy.		86400	IN	A	127.0.0.1
 spikestradale.indy.	86400	IN	A	59.101.9.188
 test.indy.		86400	IN	A	104.131.78.30
