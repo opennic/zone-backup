@@ -28,7 +28,6 @@ redir.calicojack.pirate. 86400	IN	CNAME	heise.de.
 www.calicojack.pirate.	86400	IN	A	93.204.59.61
 caribe.pirate.		86400	IN	A	78.140.223.144
 cat.pirate.		86400	IN	A	155.254.35.135
-club.pirate.		86400	IN	A	213.166.68.87
 crumax.pirate.		86400	IN	A	127.0.0.1
 den.pirate.		86400	IN	A	64.137.170.29
 www.durdom.pirate.	86400	IN	CNAME	durdomawilnbtbai.onion.
