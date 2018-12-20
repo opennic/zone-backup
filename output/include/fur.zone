@@ -11,6 +11,8 @@ amped.fur.		300	IN	A	173.230.240.100
 www.amped.fur.		300	IN	A	173.230.240.100
 anime.fur.		300	IN	CNAME	new.fur.
 www.anime.fur.		300	IN	CNAME	www.new.fur.
+anonymous.fur.		300	IN	NS	a.dns.anonymous.support.
+anonymous.fur.		300	IN	NS	c.dns.anonymous.support.
 anti.fur.		300	IN	A	131.234.194.142
 www.anti.fur.		300	IN	A	131.234.194.142
 Anubis.fur.		300	IN	CNAME	new.fur.

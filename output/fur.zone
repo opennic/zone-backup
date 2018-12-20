@@ -1,4 +1,4 @@
-fur.			300	IN	SOA	ns15.nic.fur. furnic-operators.fellig.org. 565802 604800 86400 2419200 1200
+fur.			300	IN	SOA	ns15.nic.fur. furnic-operators.fellig.org. 565808 604800 86400 2419200 1200
 fur.			300	IN	TXT	"test=1375673070"
 fur.			300	IN	NS	ns2.opennic.glue.
 fur.			300	IN	NS	ns4.opennic.glue.
@@ -21,6 +21,8 @@ amped.fur.		300	IN	A	173.230.240.100
 www.amped.fur.		300	IN	A	173.230.240.100
 anime.fur.		300	IN	CNAME	new.fur.
 www.anime.fur.		300	IN	CNAME	www.new.fur.
+anonymous.fur.		300	IN	NS	a.dns.anonymous.support.
+anonymous.fur.		300	IN	NS	c.dns.anonymous.support.
 anti.fur.		300	IN	A	131.234.194.142
 www.anti.fur.		300	IN	A	131.234.194.142
 Anubis.fur.		300	IN	CNAME	new.fur.
