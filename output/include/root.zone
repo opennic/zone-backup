@@ -9841,13 +9841,13 @@ mv.			172800	IN	NS	mv-ns.anycast.pch.net.
 ns.dhivehinet.net.mv.	172800	IN	A	202.1.192.196
 ns2.dhivehinet.net.mv.	172800	IN	A	202.1.201.201
 mw.			172800	IN	NS	mw.cctld.authdns.ripe.net.
+mw.			172800	IN	NS	ns4.apnic.net.
 mw.			172800	IN	NS	rip.psg.com.
-mw.			172800	IN	NS	sec3.apnic.net.
 mw.			172800	IN	NS	domwe.sdn.mw.
 mw.			172800	IN	NS	chambo.sdnp.org.mw.
 chambo.sdnp.org.mw.	172800	IN	A	41.221.99.135
 chambo.sdnp.org.mw.	172800	IN	A	196.45.188.5
-domwe.sdn.mw.		172800	IN	A	41.221.99.149
+domwe.sdn.mw.		172800	IN	A	41.87.5.162
 domwe.sdn.mw.		172800	IN	A	196.45.190.9
 mx.			172800	IN	NS	c.mx-ns.mx.
 mx.			172800	IN	NS	e.mx-ns.mx.
