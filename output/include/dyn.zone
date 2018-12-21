@@ -5,7 +5,7 @@ arttek.dyn.		300	IN	A	171.25.193.77
 athome.dyn.		300	IN	A	77.56.251.145
 azziez-remote.dyn.	300	IN	A	65.34.48.27
 be.dyn.			300	IN	A	103.82.146.187
-bristow.dyn.		300	IN	A	86.121.47.128
+bristow.dyn.		300	IN	A	188.24.148.33
 bristow.dyn.		300	IN	AAAA	2a02:2f0e:d46f:ffff::bc18:b410
 cdn.dyn.		300	IN	A	114.4.216.59
 chadnet.dyn.		300	IN	A	59.101.9.188
@@ -47,8 +47,8 @@ momoka.dyn.		300	IN	A	181.110.7.225
 muellerlukas.dyn.	300	IN	A	95.117.121.127
 mulu-stick.dyn.		300	IN	A	95.117.121.127
 nemo.dyn.		300	IN	A	84.211.226.1
-neo.dyn.		300	IN	A	93.204.50.237
 neo.dyn.		300	IN	TXT	"888"
+neo.dyn.		300	IN	A	93.204.50.237
 nightshade.dyn.		300	IN	A	59.101.9.188
 nokeh.dyn.		300	IN	NS	ns1.geoscaling.com.
 nokeh.dyn.		300	IN	NS	ns2.geoscaling.com.
